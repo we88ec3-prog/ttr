@@ -1,0 +1,9 @@
+00000089	Tartaros
+0000009b	>]5q>]
+000000bf	hTartaros
+0000012d	Tartaros.exe
+00000169	Tartaros.exe
+000001be	E:\Tartaros\ins\Tartaros.exe
+000001de	.\Tartaros.exe
+000001fc	E:\Tartaros\ins
+0000022e	desktop-mipg6lv

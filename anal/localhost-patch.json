@@ -1,0 +1,46 @@
+{
+  "source_sha256": "9741d1975327b9309d82b52f631165bc410757694d7c183a5eed970a53ebef91",
+  "patched_sha256": "2ba82f13e2a46179503424889a72cbea59d8c595c07cdea6535e0dd6a7f757c7",
+  "patches": [
+    {
+      "file_offset": "0x3fae5",
+      "old": "f4000000",
+      "new": "01000000"
+    },
+    {
+      "file_offset": "0x3faea",
+      "old": "23",
+      "new": "00"
+    },
+    {
+      "file_offset": "0x3faec",
+      "old": "86",
+      "new": "00"
+    },
+    {
+      "file_offset": "0x3faee",
+      "old": "a1",
+      "new": "7f"
+    },
+    {
+      "file_offset": "0x3fb2d",
+      "old": "04",
+      "new": "01"
+    },
+    {
+      "file_offset": "0x3fb2f",
+      "old": "da000000",
+      "new": "00000000"
+    },
+    {
+      "file_offset": "0x3fb34",
+      "old": "c6",
+      "new": "00"
+    },
+    {
+      "file_offset": "0x3fb36",
+      "old": "92",
+      "new": "7f"
+    }
+  ]
+}

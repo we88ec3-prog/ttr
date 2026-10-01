@@ -1,0 +1,3181 @@
+0000004d	!This program cannot be run in DOS mode.
+000000d8	RichB
+000001f0	.text
+00000217	`.rdata
+0000023f	@.data
+00000268	.rsrc
+00002e20	PQQSVW
+000111a6	|$(hX%M
+000111fd	L$ _^[3
+0001121f	D$(WP
+00011916	Y_^][
+00011b4e	D$ VSUP
+00011c34	t?h|%M
+00011e48	~$_[Y
+000121dd	PSUVW
+00012257	Y_^][
+0001227d	PSUVW
+000122f7	Y_^][
+0001299b	J< s:
+000129f7	L$,^[3
+000131cd	PSUVW
+00013278	Y_^][
+000132bd	PSUVW
+00013368	Y_^][
+0001338d	PSUVW
+00013431	Y_^][
+00013acd	Qh8&M
+00013b0a	Rh8&M
+00013c6d	D$p 'M
+00013ebd	PSUVW
+00013fa3	L$4Q3
+00013fbb	Y_^][
+00013fdd	PSUVW
+000140c4	L$4Q3
+000140dc	Y_^][
+0001436d	PQSVW
+0001448d	PQSUVW
+000144f6	nlhX%M
+00014527	Y_^][
+0001453d	PQSUVW
+000145e8	Y_^][
+0001460d	PQSUVW
+000146b8	Y_^][
+000147c9	D$ SUVW
+00014809	w&9\$0t j
+000148db	Y_^][
+00014959	D$ SUVW
+00014a18	T$ R3
+00014a3b	Y_^][
+00014a7c	uP8^DuD
+00014b1c	uN8^DuB
+00014ff9	D$8SUW
+000150d5	Ph(&M
+00015170	Ph8&M
+000152ad	PSUVW
+0001532d	Y_^][
+000153bc	Ph<&M
+00015420	SUVjD
+0001550e	PhH&M
+0001567d	PSUVW
+00015728	Y_^][
+0001574d	PSUVW
+000157f8	Y_^][
+0001581d	PSUVW
+000158dd	Y_^][
+000159a9	Ph`&M
+000159ba	t hp&M
+00015c00	SUVjD
+00016b84	FL('M
+000172dd	PQSVW
+00017327	F09^(u
+000175b9	D$<SV
+000178df	D$PSVW
+00017afc	L$(j@Q
+00017b0f	T$$RPSV
+00017b7c	L$(j@Q
+00017b8f	T$$RPSV
+00017c00	T$,j@R
+00017c13	D$$PQSV
+00017c80	T$,j@R
+00017c93	D$$PQSV
+00017e4b	T$`jlR
+00017e63	t$HWS
+00017e69	D$`PQRV
+0001801b	T$`jlR
+00018033	t$HWS
+00018039	D$`PQRV
+00018180	PQSVW
+000181fc	F09~(u
+0001823d	PQSVW
+000184a9	D$`SUVW
+000186fe	9|$Ps
+00018835	r9t$ v6
+000188e6	T$0UR
+00018950	D$(PQR
+000189e2	L$8UQ
+00018a95	D$8UP
+00018b24	Y_^][
+00018bd9	D$8SUVW
+00018c86	<+t'<-t#<0u
+00018d62	D$xQRP
+00018d81	L$xWPQ
+00018deb	T$ PQRS
+00018df3	D$8UP
+00018e49	Y_^][
+0001911d	PQSVW
+0001929a	l$$VW
+000192bd	L$8VPQ
+000192e0	T$<t2
+00019310	T$<EK
+0001955d	QRj P
+0001957d	QRj@P
+00019cf4	Y_^][
+0001a264	D$ V3
+0001a474	A@;L$
+0001a715	VhX%M
+0001a743	>_uQW
+0001a9e9	WhX%M
+0001aa2a	D$ Vj
+0001aa6a	ta8D$
+0001aaee	D$ Vj
+0001ab8f	uX8GD
+0001ae12	uO8FD
+0001afa7	8^DuC
+0001b144	D$$PW
+0001b1c3	D$,PW
+0001b21c	L$<QW
+0001b2fa	T$$j0
+0001b32b	9t$8s
+0001b363	9t$8r
+0001b43a	T$<RUV
+0001b475	Y_^][
+0001b53d	PQSUVW
+0001b760	Y_^][
+0001b78f	D$`SVW
+0001b8c4	D$$D)M
+0001b950	T$(R3
+0001bb49	D$(SUVW
+0001bd65	SVGWP
+0001bec4	L$(Q3
+0001bede	Y_^][
+0001bf0d	PSUVW
+0001bf6e	<<tijH
+0001c072	Y_^][
+0001c1d5	ts<<uo
+0001c1dc	} hX%M
+0001c1f5	t'<>t(P
+0001c3d1	K hX%M
+0001c552	<"u!h$&M
+0001c578	}0hX%M
+0001c789	D$(SUVW
+0001c7ad	} hX%M
+0001c7f9	L$XQS
+0001c8a8	L$XQS
+0001c95a	Y_^][
+0001cb3b	ODhX%M
+0001cb4f	O`hX%M
+0001cb61	|hX%M
+0001cbdf	D$$0)M
+0001cc89	D$x0)M
+0001ce27	L$(Q3
+0001ce44	Y_^][
+0001d08c	A 98t
+0001d093	Q09:~
+0001d4e7	t$ WV
+0001df67	p<O#|$
+0001dfae	^(9^$u
+0001dfc0	N h0%
+0001e06f	9n4u(
+0001e0d9	F,^]3
+0001e121	V,^]3
+0001e147	N,_^]3
+0001e640	O@;H s
+0001e700	O@;H(s
+0001e9db	T$$QUR
+0001e9e7	D$ )D$
+0001ea82	Oh;O\sR
+0001eae0	9Ghs%
+0001eb03	Gh9Ghr
+0001eb75	G`9Gh
+0001ecab	L$,uA
+0001ed6f	G`9Gh
+0001ef41	L$ H#
+0001f109	L$ H#
+0001f219	O,+L$
+0001f220	L$(9ODv
+0001f24a	L$(+L$
+0001f355	D$(+D$
+0001f378	L$$P+
+0001f38e	D$$Q+
+0001f4d2	T$(;P
+0001f507	l$8+n
+0001f50e	\$(+^
+0001f5a3	D$0^][_
+0001f834	A9{<s
+0001f91b	N(Uh0%
+0001fd32	<SUVW
+0001fd57	+T$TN
+0001fe5b	D$Tt*;
+0001feea	L$$J#
+0001ffc3	;l$TsY)l$T
+0001ffdd	L$4;D$Ts<)D$T
+00020008	;l$Ts
+00020179	x<_^]
+00020a4b	LLX@;
+00020b8e	TTx@;
+00020d50	t$H;t$4
+00020d84	;T$ s 
+00020da0	;T$ r
+00020e2a	;D$4t
+00020e9c	_^][3
+00020ebd	PQSUVW
+00020f48	Y_^][
+000210a5	L$lQP
+0002112d	PQSVW
+00022068	R(NVQ
+00022297	T$0PQWR
+000224b5	w\)w`
+000225f0	W ;G$r
+00022626	O\)O`3
+00022735	L$<+O
+0002288f	7)2^t
+00022a70	HSUVW
+00022afb	Y_^][
+00022cb0	XSUVW
+00022d7c	L$|+]
+00022d9c	;] vk
+00022da8	E,+E@
+00022e23	|$|PU
+00022e41	r]9E<rX
+00022f14	|$|+]<
+0002301d	Y_^][
+00023046	vT9F<
+000231f1	L$ PV
+000234ed	u9hL3M
+00023634	t:hx3M
+000239f7	9nLsZ
+00023a62	s,;~\u
+00023acc	_][^Y
+00023c2b	tEhX4M
+00023c3c	L$TQj
+00023c81	D$pPj
+00023ce7	@ SRV
+00023df5	L$8Qj
+00023ea7	Y_^][
+00023fad	PSUVW
+0002405a	Y_^][
+00024363	Rh$2M
+0002451e	V\QSR
+000245ca	\$<;~Lu
+0002471e	T$(RPQ
+00024986	D$pQRP
+00024b57	L$HQhh2M
+00024b6d	L$LQh$2M
+00024ba7	Y_^][
+00024ef4	D$pQRP
+0002506b	~ _^Y
+000250db	QUWSh
+0002517c	QWUSh
+000251e5	~ _^]3
+00025437	U(PWS
+0002545c	NXPWQ
+00025524	|$@WSP
+0002574b	L$,Qj
+0002591d	u=h 6M
+00025a31	Whp6M
+00025cc6	D$ Pj
+000266bc	D$ SV+
+0002671a	SQRWP
+00026957	D$0PQ
+00026bda	WtRUV
+00026e2d	PSUVW
+00026ec9	Y_^][
+00026f19	\$ UV
+00026f49	D$$SP
+00026fb1	L$$UPSQ
+00027406	D$ Pj
+00027506	D$ Pj
+0002775c	9T$4r
+00027803	9D$,r
+00027acc	t$$;u
+00027b04	9T$$r
+00027c58	9T$$r
+00027d88	9L$\r
+00027e41	D$<9E
+00028114	9T$|r
+00028178	9L$lr
+0002822c	D$$;u
+00028314	9T$Tr
+00028497	9D$dr
+00028548	t$<;E
+0002862a	9L$tr
+00028723	9T$Lr
+00028787	9L$,r
+00028881	9L$Dr
+000288e5	9D$4r
+00028d5f	L$4PQVR
+00028d86	D$ RQP
+00028f1c	~'QVRW
+00028f72	t$,;u
+00028fb6	9T$,r
+00029087	D$P;F
+000290c1	D$(PRQW
+000290cd	L$`VQ
+00029138	9D$$r
+00029179	T$T;P
+00029188	L$P;H
+000291c4	9T$$r
+00029644	9T$$r
+000296df	9L$,r
+00029768	9D$4r
+00029828	9D$4r
+000298a6	9T$,r
+000299b0	T$$PQR
+00029b99	9T$$r
+00029c4e	9T$$r
+00029cb8	D$,SUV
+00029d28	T$\QR
+00029d40	0_^][
+00029daa	T$$PQWU
+00029db6	L$<QSR
+00029e51	t$XRP
+00029e81	t$$9t$
+00029ebf	9D$$r
+00029f28	9T$,r
+0002a2b6	D$4WP
+0002a2fa	T$PWR
+0002a392	Y_^][
+0002a778	T$xRP
+0002acb4	D$0hl@M
+0002af0d	PQSUVW
+0002af87	Y_^][
+0002b378	@8QWR
+0002bf5c	Y_^][
+0002c4ec	D$0SU
+0002c51a	Y_^][
+0002c7b7	T$lQR
+0002ca9f	D$,VW
+0002cb17	D$$\EM
+0002cbaf	D$,VW
+0002cc2c	D$,\EM
+0002d023	D$(PS
+0002d039	u59D$ u
+0002d44d	PSUVW
+0002d4ca	Y_^][
+0002d57e	L$$Qj
+0002d601	|$,WP
+0002d7dd	PSUVW
+0002d860	Y_^][
+0002d917	L$(Qj
+0002d99d	|$(WP
+0002df6b	P<VQS
+0002dfb7	P,QWS
+0002dfe7	P,QWS
+0002e017	P@QWS
+0002e22b	u=hHDM
+0002e292	L$lSQ
+0002e71a	T$,PQR
+0002e829	D$@SUVW
+0002e87e	\$`~Q3
+0002e92f	Y_^][
+0002e999	D$@SUVW
+0002ea7e	Y_^][
+0002eb8d	PQUVW
+0002ebca	L$(RQ
+0002f12b	D$4Pj
+0002f199	D$<SUVW
+0002f251	Y_^][
+0002f5a2	Qh,IM
+0002f5b5	L$ Qh IM
+0002f5cb	L$@Qh
+0002f5e1	L$XQh
+0002f5f4	T$$Rh8IM
+0002f605	D$$D7M
+0002f6e7	D$0PQ
+0002f976	D$ Pj
+0002fa66	D$ Pj
+0002fb80	LSUVW
+0002fbfa	L$pQh
+0002fc68	Y_^][
+0002fcf7	QWSUh
+0002fd64	F +F,
+0002fd97	F +F,
+0002fdb9	N(;N$
+0002fec2	N(_^]3
+0002fee0	HSUVW
+0002ff83	Y_^][
+00030018	QWUSh
+0003007b	F8RUP
+000300d9	F(9V,}
+000300e1	N(;N$
+0003010a	QUSWh
+00030169	N(_^]3
+00030283	L$4Qh
+000302e6	8\$4t
+000303fd	N0+N4
+0003046a	F4;F0u
+000304f6	_^][Y
+00030529	UWSQh
+00030acc	v=hTJM
+00030d21	L$$)\$(u
+00030edb	u=htJM
+000310c0	V(WUR
+000313ac	]_^[Y
+000313be	]_^[Y
+00031a9c	oD$,f
+00032531	L$,1T$
+000326cd	L$$3~
+000334f1	w][_^
+000338cb	PQh`AC
+00033eff	D$@t@
+00033f48	T$$QR
+00033f96	oL$@f
+00033fac	o\$Pf
+00033fba	oD$0f
+00033fc0	oL$@f
+00033fc6	oT$`f
+00034064	T$$QR
+000340d1	L$|_^[3
+00034282	u _^]3
+00034a86	D$$WP
+00034d82	L$d_^[3
+00034e76	u1hhKM
+00035368	D$ PV
+000356e8	D$ PV
+00035b98	WRPQS
+00035dbb	D$(QRPVS
+00035f30	L$(QV
+00036a42	 SUVW
+00036bee	D$(QRV
+00036c77	D$ VQR
+000374b2	 SUVW
+0003765e	D$(QRV
+000376e9	D$ VQR
+000387a4	L$(RPSQV
+000389d5	L$$RPQV
+00038a65	L$$RPQV
+00038bd5	L$$RPQV
+00038c65	L$$RPQV
+00038e94	;E tl
+00038f55	;E tk
+000390c4	T$8WP
+000390cf	L$<RPQ
+0003922d	\$ VW+
+00039282	T$LWP
+0003928d	L$PRPQ
+000392bd	\$ V+
+00039314	T$LWP
+0003931f	L$PRPQ
+0003944d	\$ VW+
+000394a2	T$LWP
+000394ad	L$PRPQ
+000394dd	\$ V+
+00039534	T$LWP
+0003953f	L$PRPQ
+00039570	;D$ t~
+00039960	9D$,r
+000399bb	T$,_^]
+00039a71	D$$9D$
+00039ab8	9D$$r
+00039b2e	9D$,r
+00039b7c	T$,_^]
+00039c50	9D$,r
+00039cab	T$,_^]
+00039d01	D$$9D$
+00039d49	9D$$r
+00039dc0	9D$,r
+00039e07	T$,_^]
+00039ee2	9D$,r
+00039f36	T$,_^]
+0003a563	T$ SR
+0003a59d	PQSUV
+0003a75d	PSUVW
+0003a8c1	Y_^][
+0003aacd	PQSUVW
+0003ab37	;T$(t
+0003ab3e	T$(UR
+0003ac0f	Y_^][
+0003ad48	s=hlMM
+0003af81	D$,\EM
+0003b048	D$$WQ
+0003b0db	)w )t$
+0003b1d3	L$T_^[3
+0003b20d	PSUVW
+0003b2ef	Y_^][
+0003b33d	PQSUVW
+0003b410	Y_^][
+0003b526	L$t_^[3
+0003b7fa	D$$\EM
+0003b8b1	D$,\EM
+0003ba0d	~$)~()|$
+0003baac	D$$HLM
+0003baee	L$H^[3
+0003be3e	L$ Qh
+0003be5a	T$ Rh
+0003ce3b	D$(Ph 
+0003cfc4	RPSQW
+0003d1b0	D$ WP
+0003d31b	D$ SU
+0003d321	l$4VW
+0003d430	L$0_^][3
+0003d7b9	D$<SUVW
+0003d7e6	D$4j 3
+0003d80a	L$4j Q
+0003d8f9	Y_^][
+0003d92e	~\wu+j
+0003ddc6	P8hXOM
+0003ddff	D$)SP
+0003dec4	Y_^][
+0003e409	WUSQh
+0003ed43	D$D\RM
+0003ed4b	D$HxRM
+0003ef4d	D$$9D$
+0003efcb	-DPTSt 
+0003f05d	PQSVW
+0003f742	D$8\RM
+0003f74a	D$<xRM
+0003f909	=IPTSt&
+0003f9c4	Y_^][
+0003fd32	Y_^][
+0003fdf7	D$4\RM
+0003fe16	\$DSh
+0003fe48	=DPTSt(
+0003fe54	D$4\RM
+0004000d	D$4\RM
+00040015	D$8xRM
+00040040	Y_^][
+00040104	D$4\RM
+0004010c	D$8xRM
+0004033a	D$4\RM
+00040342	D$8xRM
+00040a8f	D$4SU
+00040c0e	L$4_^][3
+00040e37	PL+T$
+00040efd	PSUVW
+00040fc0	Y_^][
+00040fdd	PSUVW
+000410a0	Y_^][
+0004114d	PQSUV
+0004126d	PQSUVW
+00041297	\$ 9^@
+000412b6	t,9_$u 9_
+00041364	Y_^][
+00041390	9~$u 9~
+00041495	D$ xRM
+0004163a	D$ \RM
+00041642	D$$xRM
+000417a1	t,9n$u 9n
+00041b58	DPTSt)
+00041c20	D$(jX
+00041ce3	m()\$(
+00041cf8	_4_^]3
+00041d86	t>9NDu$;r0u
+0004287d	PQSVW
+00042963	u^Vh(
+00042bce	T$@@PR
+00042c0b	T$$@PR
+00042dfa	L$,@PQ
+00042e6d	;T$$tE
+00043039	D$@SUVW
+000430f4	Y_^][
+000434e6	l$(VW
+000435e7	;D$$u0
+0004371a	l$,WS
+00043b0b	T$$;T$
+00043b57	L$,;L$
+00043bd5	D$$;D$,
+00043da1	!8\$pt
+000443c0	LSUVW
+00044570	8X,t_
+000446b1	Y_^][
+00044749	^ 9n$r
+0004476a	D$49h
+0004598f	D$dSU3
+00045aa5	D$l9D$
+00045ab3	t0<wuH
+00045b63	~\wu;j
+00045b6a	SSSSSSj
+00045bd2	L$h_][3
+00045c55	~\wu<
+00045e96	F\<wu
+00045f6e	t+9~lt&
+0004601e	)Vd)Nh
+00046058	;FLuR
+000460ed	N@QPj
+00046198	y\ru.;
+0004619f	t*9Qlu%
+00046286	)Od)Wh
+000463fe	OHPVj
+000464ed	\wVun
+00046648	z\ru;
+00046663	rL9rXu
+00046769	~\wu2j
+000468b7	CP^_[
+0004691d	F(9F$u
+00046b1d	V8WUR
+00046bac	ta9x t\9x$tW
+00047172	9N sf
+00047401	u ;\$
+000479ba	Wt9T$
+00047b61	~<+~t
+00047b8f	FD)np)nl
+00047f01	Nl#N4
+00047f66	Vlf+Vp
+00048067	Nl#N4
+000481e7	_^][H
+00048277	Nl#N4
+00048312	Vl+Vp
+00048339	Vlf+Vd
+0004841b	Nl#N4
+0004865c	_^][H
+00048842	 SUVW
+00048912	;T$$f
+00048add	L$(^[3
+000495f5	T$ JR
+00049608	_^][Y
+0004b582	RhhvL
+0004baaa	B @yL
+0004ce99	jMj\h
+0004d8ee	Ph$yL
+000535e0	t%hxxx
+00053606	#h222
+0005c16b	jjjjjjj
+0005c33b	jjjjjjj
+0005c3ab	jjjjjjjj
+0005c413	jjjjjjjj
+0005e7c0	PQQSVW
+0005f330	PQQSVW
+00060093	jjjjj
+000632fa	A0`~L
+00063304	B4D~L
+0006330e	@8(~L
+00064167	Ph$|L
+000642a5	Ph$|L
+00064e7d	jjjjj
+00069d08	Ph$|L
+000714e3	u%hX%M
+0007152d	u%hX%M
+000716d1	jjjjjj
+00074cb0	jjjjjjj
+00077569	jjjjj
+00079297	jjjjjh
+0007a40c	RhX%M
+00080873	jjjjjjjj
+00085571	SVWj>3
+00085821	_9>t&j
+00085a00	G;~0|
+00085c2f	9~$~ S
+00085c4d	G;~$|
+00085d8c	t*PWV
+000863a1	QQSVWd
+0008662b	jjjjj
+000868fd	SSSSS
+00086948	VhmtH
+000869b6	WWWWW
+00086a3f	WWWWW
+00086ab3	WWWWW
+00086c21	VVVVV
+00086c9e	VVVVV
+00086ce5	f93u 
+00086d68	_VVVVV
+00086f92	SSSSS
+00086fc2	SSSSS
+0008706e	HH_^[
+000870da	VVVVV
+00087118	WhXiI
+0008713f	VVVVV
+00087182	SSSSS
+000871ea	@PVhXiI
+00087214	WVhXiI
+00087267	SSSSS
+000875d4	0WWWWW
+0008764d	0WWWWW
+00087a30	PPPPP
+00087ac8	0WWWWW
+00087af3	AAFFf;
+00087e32	SSSSS
+00087ef0	VVVVV
+000880e9	SSSSS
+00088159	@AA;E
+0008977f	0;1t|
+0008af91	SSSSS
+0008b160	^SSSSS
+0008b184	^SSSSS
+0008b2c3	0SSSSS
+0008b430	VVVVV
+0008b4ca	VVVVV
+0008b87e	SSSSS
+0008b8b4	SSSSS
+0008b94d	VVVVV
+0008b9a8	VVVVV
+0008b9df	VVVVV
+0008ba37	 CCGG
+0008bab3	VVVVV
+0008bafa	 GGBB
+0008bb5f	0WWWWW
+0008bb99	@@BBf;
+0008bbad	@@BBf;
+0008bf8a	VVVVV
+0008c217	WWWWW
+0008c2db	VVVVV
+0008c323	SSSSS
+0008c3eb	_VVVVV
+0008c488	SSSSS
+0008c4c7	SSSSS
+0008c569	VVVVV
+0008c7a1	PPPPP
+0008c820	VVVVV
+0008ca07	YQPVh
+0008cb7a	9] uP
+0008cb81	9] tI9]$u?9](u?
+0008cba1	>:u6;
+0008cc64	9E vKP
+0008cc87	9u(v(V
+0008ccaf	9u wf
+0008ccf8	^SSSSS
+0008cf9d	SSSSS
+0008d164	WWWWW
+0008d1ef	WWWWW
+0008d270	WWWWW
+0008d2fb	WWWWW
+0008d36d	WWWWW
+0008d4cf	SSSSS
+0008d4ff	SSSSS
+0008d57f	HH_^[
+0008d5eb	SSSSS
+0008d64d	SSSSS
+0008d691	SSSSS
+0008d770	SSSSS
+0008d832	VVVVV
+0008d866	VVVVV
+0008d896	PPPPPPPP
+0008d8f9	SSSSS
+0008e251	SSSSS
+0008e429	QSSSj
+0008e4e0	^SSSSS
+0008e57b	SSSSS
+0008e6e5	0SSSSS
+0008e8d0	PPPPP
+0008e8f6	WWWWW
+0008e975	VVVVV
+0008ea41	VVVVV
+0008ec42	0SSSSS
+0008ecb4	SSSSS
+0008ed60	SSSSS
+0008edf6	VVVVV
+0008ef05	8VVVVV
+0008efc2	~,WPV
+0008f196	SSSSS
+0008f340	VVVVV
+0008f438	VVVVV
+0008f4b9	0SSSSS
+0008f549	9] uO
+0008f550	9] tH9]$u>9](u>
+0008f570	>:u5;
+0008f62d	9E vEP
+0008f64f	9u(v#V
+0008f672	9u wf
+0008f6bb	^SSSSS
+0008f82c	Y__^[
+0009043d	I=csm
+00090590	s[S;7|G;w
+000909df	tR99u2
+00090a35	@_^[]
+00090af6	PPPPP
+00090b46	PPPPP
+00090ce2	QW@Ph
+0009126a	Y_^[]
+000914aa	VVVVV
+000916de	SSSSS
+00091742	SSSSS
+000917db	PPPPP
+0009183b	SSSSS
+00091906	PPPPP
+00091aac	VVVVV
+00091bae	VVVVV
+00091c11	VVVVV
+00091d45	PPPPP
+0009206d	VVVVV
+000920ce	vSSSh
+00092276	SSSSS
+00092401	u8SS3
+00092499	9]$SS
+000925e0	t"SS9]
+00092a01	^SSSSS
+00092a25	^SSSSS
+00092b4b	0SSSSS
+00092ccf	Y__^[
+0009336e	WWWWW
+000934ed	VVVVV
+00093529	VVVVV
+00093d7e	WWWWW
+00093fde	VVVVV
+00094049	VVVVV
+00094713	WWWWW
+000947e2	WWWWW
+00094850	tVHtG
+000948e0	tCHt/
+00094b9b	URPQQh
+00094df3	QQQQQ
+00094f9f	QQQQQ
+00095c5b	PPPPP
+00095dd0	PPPPP
+00096954	ji_jdZf;
+00096979	Xt"f;
+0009699b	Xupf;
+00096b67	SSSSS
+000974d5	VVVVV
+00097acd	Kf90t
+00097ce4	It.It+It!It
+00097cf0	It"IIuQ
+00097d55	PPPPP
+00097d64	SSSSS
+000984ac	_VVVVV
+00098576	SSSSS
+00098635	SSSSS
+00098721	^WWWWW
+00098aa7	PPPPP
+00098baf	SSSSS
+00098c87	SSSSS
+00098e4a	VVVVV
+00098f4a	VVVVV
+00098f8e	PPPPP
+00098fd1	VVVVV
+00098ff5	VVVVV
+0009901a	VVVVV
+000991e6	SSSSS
+00099460	VVVVV
+000994a7	VVVVV
+0009a0e2	VVVVV
+0009a126	VVVVV
+0009a566	wIVSP
+0009a9a6	PPPPP
+0009aa74	, <Xw
+0009aaf2	t%HHt
+0009ad31	HHtXHHt
+0009ae21	HHty+
+0009b28e	>If90t
+0009b4e8	j@j ^V
+0009b577	[j@j 
+0009b792	VVVVV
+0009b82c	VVVVV
+0009be8d	0A@@Ju
+0009c364	WWWWW
+0009c4fb	VW|[;
+0009c5ce	VVVVV
+0009ca26	WWWWW
+0009cadd	<at9<rt,<wt
+0009caee	SSSSS
+0009cb62	tVHtG
+0009cbfa	tEHt1
+0009cca7	>=upF
+0009cd20	SSSSS
+0009cdf6	WWWWW
+0009cf5e	SSSSS
+0009d016	SSSSS
+0009d51d	VVVVV
+0009d6c3	>=Yt1j
+0009d6d6	tPVWP
+0009d6e9	PPPPP
+0009d8a4	QQSVWh
+0009e133	SSSSS
+0009e1cb	VVVVV
+0009e3ba	VVVVV
+0009e3dc	@SuzP
+0009e43f	VVVVV
+0009ed1d	^F<-uB
+0009ed2b	]t7F:
+0009edf1	<xtX<XtT
+0009f44d	VVVVV
+0009f46f	@SuzP
+0009f4d2	VVVVV
+0009fe21	jF<-uH
+0009fe2f	]t=F:
+0009ff04	<xtV<XtR
+000a04d1	PPPPP
+000a0532	WWWWW
+000a07f2	SSSSS
+000a0c0c	PPPPP
+000a0d6e	t$HHt
+000a0faf	HHtYHHt
+000a10a0	HHty+
+000a17b9	tM<it-<ot)<ut%<xt!<Xt
+000a19bb	WWWWW
+000a1ae8	, <Xw
+000a1b53	8$u%9
+000a1c83	t%HHt
+000a1f0a	<dty<itu<otq<utm<xti<Xte
+000a293d	HIf98t
+000a2c2b	WWWWQ
+000a330a	SSSSS
+000a33ca	<+t(<-t$:
+000a34de	+t HHt
+000a3ab3	WWWWW
+000a3c0c	SSSSS
+000a3d8d	9] SS
+000a4089	9~\u'
+000a4232	PPPPP
+000a42cc	PPPPP
+000a4423	Pj1Q3
+000a44b5	F Pj*
+000a44cd	F$Pj+
+000a44e2	F(Pj,
+000a44f7	F,Pj-
+000a450c	F0Pj.
+000a4524	F4Pj/
+000a454e	F8PjD
+000a4563	F<PjE
+000a457b	F@PjF
+000a4590	FDPjG
+000a45a5	FHPjH
+000a45ba	FLPjI
+000a45d2	FPPjJ
+000a45e7	FTPjK
+000a45fc	FXPjL
+000a4611	F\PjM
+000a4629	F`PjN
+000a463e	FdPjO
+000a4653	FhPj8
+000a4668	FlPj9
+000a4680	FpPj:
+000a4695	FtPj;
+000a46aa	FxPj<
+000a46bf	F|Pj=
+000a4e21	C PjPV
+000a4e35	C$PjQV
+000a4e74	C*PjTV
+000a4e88	C+PjUV
+000a4e9c	C,PjVV
+000a4eb3	C-PjWV
+000a4ec7	C.PjRV
+000a4edb	C/PjSV
+000a507d	PPPPP
+000a50b6	PPPPP
+000a518c	PPPPP
+000a51c0	PPPPP
+000a5333	PPPPP
+000a536c	PPPPP
+000a53cc	PPPPP
+000a5405	PPPPP
+000a544d	PPPPP
+000a5487	PPPPP
+000a54c1	PPPPP
+000a54fb	PPPPP
+000a5535	PPPPP
+000a55fd	.;1s(N
+000a5678	tIHt$
+000a5737	HHt4HHt
+000a582e	Ht\Ht,
+000a590d	WWWWW
+000a5954	teHtFHt&Hu
+000a5ea4	SSSSS
+000a5ed7	SSSSS
+000a5f2d	ty<%tA
+000a5fa0	tBF9]
+000a5ff7	SSSSS
+000a6815	PPPPP
+000a6876	PPPPPPPP
+000a6a3f	WWWWV
+000a6a62	t+WWVPV
+000a6adc	WWWWW
+000a6c00	_VVVVV
+000a6c3b	_VVVVV
+000a6c79	VVVVV
+000a6d57	SVWUj
+000a6df8	;t$,v-
+000a6e7d	UQPXY]Y[
+000a6f69	WWWWW
+000a6faa	WWWWW
+000a70a2	VVVVV
+000a71ca	VVVVV
+000a73f7	SSSSS
+000a7432	tGHt.Ht&
+000a744b	^SSSSS
+000a7afd	VVVVV
+000a7baf	8VVVVV
+000a7cc9	VVVVV
+000a7d26	 CCGG
+000a7db7	VVVVV
+000a7dfe	 GGBB
+000a8089	HHt*HHt
+000a81ec	t=HHt
+000a8eda	tK<_t<<$t8<<t4<>t0<-t,<a|
+000a8ef4	<z~$<A|
+000a95c6	<0|O<9
+000a9621	tU<A|B<P
+000a97e8	tY<@tO<Zt
+000a989a	tA<Zu
+000a9cfb	t\<@tXj'
+000aa0e4	Ft,Nt
+000aa0ea	NtFNt#NuV
+000aa18b	8Xu2@
+000aa3a8	'h4&M
+000aad47	t.<@t5V
+000aae30	TtUHtKHtAHt
+000aae3f	HuSh`
+000aaef7	8?u'@
+000aaf68	0t-HHt
+000aafd5	lSVW3
+000abfa9	<@t=j
+000ac7b6	99t)P
+000ac85f	.<$u 
+000ad036	AtIHt0Hu
+000ad38c	VVVVV
+000ad415	SSSSS
+000ad484	7GG9]
+000ad4fd	u)jAXf;
+000ad6a0	SSSSW
+000ad81f	SSSSW
+000ad8d5	PPPPP
+000ad914	0SSSSS
+000adada	PPPPP
+000adc3f	_VVVVV
+000ade0f	VVVVV
+000adeb0	u,VVWV
+000adf78	t VV9u
+000ae04a	^SSSSS
+000ae0c6	j"^SSSSS
+000ae114	QSWVj
+000ae417	SSSSS
+000ae452	tGHt.Ht&
+000ae46b	^SSSSS
+000aeb1c	VVVVV
+000aebce	8VVVVV
+000aed2a	SSSSS
+000aed60	SSSSS
+000aee02	r0f;p
+000aee83	r0f;H
+000aef64	SSSSS
+000aef97	SSSSS
+000af099	@WuyV
+000af0fe	WWWWW
+000af1a3	VVVVV
+000b079b	^SSSSS
+000b07cc	^SSSSS
+000b08eb	j"^SSSSS
+000b098a	VVVVV
+000b09c3	VVVVV
+000b09fc	VVVVV
+000b0a57	^SSSSS
+000b0a77	^SSSSS
+000b0b51	SSSSS
+000b0b6c	SSSSS
+000b0b87	SSSSS
+000b0c2f	SSSSS
+000b0d79	SSSSS
+000b0dc6	>:u8FV
+000b0e28	SSSSS
+000b0ed1	jd_Fj
+000b0ff9	PPPPP
+000b1069	VVVVV
+000b10ed	PVVRV
+000b1120	Pf954
+000b1189	VVVVVQRSSj
+000b119d	VVVVV
+000b1550	0WWWWW
+000b16fd	PPPPP
+000b1733	VVVVV
+000b1797	SSSSS
+000b1cc2	VVVVV
+000b1cee	VVVVV
+000b252a	VVVVV
+000b366a	^SSSSS
+000b36d5	SSSSS
+000b36fe	^WWWWW
+000b3771	WWWWW
+000b37b2	VVVVV
+000b3840	0SSSSS
+000b38ba	SSSSS
+000b3918	8VVVVV
+000b3997	VVVVV
+000b3bd4	SSSSS
+000b3c11	SSSSS
+000b3ca7	QQSV3
+000b3cc3	VVVVj
+000b3fcf	t{~Bj
+000b41a0	SSSSS
+000b41dd	SSSSS
+000b434f	SSSSS
+000b4370	tSj=V
+000b44fb	@Y@PW
+000b450c	SSSSS
+000b45bd	SSSSS
+000b45f7	SSSSS
+000b48fc	SSSSS
+000b4925	_VVVVV
+000b495e	VVVVV
+000b4986	SSSSS
+000b49b5	SSSSS
+000b4a68	WWWWW
+000b6c4b	jjjjjj
+000b924f	PhX#M
+000b9618	Ph #M
+000b9645	Ph@#M
+000b9bd5	PhH"M
+000b9d50	Pht"M
+000b9fb6	Ph "M
+000c5f00	Error
+000c5f10	ExitProxy: Attempted to execute multiple worker threads simultaneously.
+000c5fa0	TartarosPatch
+000c5fe8	Failed to open an internet session
+000c6036	DUnknown error
+000c6068	Failed to read from network (%u bytes)
+000c60b8	Failed to open http url (%s)
+000c60fa	DFailed to query http info (%u)
+000c6158	81F91496CFC348A89F5AF83CBCDCEAE8
+000c61a0	funpleworks.wzcdnservice.com/funpleworks/
+000c6200	funpleworks.wzcdnservice.com/funpleworks/
+000c6254	patch
+000c6260	14.63.166.219
+000c627c	192.168.0.220
+000c6298	about:blank
+000c62b4	update/
+000c62d8	Tartaros.bin
+000c62f4	%s / %s
+000c6304	%d / %d
+000c6324	, {0}
+000c63b8	%.1f GB
+000c63d0	%.1f MB
+000c63e8	%.1f KB
+000c6400	{0}x{1}
+000c64c0	WM_ATLGETCONTROL
+000c64e4	WM_ATLGETHOST
+000c6500	AtlAxWin90
+000c6518	AtlAxWinLic90
+000c66a5	@Qm6t
+000c6984	#32770
+000c6a44	AXWIN
+000c6b72	FAXWIN Frame Window
+000c6bcc	ATL:%p
+000c6c16	FAXWIN UI Window
+000c6c60	/version
+000c6c74	PatchClientVersion: %d
+000c6c8c	Tartaros_Launcher_Mtx
+000c6cb8	SetCurrentDirectory() Error : %d
+000c6cfc	Tartaros.bin
+000c6d18	Integrity.xml
+000c6d28	PATCH
+000c6d30	FOLDER
+000c6d48	Checksum
+000c6d5c	Integrity.xml
+000c6da2	LForceRemove
+000c6dbe	LNoRemove
+000c6dd6	LDelete
+000c6dea	LAppID
+000c6df8	CLSID
+000c6e04	Component Categories
+000c6e30	FileType
+000c6e44	Interface
+000c6e58	Hardware
+000c6e80	SECURITY
+000c6e94	SYSTEM
+000c6ea4	Software
+000c6eb8	TypeLib
+000c6faa	AErr %d
+000c6fbc	Elevation Failed!
+000c6fe0	Error
+000c7052	GREGISTRY
+000c7068	Module_Raw
+000c7080	Module
+000c7170	HKEY_CLASSES_ROOT
+000c7194	HKEY_CURRENT_USER
+000c71b8	HKEY_LOCAL_MACHINE
+000c71e0	HKEY_USERS
+000c71f8	HKEY_PERFORMANCE_DATA
+000c7224	HKEY_DYN_DATA
+000c7240	HKEY_CURRENT_CONFIG
+000c7290	Software
+000c72b0	Classes
+000c72c0	APPID
+000c72d0	StringNarrow: wcstombs() call failed
+000c72f8	http://
+000c7318	Integrity.xml.gz
+000c733c	Integrity_new.xml.gz
+000c7368	Integrity.xml
+000c7384	Integrity_new.xml
+000c73a8	Master.stp.gz
+000c73c4	Master.stp
+000c73dc	PATCH
+000c73e4	PatchClientVersion
+000c73f8	PATCH
+000c7400	PackageVersion
+000c7410	PatchClient/
+000c742c	_Tartaros.exe
+000c7448	Master
+000c7450	Master0z
+000c745c	Master
+000c7464	Master0z
+000c7470	Integrity.xml
+000c7480	Master
+000c7488	Master
+000c7490	Integrity_temp.xml
+000c74a4	Generated Packed Integrity. Proceed patch...
+000c74d4	Integrity_new.xml
+000c74e8	Integrity_temp.xml
+000c74fc	Integrity_new.xml
+000c7510	Integrity.xml
+000c7520	GameGuard.des
+000c7530	TartarosKR.ini
+000c7540	TartarosTW.ini
+000c7550	TartarosHK.ini
+000c7560	TartarosJP.ini
+000c7570	Integrity.xml
+000c7580	PatchTemp
+000c758c	PatchTemp
+000c7598	Integrity_temp.xml
+000c75ac	Integrity.xml
+000c75bc	Integrity.xml
+000c75cc	Integrity_new.xml
+000c75e0	Error
+000c75f0	ProgressController: Attempted to execute multiple worker threads simultaneously.
+000c76a0	Integrity.xml
+000c76b0	PATCH
+000c76b8	PatchClientVersion
+000c76cc	Master
+000c76d4	Master0z
+000c76e0	Integrity.xml
+000c76f0	Master
+000c76f8	Master
+000c7700	Integrity_temp.xml
+000c7714	Generated Packed Integrity. Proceed patch...
+000c7744	Integrity.xml
+000c7754	Integrity_temp.xml
+000c7768	Integrity_temp.xml
+000c777c	GameGuard.des
+000c778c	TartarosKR.ini
+000c779c	TartarosTW.ini
+000c77ac	TartarosHK.ini
+000c77bc	TartarosJP.ini
+000c77dc	PatchTemp/
+000c7800	PATCH
+000c7808	FOLDER
+000c7818	Checksum
+000c7dac	StringSink: OutputStringPointer not specified
+000c7ddc	OutputStringPointer
+000c8030	StreamTransformation: this object doesn't support random access
+000c8070	CipherModeBase: feedback size cannot be specified for this cipher mode
+000c81c8	: this object doesn't support resynchronization
+000c82c0	bad allocation
+000c82fa	LForceRemove
+000c8316	LNoRemove
+000c832e	LDelete
+000c8342	LAppID
+000c8350	CLSID
+000c835c	Component Categories
+000c8388	FileType
+000c839c	Interface
+000c83b0	Hardware
+000c83d8	SECURITY
+000c83ec	SYSTEM
+000c83fc	Software
+000c8410	TypeLib
+000c864c	Tartaros.cfg
+000c865c	Tartaros.cfg
+000c90e9	VDEST
+000c91a3	-np1A
+000c923a	'+?2LF
+000c931c	string too long
+000c932c	invalid string position
+000c9344	invalid string argument
+000c9389	=L9o<
+000c9398	InterlockedPopEntrySList
+000c93b4	InterlockedPushEntrySList
+000c93d0	kernel32.dll
+000c9454	Unknown exception
+000c94a8	bad exception
+000c94b8	LC_TIME
+000c94c0	LC_NUMERIC
+000c94cc	LC_MONETARY
+000c94d8	LC_CTYPE
+000c94e4	LC_COLLATE
+000c94f0	LC_ALL
+000c955f	 !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+000c96d8	         (((((                  H
+000c98da	         h((((                  H
+000c99d8	                                 H
+000c9b80	 !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+000c9d00	 !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+000c9de0	EncodePointer
+000c9df0	KERNEL32.DLL
+000c9e0c	DecodePointer
+000c9e1c	FlsFree
+000c9e24	FlsSetValue
+000c9e30	FlsGetValue
+000c9e3c	FlsAlloc
+000c9e48	CorExitProcess
+000c9e58	mscoree.dll
+000c9ef8	UTF-8
+000c9f04	UTF-16LE
+000c9f18	UNICODE
+000c9f28	e+000
+000c9f46	GAIsProcessorFeaturePresent
+000c9f64	KERNEL32
+000c9f70	runtime error 
+000c9f84	TLOSS error
+000c9f94	SING error
+000c9fa4	DOMAIN error
+000c9fb8	R6034
+000c9fbf	An application has made an attempt to load the C runtime library incorrectly.
+000ca00d	Please contact the application's support team for more information.
+000ca058	R6033
+000ca05f	- Attempt to use MSIL code from this assembly during native code initialization
+000ca0af	This indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.
+000ca150	R6032
+000ca157	- not enough space for locale information
+000ca188	R6031
+000ca18f	- Attempt to initialize the CRT more than once.
+000ca1bf	This indicates a bug in your application.
+000ca1ec	R6030
+000ca1f3	- CRT not initialized
+000ca20c	R6028
+000ca213	- unable to initialize heap
+000ca234	R6027
+000ca23b	- not enough space for lowio initialization
+000ca26c	R6026
+000ca273	- not enough space for stdio initialization
+000ca2a4	R6025
+000ca2ab	- pure virtual function call
+000ca2cc	R6024
+000ca2d3	- not enough space for _onexit/atexit table
+000ca304	R6019
+000ca30b	- unable to open console device
+000ca330	R6018
+000ca337	- unexpected heap error
+000ca354	R6017
+000ca35b	- unexpected multithread lock error
+000ca384	R6016
+000ca38b	- not enough space for thread data
+000ca3b2	This application has requested the Runtime to terminate it in an unusual way.
+000ca400	Please contact the application's support team for more information.
+000ca448	R6009
+000ca44f	- not enough space for environment
+000ca474	R6008
+000ca47b	- not enough space for arguments
+000ca4a0	R6002
+000ca4a7	- floating point support not loaded
+000ca4d0	Microsoft Visual C++ Runtime Library
+000ca500	<program name unknown>
+000ca518	Runtime Error!
+000ca528	Program: 
+000ca534	(null)
+000ca544	(null)
+000ca571	( 8PX
+000ca579	700WP
+000ca589	`h````
+000ca591	xpxxxx
+000ca5b0	UTF-8
+000ca5b8	UTF-16LE
+000ca5c4	UNICODE
+000ca5f5	('8PW
+000ca5fe	700PP
+000ca610	`h`hhh
+000ca619	xppwpp
+000ca62c	HeapQueryInformation
+000ca644	kernel32.dll
+000ca660	HH:mm:ss
+000ca66c	dddd, MMMM dd, yyyy
+000ca680	MM/dd/yy
+000ca694	December
+000ca6a0	November
+000ca6ac	October
+000ca6b4	September
+000ca6c0	August
+000ca6d8	April
+000ca6e0	March
+000ca6e8	February
+000ca6f4	January
+000ca72c	Saturday
+000ca738	Friday
+000ca740	Thursday
+000ca74c	Wednesday
+000ca758	Tuesday
+000ca760	Monday
+000ca768	Sunday
+000ca790	am/pm
+000ca798	united-states
+000ca7a8	united-kingdom
+000ca7b8	trinidad & tobago
+000ca7cc	south-korea
+000ca7d8	south-africa
+000ca7e8	south korea
+000ca7f4	south africa
+000ca804	slovak
+000ca80c	puerto-rico
+000ca818	pr-china
+000ca824	pr china
+000ca834	new-zealand
+000ca840	hong-kong
+000ca84c	holland
+000ca854	great britain
+000ca864	england
+000ca86c	czech
+000ca874	china
+000ca87c	britain
+000ca884	america
+000ca898	swiss
+000ca8a0	swedish-finland
+000ca8b0	spanish-venezuela
+000ca8c4	spanish-uruguay
+000ca8d4	spanish-puerto rico
+000ca8e8	spanish-peru
+000ca8f8	spanish-paraguay
+000ca90c	spanish-panama
+000ca91c	spanish-nicaragua
+000ca930	spanish-modern
+000ca940	spanish-mexican
+000ca950	spanish-honduras
+000ca964	spanish-guatemala
+000ca978	spanish-el salvador
+000ca98c	spanish-ecuador
+000ca99c	spanish-dominican republic
+000ca9b8	spanish-costa rica
+000ca9cc	spanish-colombia
+000ca9e0	spanish-chile
+000ca9f0	spanish-bolivia
+000caa00	spanish-argentina
+000caa14	portuguese-brazilian
+000caa2c	norwegian-nynorsk
+000caa40	norwegian-bokmal
+000caa54	norwegian
+000caa60	italian-swiss
+000caa70	irish-english
+000caa80	german-swiss
+000caa90	german-luxembourg
+000caaa4	german-lichtenstein
+000caab8	german-austrian
+000caac8	french-swiss
+000caad8	french-luxembourg
+000caaec	french-canadian
+000caafc	french-belgian
+000cab0c	english-usa
+000cab18	english-us
+000cab24	english-uk
+000cab30	english-trinidad y tobago
+000cab4c	english-south africa
+000cab64	english-nz
+000cab70	english-jamaica
+000cab80	english-ire
+000cab8c	english-caribbean
+000caba0	english-can
+000cabac	english-belize
+000cabbc	english-aus
+000cabc8	english-american
+000cabdc	dutch-belgian
+000cabec	chinese-traditional
+000cac00	chinese-singapore
+000cac14	chinese-simplified
+000cac28	chinese-hongkong
+000cac3c	chinese
+000cac4c	canadian
+000cac58	belgian
+000cac60	australian
+000cac6c	american-english
+000cac80	american english
+000cac94	american
+000caf7c	Norwegian-Nynorsk
+000caf90	SystemFunction036
+000cafa4	ADVAPI32.DLL
+000cafb4	 Complete Object Locator'
+000cafd0	 Class Hierarchy Descriptor'
+000caff0	 Base Class Array'
+000cb004	 Base Class Descriptor at (
+000cb020	 Type Descriptor'
+000cb034	`local static thread guard'
+000cb050	`managed vector copy constructor iterator'
+000cb07c	`vector vbase copy constructor iterator'
+000cb0a8	`vector copy constructor iterator'
+000cb0cc	`dynamic atexit destructor for '
+000cb0f0	`dynamic initializer for '
+000cb10c	`eh vector vbase copy constructor iterator'
+000cb138	`eh vector copy constructor iterator'
+000cb160	`managed vector destructor iterator'
+000cb188	`managed vector constructor iterator'
+000cb1b0	`placement delete[] closure'
+000cb1d0	`placement delete closure'
+000cb1ec	`omni callsig'
+000cb1fc	 delete[]
+000cb208	 new[]
+000cb210	`local vftable constructor closure'
+000cb234	`local vftable'
+000cb244	`RTTI
+000cb250	`udt returning'
+000cb260	`copy constructor closure'
+000cb27c	`eh vector vbase constructor iterator'
+000cb2a4	`eh vector destructor iterator'
+000cb2c4	`eh vector constructor iterator'
+000cb2e8	`virtual displacement map'
+000cb304	`vector vbase constructor iterator'
+000cb328	`vector destructor iterator'
+000cb348	`vector constructor iterator'
+000cb368	`scalar deleting destructor'
+000cb388	`default constructor closure'
+000cb3a8	`vector deleting destructor'
+000cb3c8	`vbase destructor'
+000cb3dc	`string'
+000cb3e8	`local static guard'
+000cb400	`typeof'
+000cb40c	`vcall'
+000cb414	`vbtable'
+000cb420	`vftable'
+000cb494	operator
+000cb4b8	 delete
+000cb4c8	__unaligned
+000cb4d4	__restrict
+000cb4e0	__ptr64
+000cb4e8	__clrcall
+000cb4f4	__fastcall
+000cb500	__thiscall
+000cb50c	__stdcall
+000cb518	__pascal
+000cb524	__cdecl
+000cb52c	__based(
+000cb708	{flat}
+000cb710	{for 
+000cb718	`non-type-template-parameter
+000cb738	unsigned 
+000cb744	long 
+000cb754	short 
+000cb75c	char 
+000cb76c	<ellipsis>
+000cb778	,<ellipsis>
+000cb78c	 throw(
+000cb79c	`template-parameter
+000cb7b8	cli::pin_ptr<
+000cb7c8	cli::array<
+000cb7d4	void 
+000cb7e0	`anonymous namespace'
+000cb7fc	generic-type-
+000cb80c	template-parameter-
+000cb824	`unknown ecsu'
+000cb834	union 
+000cb83c	struct 
+000cb844	class 
+000cb84c	enum 
+000cb854	coclass 
+000cb860	cointerface 
+000cb874	extern "C" 
+000cb880	[thunk]:
+000cb88c	public: 
+000cb898	protected: 
+000cb8a4	private: 
+000cb8b0	virtual 
+000cb8bc	static 
+000cb8c4	`template static data member destructor helper'
+000cb8f4	`template static data member constructor helper'
+000cb928	`local static destructor helper'
+000cb94c	`adjustor{
+000cb958	`vtordisp{
+000cb964	`vtordispex{
+000cb97c	const 
+000cb984	volatile 
+000cb998	volatile
+000cb9a4	 volatile
+000cb9b0	const
+000cb9b8	signed 
+000cb9c0	double
+000cb9c8	__int128
+000cb9dc	wchar_t
+000cb9e4	__int64
+000cb9ec	__int16
+000cb9f4	__int32
+000cb9fc	__int8
+000cba04	__w64 
+000cba0c	float
+000cba20	short
+000cba30	GetProcessWindowStation
+000cba48	GetUserObjectInformationA
+000cba64	GetLastActivePopup
+000cba78	GetActiveWindow
+000cba88	MessageBoxA
+000cba94	USER32.DLL
+000cbaa0	SunMonTueWedThuFriSat
+000cbab8	JanFebMarAprMayJunJulAugSepOctNovDec
+000cbae4	CONIN$
+000cbaec	CONOUT$
+000cbaf4	1#QNAN
+000cbafc	1#INF
+000cbb04	1#IND
+000cbb0c	1#SNAN
+000cbb18	Visual C++ CRT: Not enough memory to complete call to strerror.
+000cbb58	Illegal byte sequence
+000cbb70	Directory not empty
+000cbb84	Function not implemented
+000cbba0	No locks available
+000cbbb4	Filename too long
+000cbbc8	Resource deadlock avoided
+000cbbe4	Result too large
+000cbbf8	Domain error
+000cbc08	Broken pipe
+000cbc14	Too many links
+000cbc24	Read-only file system
+000cbc3c	Invalid seek
+000cbc4c	No space left on device
+000cbc64	File too large
+000cbc74	Inappropriate I/O control operation
+000cbc98	Too many open files
+000cbcac	Too many open files in system
+000cbccc	Invalid argument
+000cbce0	Is a directory
+000cbcf0	Not a directory
+000cbd00	No such device
+000cbd10	Improper link
+000cbd20	File exists
+000cbd2c	Resource device
+000cbd3c	Unknown error
+000cbd4c	Bad address
+000cbd58	Permission denied
+000cbd6c	Not enough space
+000cbd80	Resource temporarily unavailable
+000cbda4	No child processes
+000cbdb8	Bad file descriptor
+000cbdcc	Exec format error
+000cbde0	Arg list too long
+000cbdf4	No such device or address
+000cbe10	Input/output error
+000cbe24	Interrupted function call
+000cbe40	No such process
+000cbe50	No such file or directory
+000cbe6c	Operation not permitted
+000cc8d8	 deflate 1.2.3 Copyright 1995-2005 Jean-loup Gailly 
+000cc988	1.2.3
+000ccbd0	ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+000ccc14	 inflate 1.2.3 Copyright 1995-2005 Mark Adler 
+000ccc64	#+3;CScs
+000cceb1	Qkkbal
+000cd10d	wn>Jj
+000cd63d	[-&LMb#{'
+000cd683	w+OQvr
+000cd6c9	R1h58
+000cd766	)\ZEo^m/
+000cda37	H*0"ZOW
+000cdf99	mj>zjZ
+000cdfc9	l6qnk
+000ce108	IiGM>nw
+000ce176	1A26b
+000ce32d	ewh/?y
+000ce45d	1wsHp
+000ce640	#bML"
+000ce684	vQO+t
+000ce768	^oEZ_
+000cea1a	OZw3(?
+000ceb9a	V_:X1:
+000cebbe	NJ2"v
+000cebe4	O*9y]
+000cfa18	bad allocation
+000cfa44	PackingRules
+000cfa54	PackingRules
+000cfa64	Malformed file %s/??
+000cfa7c	ERROR
+000cfa84	ERROR: 
+000cfac0	FOLDER
+000cfae0	Checksum
+000cfaec	Master0z
+000cfaf8	Master.stp
+000cfb04	run.xml
+000cfb0c	Uninstall.exe
+000cfb1c	_tartaros.exe
+000cfb2c	tartaros.exe
+000cfb3c	virtualkey.dll
+000cfb4c	virtualkeyextra.dll
+000cfb60	uihistory.dll
+000cfb70	integrity.xml
+000cfb80	customjoypadmapping.xml
+000cfb98	csl.scn
+000cfba0	integrity_new.xml
+000cfbb4	integrity_temp.xml
+000cfbc8	tartaros.cfg
+000cfbd8	tartaros.dmp
+000cfbe8	tartaros.log
+000cfbf8	log.txt
+000cfc00	serverip.ini
+000cfc18	screenshot
+000cfc24	gameguard
+000cfc30	emblem
+000cfc38	patchtemp
+000cfc48	euc-kr
+000cfc54	PATCH
+000cfc5c	PackageVersion
+000cfc6c	PatchClientVersion
+000cfc80	MajorVersion
+000cfc90	MinorVersion
+000cfca0	Build
+000cfca8	Master0z
+000cfcb4	Invalid master file
+000cfccc	AttachedPackage
+000cfcfc	Checksum
+000cfd08	FileLength
+000cfd3c	FOLDER
+000cfd44	FOLDER
+000cfd4c	FOLDER
+000cfd54	FOLDER
+000cfd5c	FOLDER
+000cfd6c	FOLDER
+000cfd74	FOLDER
+000cfd84	FOLDER
+000cfd8c	PATCH
+000cfd94	FOLDER
+000cfd9c	PATCH
+000cfda4	FOLDER
+000cfdac	Master
+000cfdcc	Master
+000cfdd4	Master0z
+000cfde0	Character\Cha\Base
+000cffe8	Character\Mon\Base
+000d01f0	Character\Npc\Base
+000d03f8	Character\Obj\Base
+000d0600	Image\Base
+000d0704	Image
+000d0808	Character\Cha\C_Avatar
+000d090c	CashAvatar
+000d0a10	Character\Cha\C_Weapon
+000d0b14	CashWeapon
+000d0c20	Add folder inside package: %s -> %s
+000d0c48	Delete folder inside package: %s; SKIPPED
+000d0c74	Delete folder inside package: %s -> %s
+000d0c9c	Copy file into package: %s -> %s
+000d0cc4	ERROR: CANNOT WRITE FILE %s!
+000d0ce4	Copy file: %s
+000d0cf4	Replace copy into package: %s -> %s
+000d0d20	ERROR: CANNOT WRITE FILE %s!
+000d0d40	Replace copy file: %s
+000d0d58	Delete file from package: %s -> %s
+000d0d7c	vector<T> too long
+000d0d9c	map/set<T> too long
+000d0db0	list<T> too long
+000d0dc4	invalid map/set<T> iterator
+000d0de0	%s can't be opened.
+000d0f5c	bad allocation
+000d0f6c	false
+000d0f7c	ios_base::badbit set
+000d0f94	ios_base::failbit set
+000d0fac	ios_base::eofbit set
+000d0fd0	&#x%02X;
+000d0fe4	%I64d
+000d0fec	%I64u
+000d100c	</%s>
+000d1018	%s="%s"
+000d1028	%s='%s'
+000d103c	<!--%s-->
+000d1048	<![CDATA[%s]]>
+000d1058	<?xml 
+000d1060	version="%s" 
+000d1070	version="
+000d1080	encoding="%s" 
+000d1090	encoding="
+000d109c	standalone="%s" 
+000d10b0	standalone="
+000d10d4	<![CDATA[
+000d110c	bad cast
+000d1458	&apos;
+000d1460	&quot;
+000d1478	&amp;
+000d1480	UTF-8
+000d1490	TIXML_NO_ERROR
+000d14a0	TIXML_ERROR
+000d14ac	TIXML_ERROR_OPENING_FILE
+000d14c8	TIXML_ERROR_OUT_OF_MEMORY
+000d14e4	TIXML_ERROR_PARSING_ELEMENT
+000d1500	TIXML_ERROR_FAILED_TO_READ_ELEMENT_NAME
+000d1528	TIXML_ERROR_READING_ELEMENT_VALUE
+000d154c	TIXML_ERROR_READING_ATTRIBUTES
+000d156c	TIXML_ERROR_PARSING_EMPTY
+000d1588	TIXML_ERROR_READING_END_TAG
+000d15a4	TIXML_ERROR_PARSING_UNKNOWN
+000d15c0	TIXML_ERROR_PARSING_COMMENT
+000d15dc	TIXML_ERROR_PARSING_DECLARATION
+000d15fc	TIXML_ERROR_DOCUMENT_EMPTY
+000d1618	TIXML_ERROR_EMBEDDED_NULL
+000d1634	TIXML_ERROR_PARSING_CDATA
+000d1650	TIXML_ERROR_DOCUMENT_TOP_ONLY
+000d1670	UNKNOWN
+000d1678	(none)
+000d1680	TiXmlLoad Error loading %s: %s
+000d16a1	 - parsing pos: (%d,%d) '%s'
+000d16c0	<?xml
+000d16cc	version
+000d16d4	encoding
+000d16e0	standalone
+000d16f8	Error when TiXmlDocument added to document, because TiXmlDocument can only be at the root.
+000d1754	Error parsing CDATA.
+000d176c	Error null (0) or unexpected EOF found in input stream.
+000d17a4	Error document empty.
+000d17bc	Error parsing Declaration.
+000d17d8	Error parsing Comment.
+000d17f0	Error parsing Unknown.
+000d1808	Error reading end tag.
+000d1820	Error: empty tag.
+000d1834	Error reading Attributes.
+000d1850	Error reading Element value.
+000d1870	Failed to read Element name
+000d188c	Error parsing Element.
+000d18a4	Memory allocation failed.
+000d18c0	Failed to open file
+000d18d4	Error
+000d18dc	No error
+000d18e8	1.2.3
+000d18f0	incorrect header check
+000d1908	unknown compression method
+000d1924	invalid window size
+000d1938	unknown header flags set
+000d1954	header crc mismatch
+000d1968	invalid block type
+000d197c	invalid stored block lengths
+000d199c	too many length or distance symbols
+000d19c0	invalid code lengths set
+000d19dc	invalid bit length repeat
+000d19f8	invalid literal/lengths set
+000d1a14	invalid distances set
+000d1a2c	invalid literal/length code
+000d1a48	invalid distance code
+000d1a60	invalid distance too far back
+000d1a80	incorrect data check
+000d1a98	incorrect length check
+000d1ab0	incompatible version
+000d1ac8	buffer error
+000d1ad8	insufficient memory
+000d1aec	data error
+000d1af8	stream error
+000d1b08	file error
+000d1b14	stream end
+000d1b20	need dictionary
+000d1b30	" not used
+000d1b3c	AlgorithmParametersBase: parameter "
+000d1b68	HashVerificationFilter: message hash or MAC not valid
+000d1ba0	VerifierFilter: digital signature not valid
+000d1bcc	InputBuffer
+000d1bd8	RandomNumberGeneratorPointer
+000d1bf8	RandomNumberStoreSize
+000d1c18	PutMessage
+000d1c24	TruncatedDigestSize
+000d1c38	BlockPaddingScheme
+000d1c4c	HashVerificationFilterFlags
+000d1c68	AuthenticatedDecryptionFilterFlags
+000d1c8c	SignatureVerificationFilterFlags
+000d1cb0	OutputBuffer
+000d1cc0	FilterWithBufferedInput: invalid buffer size
+000d1cf0	FilterWithBufferedInput
+000d1d08	RedirectionTargetPointer
+000d1d24	RedirectionBehavior
+000d1d38	RandomNumberSink
+000d1d4c	ArraySink: missing OutputBuffer argument
+000d1d78	StreamTransformationFilter: please use AuthenticatedEncryptionFilter and AuthenticatedDecryptionFilter for AuthenticatedSymmetricCipher
+000d1e00	StreamTransformationFilter: PKCS_PADDING and ONE_AND_ZEROS_PADDING cannot be used with 
+000d1e58	StreamTransformationFilter: plaintext length is not a multiple of block size and NO_PADDING is specified
+000d1ec8	StreamTransformationFilter: ciphertext length is not a multiple of block size
+000d1f18	StreamTransformationFilter: invalid PKCS #7 block padding found
+000d1f58	StreamTransformationFilter: invalid ones-and-zeros padding found
+000d1f9c	AuthenticatedEncryptionFilter
+000d1fbc	AuthenticatedDecryptionFilter
+000d1fdc	StringStore: missing InputBuffer argument
+000d2008	RandomNumberStore
+000d2020	RandomNumberStore: nonblocking transfer is not implemented by this object
+000d20f0	AllocatorBase: requested size would cause integer overflow
+000d212c	deque<T> too long
+000d29dc	', trying to retrieve '
+000d29f4	', stored '
+000d2a00	NameValuePairs: type mismatch for '
+000d2a24	: missing required parameter '
+000d2a44	Clone() is not implemented yet.
+000d2a64	unknown
+000d2a6c	: Nonblocking input is not implemented by this object.
+000d2aa4	: unexpected channel name "
+000d2ac0	BufferedTransformation: this object is not attachable
+000d2b2c	Rounds
+000d2b34	KeySize
+000d2b78	Cryptographic algorithms are disabled before the power-up self tests are performed.
+000d2bd0	Cryptographic algorithms are disabled after a power-up self test failed.
+000d2c1c	: this object requires an IV
+000d2c3c	: this object cannot use a null IV
+000d2c60	 is less than the minimum of 
+000d2c80	: IV length 
+000d2c90	 exceeds the maximum of 
+000d2cac	: this object does't support a special last block
+000d2ce0	: header length 
+000d2cf4	: message length 
+000d2d08	: footer length 
+000d2d1c	NullRNG
+000d2d28	NullRNG: NullRNG should only be passed to functions that don't need to generate random bytes
+000d2d88	 bytes
+000d2d90	 byte digest to 
+000d2da4	HashTransformation: can't truncate a 
+000d2dcc	PK_DefaultEncryptionFilter: plaintext too long
+000d2dfc	PK_DefaultDecryptionFilter: ciphertext too long
+000d2e2c	: invalid ciphertext
+000d2e48	Unflushable<T>: this object has buffered input that cannot be flushed
+000d3218	RandomNumberGenerator: IncorporateEntropy not implemented
+000d3254	BufferedTransformation: this object can't be reinitialized
+000d3290	: this object doesn't support multiple channels
+000d32c0	 is not a valid key length
+000d32dc	BitBucket
+000d3308	Separator
+000d3314	Terminator
+000d3320	GroupSize
+000d332c	PaddingByte
+000d3338	Log2Base
+000d3344	EncodingLookupArray
+000d3358	InsertLineBreaks
+000d336c	MaxLineLength
+000d33a0	DecodingLookupArray
+000d33b4	BaseN_Encoder
+000d33c4	BaseN_Encoder: Log2Base must be between 1 and 7 inclusive
+000d3400	BaseN_Decoder
+000d3410	BaseN_Decoder: Log2Base must be between 1 and 7 inclusive
+000d344c	Grouper
+000d3454	CFB_Mode: invalid feedback size
+000d3474	CBC_Encryption: message is too short for ciphertext stealing
+000d34dc	RoundUpToMultipleOf: integer overflow
+000d3514	ValueNames
+000d3520	EqualityComparisonFilter: did not receive the same data on two channels
+000d3568	EqualityComparisonFilter
+000d3728	BufferedTransformation: this object doesn't allow input
+000d3760	NodeSize
+000d376c	ByteQueue: size specified for UndoLazyPut is too large
+000d386c	GenuineIntel
+000d387c	AuthenticAMD
+000d3958	AttachedPackage
+000d3968	EncSetting
+000d3974	CPackageMgr::FindPackage: Not implemented!
+000d39b0	File doesn't exist
+000d39c4	Path doesn't exist
+000d39d8	Unknown
+000d39e0	File Open Error %d (%s): file %s, mode %s
+000d3a28	<root>
+000d3a30	ERROR
+000d3a38	.stp.temp
+000d3c40	File is not opened!
+000d3c8c	%c%c%c%c%c%c%c%c%c%c
+000d3ca4	<fd:%d>
+000d3ce3	raB3G
+000d3cef	?Access violation - no RTTI data!
+000d3d14	Bad read pointer - no RTTI data!
+000d3d38	Attempted a typeid of NULL pointer!
+000d3d5c	Bad dynamic_cast!
+000d3dd0	d:\PG-Source\InternalLib\PatchApps\PatchClient2\gsp\Release\Tartaros\PatchClient2.pdb
+000e5816	InitializeCriticalSection
+000e5832	DeleteCriticalSection
+000e584a	SetEvent
+000e5856	CreateEventW
+000e5866	CloseHandle
+000e5874	WaitForSingleObject
+000e588a	GetModuleFileNameW
+000e58a0	lstrcpyW
+000e58ac	GetLastError
+000e58bc	GetCommandLineW
+000e58ce	GlobalUnlock
+000e58de	GlobalLock
+000e58ec	GlobalAlloc
+000e58fa	LockResource
+000e590a	LoadResource
+000e591a	FindResourceW
+000e592a	SetLastError
+000e593a	GetCurrentThreadId
+000e5950	RaiseException
+000e5962	FlushInstructionCache
+000e597a	GetCurrentProcess
+000e598e	SizeofResource
+000e59a0	FindResourceExW
+000e59b2	lstrlenW
+000e59be	lstrcmpW
+000e59ca	MulDiv
+000e59d4	InterlockedIncrement
+000e59ec	InterlockedDecrement
+000e5a04	EnterCriticalSection
+000e5a1c	LeaveCriticalSection
+000e5a34	GlobalFree
+000e5a42	GlobalHandle
+000e5a52	SetCurrentDirectoryW
+000e5a6a	CreateMutexW
+000e5a7a	DeleteFileW
+000e5a88	Sleep
+000e5a90	WideCharToMultiByte
+000e5aa6	GetVersionExW
+000e5ab6	CreateProcessW
+000e5ac8	GetModuleHandleW
+000e5adc	FreeLibrary
+000e5aea	MultiByteToWideChar
+000e5b00	LoadLibraryExW
+000e5b12	lstrcmpiW
+000e5b1e	MoveFileA
+000e5b2a	DeleteFileA
+000e5b38	CreateDirectoryA
+000e5b4c	GetDiskFreeSpaceExW
+000e5b62	GetCurrentDirectoryW
+000e5b7a	RemoveDirectoryA
+000e5b8e	SetCurrentDirectoryA
+000e5ba6	GetCurrentDirectoryA
+000e5bbe	FindNextFileA
+000e5bce	FindClose
+000e5bda	FindFirstFileA
+000e5bea	KERNEL32.dll
+000e5bfa	MessageBoxW
+000e5c08	TrackMouseEvent
+000e5c1a	LoadImageW
+000e5c28	GetSystemMetrics
+000e5c3c	PostQuitMessage
+000e5c4e	EnumDisplaySettingsW
+000e5c66	LoadBitmapW
+000e5c74	SendMessageW
+000e5c84	DefWindowProcW
+000e5c96	FillRect
+000e5ca2	DrawTextW
+000e5cae	GetWindowLongW
+000e5cc0	SetLayeredWindowAttributes
+000e5cde	GetWindow
+000e5cea	MapDialogRect
+000e5cfa	CallWindowProcW
+000e5d0c	DestroyWindow
+000e5d1c	SetWindowLongW
+000e5d2e	CreateWindowExW
+000e5d40	SetWindowTextW
+000e5d52	GetWindowTextW
+000e5d64	MoveWindow
+000e5d72	SetWindowPos
+000e5d82	GetClientRect
+000e5d92	BeginPaint
+000e5da0	EndPaint
+000e5dac	InvalidateRect
+000e5dbe	ShowWindow
+000e5dcc	SetTimer
+000e5dd8	EnableWindow
+000e5de8	IsDlgButtonChecked
+000e5dfe	GetDlgItem
+000e5e0c	SetWindowContextHelpId
+000e5e26	SetWindowRgn
+000e5e36	RegisterClassExW
+000e5e4a	LoadCursorW
+000e5e58	GetClassInfoExW
+000e5e6a	RegisterWindowMessageW
+000e5e84	GetWindowTextLengthW
+000e5e9c	GetDC
+000e5ea4	ReleaseDC
+000e5eb0	CopyRect
+000e5ebc	SetRect
+000e5ec6	DestroyAcceleratorTable
+000e5ee0	GetSysColor
+000e5eee	GetFocus
+000e5efa	SetFocus
+000e5f06	IsChild
+000e5f10	IsWindow
+000e5f1c	RedrawWindow
+000e5f2c	GetClassNameW
+000e5f3c	GetParent
+000e5f48	CharNextW
+000e5f54	GetDesktopWindow
+000e5f68	CreateAcceleratorTableW
+000e5f82	ClientToScreen
+000e5f94	ScreenToClient
+000e5fa6	ReleaseCapture
+000e5fb8	SetCapture
+000e5fc6	InvalidateRgn
+000e5fd6	CreateDialogIndirectParamW
+000e5ff4	GetActiveWindow
+000e6006	UpdateLayeredWindow
+000e601c	DialogBoxParamW
+000e602e	GetWindowRect
+000e603e	MapWindowPoints
+000e6050	GetMonitorInfoW
+000e6062	MonitorFromWindow
+000e6076	PostMessageW
+000e6084	USER32.dll
+000e6092	GetStockObject
+000e60a4	DeleteObject
+000e60b4	CreateRectRgn
+000e60c4	GetCurrentObject
+000e60d8	SaveDC
+000e60e2	RestoreDC
+000e60ee	CreateSolidBrush
+000e6102	DeleteDC
+000e610e	SelectObject
+000e611e	SetBkColor
+000e612c	SetBkMode
+000e6138	SetTextColor
+000e6148	BitBlt
+000e6152	StretchBlt
+000e6160	ExtTextOutW
+000e616e	GetTextMetricsW
+000e6180	CreateCompatibleDC
+000e6196	GetObjectW
+000e61a4	CreateCompatibleBitmap
+000e61be	GetDeviceCaps
+000e61ce	CreateDIBSection
+000e61e0	GDI32.dll
+000e61ec	RegDeleteKeyW
+000e61fc	RegDeleteValueW
+000e620e	RegCloseKey
+000e621c	RegCreateKeyExW
+000e622e	RegOpenKeyExW
+000e623e	RegEnumKeyExW
+000e624e	RegSetValueExW
+000e6260	RegQueryInfoKeyW
+000e6272	ADVAPI32.dll
+000e6282	CreateStreamOnHGlobal
+000e629a	OleUninitialize
+000e62ac	OleInitialize
+000e62bc	CoGetClassObject
+000e62d0	CLSIDFromProgID
+000e62e2	CLSIDFromString
+000e62f4	CoCreateInstance
+000e6308	StringFromGUID2
+000e631a	CoTaskMemAlloc
+000e632c	OleLockRunning
+000e633e	CoUninitialize
+000e6350	CoInitialize
+000e6360	CoTaskMemFree
+000e6370	CoTaskMemRealloc
+000e6382	ole32.dll
+000e638c	OLEAUT32.dll
+000e639c	PathFindFileNameW
+000e63b0	PathRemoveExtensionW
+000e63c6	SHLWAPI.dll
+000e63d4	InitCommonControlsEx
+000e63ea	COMCTL32.dll
+000e63fa	DeleteUrlCacheEntryW
+000e6412	InternetOpenW
+000e6422	InternetGetLastResponseInfoW
+000e6442	InternetCloseHandle
+000e6458	InternetReadFile
+000e646c	InternetOpenUrlW
+000e6480	HttpQueryInfoW
+000e6490	WININET.dll
+000e649e	GetFileAttributesA
+000e64b4	InterlockedCompareExchange
+000e64d2	InterlockedExchange
+000e64e8	HeapFree
+000e64f4	GetProcessHeap
+000e6506	HeapAlloc
+000e6512	GetProcAddress
+000e6524	LoadLibraryA
+000e6534	IsProcessorFeaturePresent
+000e6550	VirtualFree
+000e655e	VirtualAlloc
+000e656e	HeapDestroy
+000e657c	HeapReAlloc
+000e658a	HeapSize
+000e6596	RtlUnwind
+000e65a2	ExitThread
+000e65b0	ResumeThread
+000e65c0	CreateThread
+000e65d0	TerminateProcess
+000e65e4	UnhandledExceptionFilter
+000e6600	SetUnhandledExceptionFilter
+000e661e	IsDebuggerPresent
+000e6632	GetStartupInfoW
+000e6644	GetCPInfo
+000e6650	LCMapStringA
+000e6660	LCMapStringW
+000e6670	TlsGetValue
+000e667e	TlsAlloc
+000e668a	TlsSetValue
+000e6698	TlsFree
+000e66a2	GetCurrentThread
+000e66b6	ExitProcess
+000e66c4	WriteFile
+000e66d0	GetConsoleCP
+000e66e0	GetConsoleMode
+000e66f2	GetModuleHandleA
+000e6706	GetStdHandle
+000e6716	GetModuleFileNameA
+000e672c	FatalAppExitA
+000e673c	HeapCreate
+000e674a	SetHandleCount
+000e675c	GetFileType
+000e676a	GetStartupInfoA
+000e677c	GetACP
+000e6786	GetOEMCP
+000e6792	IsValidCodePage
+000e67a4	SetStdHandle
+000e67b4	SetFilePointer
+000e67c6	ReadFile
+000e67d2	FreeEnvironmentStringsW
+000e67ec	GetEnvironmentStringsW
+000e6806	QueryPerformanceCounter
+000e6820	GetTickCount
+000e6830	GetCurrentProcessId
+000e6846	GetSystemTimeAsFileTime
+000e6860	FlushFileBuffers
+000e6874	GetStringTypeA
+000e6886	GetStringTypeW
+000e6898	SetConsoleCtrlHandler
+000e68b0	GetTimeFormatA
+000e68c2	GetDateFormatA
+000e68d4	GetUserDefaultLCID
+000e68ea	GetLocaleInfoA
+000e68fc	EnumSystemLocalesA
+000e6912	IsValidLocale
+000e6922	InitializeCriticalSectionAndSpinCount
+000e694a	WriteConsoleA
+000e695a	GetConsoleOutputCP
+000e6970	WriteConsoleW
+000e6980	CreateFileW
+000e698e	GetLocaleInfoW
+000e69a0	CreateFileA
+000e69ae	GetTimeZoneInformation
+000e69c8	SetEndOfFile
+000e69d8	CompareStringA
+000e69ea	CompareStringW
+000e69fc	SetEnvironmentVariableA
+000e6a16	UnregisterClassA
+000e6c0c	.?AVCInternetException@@
+000e6c30	.?AVCInternetSession@@
+000e6c50	.?AVCInternetHandle@@
+000e6c70	.?AVCHttpFile@@
+000e6c88	.?AVCInternetFile@@
+000e6cf0	.?AVCMainDlg@@
+000e6d08	.?AV?$CSandwichDialogImpl@VCMainDlg@@V?$CAxDialogImpl@VCMainDlg@@VCWindow@ATL@@@ATL@@@@
+000e6d68	.?AV?$CAxDialogImpl@VCMainDlg@@VCWindow@ATL@@@ATL@@
+000e6da4	.?AV?$CDialogImplBaseT@VCWindow@ATL@@@ATL@@
+000e6dd8	.?AV?$CWindowImplRoot@VCWindow@ATL@@@ATL@@
+000e6e0c	.?AVCWindow@ATL@@
+000e6e28	.?AVCMessageMap@ATL@@
+000e6e48	.?AUISandwichDialog@@
+000e6e68	.?AVCBitmapButtonImpl@@
+000e6e88	.?AV?$CWindowImpl@VCBitmapButtonImpl@@V?$CButtonT@VCWindow@ATL@@@WTL@@V?$CWinTraits@$0FGAAAAAA@$0A@@ATL@@@ATL@@
+000e6f00	.?AV?$CWindowImplBaseT@V?$CButtonT@VCWindow@ATL@@@WTL@@V?$CWinTraits@$0FGAAAAAA@$0A@@ATL@@@ATL@@
+000e6f70	.?AV?$CWindowImplRoot@V?$CButtonT@VCWindow@ATL@@@WTL@@@ATL@@
+000e6fb8	.?AV?$CButtonT@VCWindow@ATL@@@WTL@@
+000e6fe4	.?AV?$COwnerDraw@VCBitmapButtonImpl@@@WTL@@
+000e7018	.?AV?$CDoubleBufferImpl@VCBitmapButtonImpl@@@WTL@@
+000e7054	.?AVCBitmapProgressBarImpl@@
+000e7080	.?AV?$CWindowImpl@VCBitmapProgressBarImpl@@V?$CProgressBarCtrlT@VCWindow@ATL@@@WTL@@V?$CWinTraits@$0FGAAAAAA@$0A@@ATL@@@ATL@@
+000e7108	.?AV?$CWindowImplBaseT@V?$CProgressBarCtrlT@VCWindow@ATL@@@WTL@@V?$CWinTraits@$0FGAAAAAA@$0A@@ATL@@@ATL@@
+000e7180	.?AV?$CWindowImplRoot@V?$CProgressBarCtrlT@VCWindow@ATL@@@WTL@@@ATL@@
+000e71d0	.?AV?$CProgressBarCtrlT@VCWindow@ATL@@@WTL@@
+000e7208	.?AV?$CDoubleBufferImpl@VCBitmapProgressBarImpl@@@WTL@@
+000e7248	.?AVCComboBoxImpl@@
+000e7268	.?AV?$CWindowImpl@VCComboBoxImpl@@V?$CComboBoxT@VCWindow@ATL@@@WTL@@V?$CWinTraits@$0FGAAAAAA@$0A@@ATL@@@ATL@@
+000e72e0	.?AV?$CWindowImplBaseT@V?$CComboBoxT@VCWindow@ATL@@@WTL@@V?$CWinTraits@$0FGAAAAAA@$0A@@ATL@@@ATL@@
+000e7350	.?AV?$CWindowImplRoot@V?$CComboBoxT@VCWindow@ATL@@@WTL@@@ATL@@
+000e7398	.?AV?$CComboBoxT@VCWindow@ATL@@@WTL@@
+000e73c8	.?AV?$COwnerDraw@VCComboBoxImpl@@@WTL@@
+000e73f8	.?AV?$CDoubleBufferImpl@VCComboBoxImpl@@@WTL@@
+000e7430	.?AVCAtlException@ATL@@
+000e7450	.?AV?$CComPolyObject@VCAxHostWindow@ATL@@@ATL@@
+000e7488	.?AUIUnknown@@
+000e74a0	.?AV?$CComObjectRootEx@VCComSingleThreadModel@ATL@@@ATL@@
+000e74e4	.?AVCComObjectRootBase@ATL@@
+000e750c	.?AV?$CComContainedObject@VCAxHostWindow@ATL@@@ATL@@
+000e754c	.?AVCAxHostWindow@ATL@@
+000e7570	.?AV?$CComCoClass@VCAxHostWindow@ATL@@$1?GUID_NULL@@3U_GUID@@B@ATL@@
+000e75c0	.?AV?$CWindowImpl@VCAxHostWindow@ATL@@VCWindow@2@V?$CWinTraits@$0FGAAAAAA@$0A@@2@@ATL@@
+000e7620	.?AV?$CWindowImplBaseT@VCWindow@ATL@@V?$CWinTraits@$0FGAAAAAA@$0A@@2@@ATL@@
+000e7674	.?AUIAxWinHostWindowLic@@
+000e7698	.?AUIAxWinHostWindow@@
+000e76b8	.?AUIOleClientSite@@
+000e76d8	.?AUIOleInPlaceSiteWindowless@@
+000e7700	.?AUIOleInPlaceSiteEx@@
+000e7720	.?AUIOleInPlaceSite@@
+000e7740	.?AUIOleWindow@@
+000e775c	.?AUIOleControlSite@@
+000e777c	.?AUIOleContainer@@
+000e7798	.?AUIParseDisplayName@@
+000e77b8	.?AV?$IObjectWithSiteImpl@VCAxHostWindow@ATL@@@ATL@@
+000e77f8	.?AUIObjectWithSite@@
+000e7818	.?AUIServiceProvider@@
+000e7838	.?AUIAdviseSink@@
+000e7854	.?AUIDocHostUIHandler@@
+000e7878	.?AV?$IDispatchImpl@UIAxWinAmbientDispatchEx@@$1?_GUID_b2d0778b_ac99_4c58_a5c8_e7724e5316b5@@3U__s_GUID@@B$1?m_libid@CAtlModule@ATL@@2U_GUID@@A$0PPPP@$0PPPP@VCComTypeInfoHolder@ATL@@@ATL@@
+000e7940	.?AUIAxWinAmbientDispatchEx@@
+000e7968	.?AUIAxWinAmbientDispatch@@
+000e798c	.?AUIDispatch@@
+000e79c0	.?AV?$CComObject@V?$CComEnum@UIEnumUnknown@@$1?_GUID_00000100_0000_0000_c000_000000000046@@3U__s_GUID@@BPAUIUnknown@@V?$_CopyInterface@UIUnknown@@@ATL@@VCComMultiThreadModel@6@@ATL@@@ATL@@
+000e7a88	.?AV?$CComEnum@UIEnumUnknown@@$1?_GUID_00000100_0000_0000_c000_000000000046@@3U__s_GUID@@BPAUIUnknown@@V?$_CopyInterface@UIUnknown@@@ATL@@VCComMultiThreadModel@6@@ATL@@
+000e7b40	.?AV?$CComEnumImpl@UIEnumUnknown@@$1?_GUID_00000100_0000_0000_c000_000000000046@@3U__s_GUID@@BPAUIUnknown@@V?$_CopyInterface@UIUnknown@@@ATL@@@ATL@@
+000e7be0	.?AUIEnumUnknown@@
+000e7c00	.?AV?$CComObjectRootEx@VCComMultiThreadModel@ATL@@@ATL@@
+000e7c44	.?AV?$CComObject@VCAxFrameWindow@ATL@@@ATL@@
+000e7c7c	.?AVCAxFrameWindow@ATL@@
+000e7ca0	.?AV?$CWindowImpl@VCAxFrameWindow@ATL@@VCWindow@2@V?$CWinTraits@$0FGAAAAAA@$0A@@2@@ATL@@
+000e7d04	.?AUIOleInPlaceFrame@@
+000e7d24	.?AUIOleInPlaceUIWindow@@
+000e7dd4	.?AV?$CComObject@VCAxUIWindow@ATL@@@ATL@@
+000e7e08	.?AVCAxUIWindow@ATL@@
+000e7e28	.?AV?$CWindowImpl@VCAxUIWindow@ATL@@VCWindow@2@V?$CWinTraits@$0FGAAAAAA@$0A@@2@@ATL@@
+000e7f14	.?AVCBackgroundDlg@@
+000e7f34	.?AV?$CTranslucentDialogImpl@VCBackgroundDlg@@@@
+000e7f70	.?AV?$CDialogImpl@VCBackgroundDlg@@VCWindow@ATL@@@ATL@@
+000e7fb0	.?AVCAppModule@WTL@@
+000e7fd0	.?AVCComModule@ATL@@
+000e7ff0	.?AV?$CAtlModuleT@VCComModule@ATL@@@ATL@@
+000e8024	.?AVCAtlModule@ATL@@
+000e8044	.?AU_ATL_MODULE70@ATL@@
+000e8064	.?AVCRegObject@ATL@@
+000e8084	.?AUIRegistrarBase@@
+000e80c8	.?AUInetFileProvider@@
+000e80ec	.?AUPackedChecksumProvider@@
+000e8114	.?AUChecksumProvider@@
+000e8134	.?AVStringSource@CryptoPP@@
+000e8158	.?AV?$SourceTemplate@VStringStore@CryptoPP@@@CryptoPP@@
+000e8198	.?AVSource@CryptoPP@@
+000e81b8	.?AV?$InputRejecting@VFilter@CryptoPP@@@CryptoPP@@
+000e81f4	.?AVBase64Encoder@CryptoPP@@
+000e821c	.?AVSimpleProxyFilter@CryptoPP@@
+000e8248	.?AVBaseN_Encoder@CryptoPP@@
+000e8270	.?AVGrouper@CryptoPP@@
+000e8290	.?AV?$StringSinkTemplate@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@CryptoPP@@
+000e8300	.?AUInputRejected@?$InputRejecting@VFilter@CryptoPP@@@CryptoPP@@
+000e834c	.?AVStringStore@CryptoPP@@
+000e8370	.?AVStore@CryptoPP@@
+000e8390	.?AV?$AutoSignaling@V?$InputRejecting@VBufferedTransformation@CryptoPP@@@CryptoPP@@@CryptoPP@@
+000e83f8	.?AV?$CipherModeFinalTemplate_CipherHolder@V?$BlockCipherFinal@$00VDec@Rijndael@CryptoPP@@@CryptoPP@@VECB_OneWay@2@@CryptoPP@@
+000e8480	.?AV?$ObjectHolder@V?$BlockCipherFinal@$00VDec@Rijndael@CryptoPP@@@CryptoPP@@@CryptoPP@@
+000e84e8	.?AV?$AlgorithmImpl@VECB_OneWay@CryptoPP@@V?$CipherModeFinalTemplate_CipherHolder@V?$BlockCipherFinal@$00VDec@Rijndael@CryptoPP@@@CryptoPP@@VECB_OneWay@2@@2@@CryptoPP@@
+000e859c	.?AVECB_OneWay@CryptoPP@@
+000e85c0	.?AVBlockOrientedCipherModeBase@CryptoPP@@
+000e85f4	.?AVCipherModeBase@CryptoPP@@
+000e861c	.?AVSymmetricCipher@CryptoPP@@
+000e8644	.?AVSimpleKeyingInterface@CryptoPP@@
+000e8678	.?AV?$CipherModeFinalTemplate_CipherHolder@V?$BlockCipherFinal@$0A@VEnc@Rijndael@CryptoPP@@@CryptoPP@@VECB_OneWay@2@@CryptoPP@@
+000e8700	.?AV?$ObjectHolder@V?$BlockCipherFinal@$0A@VEnc@Rijndael@CryptoPP@@@CryptoPP@@@CryptoPP@@
+000e8768	.?AV?$AlgorithmImpl@VECB_OneWay@CryptoPP@@V?$CipherModeFinalTemplate_CipherHolder@V?$BlockCipherFinal@$0A@VEnc@Rijndael@CryptoPP@@@CryptoPP@@VECB_OneWay@2@@2@@CryptoPP@@
+000e8820	.?AV?$BlockCipherFinal@$00VDec@Rijndael@CryptoPP@@@CryptoPP@@
+000e8868	.?AV?$ClonableImpl@V?$BlockCipherFinal@$00VDec@Rijndael@CryptoPP@@@CryptoPP@@VDec@Rijndael@2@@CryptoPP@@
+000e88dc	.?AVDec@Rijndael@CryptoPP@@
+000e8900	.?AVBase@Rijndael@CryptoPP@@
+000e8928	.?AV?$BlockCipherImpl@URijndael_Info@CryptoPP@@VBlockCipher@2@@CryptoPP@@
+000e8980	.?AV?$AlgorithmImpl@V?$SimpleKeyingInterfaceImpl@V?$TwoBases@VBlockCipher@CryptoPP@@URijndael_Info@2@@CryptoPP@@V12@@CryptoPP@@V12@@CryptoPP@@
+000e8a18	.?AV?$SimpleKeyingInterfaceImpl@V?$TwoBases@VBlockCipher@CryptoPP@@URijndael_Info@2@@CryptoPP@@V12@@CryptoPP@@
+000e8a90	.?AV?$TwoBases@VBlockCipher@CryptoPP@@URijndael_Info@2@@CryptoPP@@
+000e8adc	.?AVBlockCipher@CryptoPP@@
+000e8b00	.?AVBlockTransformation@CryptoPP@@
+000e8b2c	.?AURijndael_Info@CryptoPP@@
+000e8b54	.?AV?$FixedBlockSize@$0BA@@CryptoPP@@
+000e8b88	.?AV?$VariableKeyLength@$0BA@$0BA@$0CA@$07$03$0A@@CryptoPP@@
+000e8bd0	.?AV?$BlockCipherFinal@$0A@VEnc@Rijndael@CryptoPP@@@CryptoPP@@
+000e8c18	.?AV?$ClonableImpl@V?$BlockCipherFinal@$0A@VEnc@Rijndael@CryptoPP@@@CryptoPP@@VEnc@Rijndael@2@@CryptoPP@@
+000e8c8c	.?AVEnc@Rijndael@CryptoPP@@
+000e8cb0	.PAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+000e8cfc	.?AV?$AlgorithmParametersTemplate@_N@CryptoPP@@
+000e8d38	.?AUThank_you@Define_the_symbol__ATL_MIXED@@
+000e8d70	.?AVCConfigMgr@@
+000e8d8c	.?AVCTartarosConfig@@
+000e8dac	.?AUIConfigNode@@
+000e8dc8	.?AV?$ConfigFixedNode@H@@
+000e8dec	.?AV?$ConfigFixedNode@M@@
+000e8e10	.?AV?$ConfigNode@E@@
+000e8e30	.?AV?$ConfigNode@F@@
+000e8e50	.?AV?$ConfigNode@H@@
+000e8e70	.?AV?$ConfigNode@M@@
+000e8e94	.?AVinvalid_argument@std@@
+000e8ecc	.?AV_Locimp@locale@std@@
+000e8ef8	Copyright (c) 1992-2004 by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED.
+000e8f6c	.?AVtype_info@@
+000e8f88	.?AVbad_typeid@std@@
+000e8fa8	.?AV__non_rtti_object@std@@
+000e92bc	.?AVbad_exception@std@@
+000e9766	                          
+000e9846	abcdefghijklmnopqrstuvwxyz
+000e9866	ABCDEFGHIJKLMNOPQRSTUVWXYZ
+000e996a	                          
+000e9a51	abcdefghijklmnopqrstuvwxyz
+000e9a71	ABCDEFGHIJKLMNOPQRSTUVWXYZ
+000ea10e	z?aUY
+000ea150	zc%C1
+000ea1a3	-64OS
+000ea3dc	.?AUDefaultProvider@@
+000ea3fc	.?AUProviderBase@CExecuter@Patch@@
+000ea428	.?AVexception@std@@
+000ea444	.?AVlogic_error@std@@
+000ea464	.?AVlength_error@std@@
+000ea484	.?AVbad_alloc@std@@
+000ea4a0	.?AVTiXmlBase@@
+000ea4b8	.?AVTiXmlNode@@
+000ea4d0	.?AVTiXmlDocument@@
+000ea4ec	.?AVout_of_range@std@@
+000ea50c	.?AVTiXmlDeclaration@@
+000ea530	.?AUMemStream@?1??MakePackingRuleFile@PackingRuleList@@QAEXPAVCPackage@Package@@@Z@
+000ea58c	.?AUReadStream@@
+000ea5a8	.?AUStreamBase@@
+000ea5c4	.?AUMemoryStream@@
+000ea5e0	.?AUCustomStream@?1??ReadPackingRules@PackingRuleList@@QAEXPAVCPackage@Package@@@Z@
+000ea63c	.?AUWriteStream@@
+000ea78c	.?AV?$numpunct@D@std@@
+000ea7ac	.?AVTiXmlPrinter@@
+000ea7c8	.?AVTiXmlVisitor@@
+000ea7e4	.?AVTiXmlText@@
+000ea7fc	.?AVTiXmlAttribute@@
+000ea81c	.?AVTiXmlUnknown@@
+000ea838	.?AVTiXmlComment@@
+000ea854	.?AVTiXmlElement@@
+000ea870	.?AV?$num_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@
+000ea8c4	.?AV?$ctype@D@std@@
+000ea8e0	.?AUctype_base@std@@
+000ea900	.?AVfacet@locale@std@@
+000ea920	.?AV?$basic_ostringstream@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+000ea978	.?AV?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+000ea9c8	.?AV?$basic_ostream@DU?$char_traits@D@std@@@std@@
+000eaa04	.?AV?$basic_streambuf@DU?$char_traits@D@std@@@std@@
+000eaa40	.?AV?$basic_ios@DU?$char_traits@D@std@@@std@@
+000eaa78	.?AV?$_Iosb@H@std@@
+000eaa94	.?AVios_base@std@@
+000eaab0	.?AVruntime_error@std@@
+000eaad0	.?AVfailure@ios_base@std@@
+000eaaf4	.?AVbad_cast@std@@
+000eab10	.?AVTiXmlErrorReporter@@
+000eab34	.?AV?$AlgorithmParametersTemplate@I@CryptoPP@@
+000eab70	.?AV?$AlgorithmParametersTemplate@W4BlockPaddingScheme@BlockPaddingSchemeDef@CryptoPP@@@CryptoPP@@
+000eabdc	.?AVProxyFilter@CryptoPP@@
+000eac00	.?AVSink@CryptoPP@@
+000eac20	.?AV?$CustomFlushPropagation@VSink@CryptoPP@@@CryptoPP@@
+000eac68	.?AV?$CustomSignalPropagation@VSink@CryptoPP@@@CryptoPP@@
+000eacac	.?AVOutputProxy@CryptoPP@@
+000eacd0	.?AVSignatureVerificationFilter@CryptoPP@@
+000ead04	.?AVAuthenticatedEncryptionFilter@CryptoPP@@
+000ead3c	.?AVAuthenticatedDecryptionFilter@CryptoPP@@
+000ead74	.?AVHashVerificationFilter@CryptoPP@@
+000eada4	.?AV?$Bufferless@VFilter@CryptoPP@@@CryptoPP@@
+000eaddc	.?AVHashFilter@CryptoPP@@
+000eae00	.?AUFilterPutSpaceHelper@CryptoPP@@
+000eae2c	.?AUBlockPaddingSchemeDef@CryptoPP@@
+000eae5c	.?AVStreamTransformationFilter@CryptoPP@@
+000eae90	.?AVNotCopyable@CryptoPP@@
+000eaeb4	.?AVWaitable@CryptoPP@@
+000eaed4	.?AVClonable@CryptoPP@@
+000eaef4	.?AVAlgorithm@CryptoPP@@
+000eaf18	.?AVBufferedTransformation@CryptoPP@@
+000eaf48	.?AVFilter@CryptoPP@@
+000eaf68	.?AVFilterWithBufferedInput@CryptoPP@@
+000eaf98	.?AV?$AlgorithmParametersTemplate@H@CryptoPP@@
+000eafd0	.?AVAlgorithmParametersBase@CryptoPP@@
+000eb000	.?AVNameValuePairs@CryptoPP@@
+000eb028	.?AVCombinedNameValuePairs@CryptoPP@@
+000eb058	.?AVInvalidArgument@CryptoPP@@
+000eb080	.?AUInvalidChannelName@BufferedTransformation@CryptoPP@@
+000eb0c4	.?AVInvalidDataFormat@CryptoPP@@
+000eb0f0	.?AVInvalidCiphertext@CryptoPP@@
+000eb11c	.?AVNotImplemented@CryptoPP@@
+000eb148	.?AUBlockingInputOnly@BufferedTransformation@CryptoPP@@
+000eb188	.?AVException@CryptoPP@@
+000eb1b0	.?AVParameterNotUsed@AlgorithmParametersBase@CryptoPP@@
+000eb1f0	.?AVStreamTransformation@CryptoPP@@
+000eb21c	.?AVAuthenticatedSymmetricCipher@CryptoPP@@
+000eb250	.?AVHashVerificationFailed@HashVerificationFilter@CryptoPP@@
+000eb298	.?AVSignatureVerificationFailed@SignatureVerificationFilter@CryptoPP@@
+000eb2f4	.?AVConstByteArrayParameter@CryptoPP@@
+000eb324	.?AVByteArrayParameter@CryptoPP@@
+000eb350	.PAVBufferedTransformation@CryptoPP@@
+000eb380	.PAVRandomNumberGenerator@CryptoPP@@
+000eb3b0	.?AW4BlockPaddingScheme@BlockPaddingSchemeDef@CryptoPP@@
+000eb400	.?AVValueTypeMismatch@NameValuePairs@CryptoPP@@
+000eb444	.?AVPK_DefaultDecryptionFilter@CryptoPP@@
+000eb478	.?AV?$Unflushable@VFilter@CryptoPP@@@CryptoPP@@
+000eb4b0	.?AVPK_DefaultEncryptionFilter@CryptoPP@@
+000eb4e4	.?AVRandomNumberGenerator@CryptoPP@@
+000eb514	.?AVClassNullRNG@CryptoPP@@
+000eb538	.?AVNullNameValuePairs@CryptoPP@@
+000eb564	.?AVArraySink@CryptoPP@@
+000eb588	.?AV?$AlgorithmParametersTemplate@VConstByteArrayParameter@CryptoPP@@@CryptoPP@@
+000eb5e4	.?AV?$Bufferless@VSink@CryptoPP@@@CryptoPP@@
+000eb61c	.?AVBitBucket@CryptoPP@@
+000eb640	.?AVCannotFlush@CryptoPP@@
+000eb664	.?AUNoChannelSupport@BufferedTransformation@CryptoPP@@
+000eb6a4	.?AVInvalidKeyLength@CryptoPP@@
+000eb6cc	.?AVSelfTestFailure@CryptoPP@@
+000eb704	.?AV?$AlgorithmParametersTemplate@E@CryptoPP@@
+000eb73c	.?AV?$AlgorithmParametersTemplate@PBE@CryptoPP@@
+000eb794	.?AVAlgorithmParameters@CryptoPP@@
+000eb7c0	.?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@
+000eb810	.?AV?$AutoSignaling@VBufferedTransformation@CryptoPP@@@CryptoPP@@
+000eb85c	.?AVMessageQueue@CryptoPP@@
+000eb880	.?AV?$InputRejecting@VBufferedTransformation@CryptoPP@@@CryptoPP@@
+000eb8cc	.?AVWalker@ByteQueue@CryptoPP@@
+000eb8f8	.?AUMismatchDetected@EqualityComparisonFilter@CryptoPP@@
+000eb940	.?AUInputRejected@?$InputRejecting@VBufferedTransformation@CryptoPP@@@CryptoPP@@
+000eb9a0	.?AV?$Bufferless@VBufferedTransformation@CryptoPP@@@CryptoPP@@
+000eb9e8	.?AVByteQueue@CryptoPP@@
+000eba0c	.?AVStdFile@@
+000eba24	.?AVFile@@
+000eba38	.?AVStdCompressedFile@@
+000eba58	.?AVCPackageMgr@Package@@
+000eba7c	.?AUIPathObj@Package@@
+000eba9c	.?AUNode@Package@@
+000ebab8	.?AUDirectoryNode@Package@@
+000ebadc	.?AVCPackage@Package@@
+000ebafc	.?AVStdPackage@@
+000ebb18	.?AUFileNode@Package@@
+000ebb38	.?AVBinFile@@
+000ec5c0	-5%--%--;;;FFFYYYmmmyyy
+000ec6b5	yyymmmYYYFFF;;;%%%%%%
+000ec6d4	-5;;;
+000ec7d9	-5%--
+000ec7e8	-5555
+000ec7f8	;VVV__M
+000ec8df	;__VVVV
+000ec8ed	-5555
+000ec90a	VMDzzzppzVD3
+000ec9f1	VMDzzzppzVD3
+000ecc38	-5;;;
+000ecd3d	-5555
+000ecd4c	-5AAA
+000ece51	-5999
+000ece60	-5MMM
+000ecf65	-5BBB
+000ecf74	-5UUU
+000ed079	-5MMM
+000ed088	-5WWW
+000ed18d	-5VVV
+000ed19c	-5```
+000ed2a1	-5aaa
+000ed2b0	-5lll
+000ed3b5	-5lll
+000ed3c4	-5{{{
+000ed4c9	-5{{{
+000ed7b3	\ggPSS
+000ed8a3	9@@(00
+000ed8be	"*)duuN[[
+000edcf3	*++355
+000ee36b	LOOchh
+000ee8cc	BDDloonppnqqprr+,,
+000ee8ea	+//6779::
+000ee902	),,6889::
+000ee9a7	277@@@
+000eebd2	zzz~~~
+000eef29	098RXXaff'((
+000ef78d	aT@^= \&
+000ef7ed	ck``I0\&
+000ef7fc	^= \&
+000ef8aa	dW@`*
+000ef8c5	cL0dW@m
+000ef8d7	gyp`*
+000ef8e3	cL0`*
+000ef8f8	fn`bA `*
+000ef913	fn``*
+000ef92b	gyp`*
+000ef940	fn``*
+000ef9b8	bV@^(
+000ef9e2	dm`dm`o
+000efa0f	bV@_3
+000efa2a	dm`^(
+000efacc	eX@a+
+000efad8	fn`a+
+000efb1a	ecPa+
+000efb35	fn`fn`b6
+000efb3e	gzpfn`a+
+000efb53	eX@cA o
+000efb74	dM0a+
+000efbe0	o~pf1
+000efbf5	ns`f1
+000efc43	iG f1
+000efd09	va@i4
+000efd54	va@i4
+000efe05	rJ ~b@g2
+000efe1d	~b@g2
+000efe50	xV0g2
+000efe72	z`~b@
+000f047d	{mDpD
+000f049e	}wS{mD
+000f04bc	{mD}wSpD
+000f04cb	uY$pD
+000f04e9	{mDpD
+000f0510	}wSuY$
+000f0519	{mDsN
+000f0591	wkDvD
+000f059d	xuSvD
+000f05f1	wkDvD
+000f05fd	wkDvD
+000f06a5	xkD{E
+000f06ae	yX$wuS{E
+000f0702	xkDwuS{E
+000f0711	yX$yb4{E
+000f07b9	wnCwnCs
+000f08df	w|T{O
+000f0be2	MM;zzzppzMD3
+000f0ccf	ppzMD3M 
+000f0de6	___D 
+000f16c8	-57??7??NNNXXXkkk~~~
+000f17c0	~~~kkkXXXNNN777777
+000f17dc	-5NNN0GN"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G)?G7??
+000f18f0	-5GGG"?G
+000f1900	JccckkZ
+000f19e7	Jkkcccc
+000f19f3	B"?GGGG
+000f1a04	-5)))"?G
+000f1b07	R"?G111
+000f1c2c	-5111"?G
+000f1d2f	J"?G)))
+000f1d40	-5NNN"?G
+000f1e43	J"?GGGG
+000f1e54	-5TTT"?G
+000f1f57	J"?GKKK
+000f1f68	-5```"?G
+000f206b	J"?GTTT
+000f207c	-5ggg"?G
+000f217f	J"?G```
+000f2190	-5jjj"?G
+000f2293	J"?Giii
+000f22a4	-5rrr"?G
+000f23a7	K"?Gsss
+000f23b8	-5~~~"?G
+000f24bb	J"?G~~~
+000f2bd3	@@@000
+000f3023	)**9::
+000f32be	{9"?G
+000f33d2	{5"?G
+000f3440	PPP   
+000f34e6	z1"?G
+000f35fa	v0"?G
+000f369b	TUUpss
+000f370e	r1"?G
+000f3822	t2"?G
+000f3936	q/"?G
+000f3a4a	m+"?G
+000f3b5e	j("?G
+000f3bfc	JKKwxxwxxwxxwxx,--
+000f3c1a	+,,;<<;<<
+000f3c32	+,,;<<;;;
+000f3c72	k)"?G
+000f3cd7	@@@@@@
+000f3d86	k)"?G
+000f3e9a	k)"?G
+000f3fae	k)"?G
+000f40c2	k)"?G
+000f41d6	l*"?G
+000f4259	133jmmjmm%&&
+000f42ea	n,"?G
+000f43fe	l*"?G
+000f4512	i'"?G
+000f4626	j&"?G
+000f473a	k'"?G
+000f484e	h("?G
+000f4962	f*"?G
+000f4a76	i+"?G
+000f4b8a	h("?G
+000f4c9e	d$"?G
+000f4db1	}e$"?G
+000f4ec5	|f'"?G
+000f4fd9	}d("?G
+000f50ed	|a&"?G
+000f5201	{`!"?G
+000f6002	sc9Z1
+000f6116	kkkR1
+000f6359	"?G))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))"?G
+000f6470	"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G"?G
+000f6c20	-5%--%--;;;FFFYYYmmmyyy
+000f6d15	yyymmmYYYFFF;;;%%%%%%
+000f6d34	-5;;;
+000f6e39	-5%--
+000f6e48	-5555
+000f6f4d	-5555
+000f6f62	-5{{9{Z!cZZ
+000f7076	-5JJ!R9
+000f7298	-5;;;
+000f739d	-5555
+000f73ac	-5AAA
+000f74b1	-5999
+000f74c0	-5MMM
+000f75c5	-5BBB
+000f75d4	-5UUU
+000f76d9	-5MMM
+000f76e8	-5WWW
+000f77ed	-5VVV
+000f77fc	-5```
+000f7901	-5aaa
+000f7910	-5lll
+000f7a15	-5lll
+000f7a24	-5{{{
+000f7b29	-5{{{
+000f7beb	\ggPSS
+000f7cdb	9@@(00
+000f7cf6	"*)duuN[[
+000f812b	*++355
+000f87a3	LOOchh
+000f8d04	BDDloonppnqqprr+,,
+000f8d22	+//6779::
+000f8d3a	),,6889::
+000f8ddf	277@@@
+000f900a	zzz~~~
+000f9361	098RXXaff'((
+000f9bc5	f\FeG'c1
+000f9c25	hreeR6c1
+000f9c34	eG'c1
+000f9ce2	e\Gb0
+000f9cfd	dQ7e\Gm
+000f9d0f	h|ub0
+000f9d1b	dQ7b0
+000f9d30	grfdF(b0
+000f9d4b	grfb0
+000f9d63	h|ub0
+000f9d78	grfb0
+000f9df0	g]Fd2
+000f9e1a	hsehseo
+000f9e47	g]Fe=
+000f9e62	hsed2
+000f9f04	j`Fh6
+000f9f10	kueh6
+000f9f52	jkUh6
+000f9f6d	kuekuehA
+000f9f78	tkueh6
+000f9f8b	j`FiK'o
+000f9fac	iV6h6
+000fa02d	ryel:
+000fa07b	nO'l:
+000fa141	vdEj8
+000fa18c	vdEj8
+000fa288	}]8m;
+000fa4b6	}O tC
+000fa4cc	f>}O 
+000fa9c9	{pL{J
+000fa9d5	{y[{J
+000faa29	{pL{J
+000faa35	{pL{J
+000faadd	wrOzN
+000faae6	y`1w{^zN
+000fab3a	wrOw{^zN
+000fab49	y`1xi@zN
+000fabf1	xuRxuRt
+000fb131	ccckcR
+000fb216	c!kkkskc
+000fb327	k!ZZJ
+000fb35f	kkksR
+000fb446	kkk{B
+000fbfe0	-5%--%--;;;FFFYYYmmmyyy
+000fc102	yyymmmYYYFFF;;;%%%%%%
+000fc124	-5;;;
+000fc256	-5%--
+000fc268	-5555
+000fc279	7778A,_
+000fc38d	<A7777_
+000fc39a	-5555
+000fc501	uuuutaus
+000fc615	utauuuus
+000fc634	-5QQQ
+000fc6b7	@@@   
+000fc6d2	000(*
+000fc6f6	   QU
+000fc766	-5FFF
+000fc778	-5]]]
+000fc7f2	pppPPP
+000fc7fb	   @@@
+000fc81c	``````ppp
+000fc828	```ppp
+000fc83a	   UN
+000fc8aa	-5]]]
+000fc95d	7>@3.
+000fca74	7JP*$
+000fcbb8	&9@90
+000fcbfd	&9@&9@
+000fcc06	Cep+$
+000fccfc	7JP83
+000fcd32	MgpMgp
+000fcd4a	!,0E?
+000fce8b	S]`# 
+000fcf8a	PPP@@@```   @@@
+000fd0d7	@@@@@@
+000fd2f3	AAAlu
+000fd407	AAA<@
+000fdd28	DP""""""
+000fdd31	"""""""""""
+000fde4b	""""""""""""""...888
+000fde6c	DP8DD8DDYYYjjj
+000fdf97	jjjYYY888888
+000fdfb0	DPYYY-PY
+000fe0df	IV"DP8DD
+000fe0f4	DPPPP
+000fe104	JYYY[jG
+000fe218	BajYYYY
+000fe226	DPPPP
+000fe37c	DP...
+000fe4ae	DP"""
+000fe4c0	DPzzz
+000fe5f2	DPjjj
+000fe687	@@@   
+000fe6a2	000oo
+000fe7c2	pppPPP
+000fe7cb	   @@@
+000fe7ec	``````ppp
+000fe7f8	```ppp
+000fea44	7JP}l
+000febbe	&9@>5
+000febcd	&9@&9@
+000febd6	Cepud
+000fed02	MgpMgp
+000fee5b	S]`TN
+000fef5a	PPP@@@```   @@@
+000ff0a7	@@@@@@
+000ff67e	DP"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+000fff80	-5%--%--;;;FFFYYYmmmyyy
+001000a2	yyymmmYYYFFF;;;%%%%%%
+001000c4	-5;;;
+001001f6	-5%--
+00100208	-5555
+00100218	JYYY[jG
+0010032c	BajYYYY
+0010033a	-5555
+00100496	-5?J%nl
+00100516	@@@   
+00100531	000EC
+001005d4	-5QQQ
+001005da	-5=H#AD
+00100651	pppPPP
+0010065a	   @@@
+0010067b	``````ppp
+00100687	```ppp
+00100699	   QU
+00100706	-5FFF
+00100718	-5ZZZ
+0010071e	-5<E!D?
+001007bc	7>@<7
+0010084a	-5ZZZ
+001008d3	7JP,'
+00100a17	&9@;4
+00100a5c	&9@&9@
+00100a65	Cep,'
+00100b5b	7JP2*
+00100b91	MgpMgp
+00100ba9	!,0>4
+00100cea	S]`# 
+00100de9	PPP@@@```   @@@
+00100f36	@@@@@@
+00101293	AAAKR
+001013a7	XXX[[
+001013c6	-564#0-
+00101d2c	-5;;;>>>;;;@@@YYYmmmyyy
+00101ddc	yyymmmYYYFFF@@@;;;>>>;;;
+00101e00	-5;;;
+00101ec3	-5;;;
+00101ed4	-5FFF
+00101ee3	HTaaa
+00101f88	HTaaa
+00101f97	-5FFF
+00101fa8	-5FFF
+00101fb4	7[aaa
+00102059	7[aaa
+0010206b	-5FFF
+0010207c	-5PPP
+0010209a	4_n*M
+001020a9	4_w-Sw-S
+001020b2	4_f'G
+001020be	4_U ;f'Gw-S
+001020d9	4_n*Mf'Gf'Gn*M
+001020e8	4_f'G
+001020f4	4_f'G
+00102100	4_]$Af'Gw-S
+0010210f	4_w-Sf'Gf'Gw-Sn*M
+00102127	1Yf'G
+0010213f	-5PPP
+00102150	-5YYY
+0010217a	2[V!<      6
+00102187	%@@@6
+00102194	```@@@   V!<
+001021a7	2[V!< 
+001021af	000@@@@@@0006
+001021bd	%@@@6
+001021c9	%@@@6
+001021d6	PPP@@@   V!<6
+001021e4	%   @@@@@@   000
+00102213	-5YYY
+00102224	-5sss
+0010222f	y0Wy0Wy0Wy0Wy0Wy0W
+00102274	y0Wy0WP 9   
+00102295	@@@[$A@@@
+001022a1	@@@```
+001022d7	y0Wy0Wy0Wy0W
+001022e7	-5sss
+00102303	u.Tu.Ts.Ss.Ss.Su.T
+00102347	7u.Tu.T
+00102369	???W">???
+001023aa	1s-Rt-Ss-Rt-S
+001023d7	p+Qp+Qp+Qp+Qp+Qp+Q
+00102410	ofmofmofm
+0010241c	i(LT =836
+0010242d	0p+Qp+Qi(L
+0010243d	836T =836
+00102452	ofmofmofmbZ_
+00102464	X"@p+Q
+0010247b	&p+Qp+Qp+Qp+Qp+Q
+001024ab	j*Pj*Pj*Pj*Pj*Pj*P
+001024c3	xcs0(.0(.
+001024ff	j*Pj*Pj*Pj*P
+00102538	g)Nj*P
+0010254f	0j*Pj*Pj*Pj*Pj*P
+0010257f	i&Mi&Mi&Mi&Mi&Mi&M
+001025d3	i&Mi&Mi&Mi&M
+00102626	<i&Mi&Mi&Mi&M
+00102653	i$Lh$Kh$Ki$Li$Li$L
+00102697	!i$LA
+001026a9	7i$Li$Li$L
+001026ec	ofm*&)
+001026fb	i$Li$Li$Li$L
+00102727	r!Jr!Jr#Jr#Jr!Jr!J
+00102760	onn???/
+0010276b	?r!Jk
+0010278d	onnonn///*
+001027a2	onnONO/
+001027b1	///_^^onn 
+001027ce	:r!Jr!Jr!Jr#Jv!4
+001027fb	r Ir Ir Ir Ir Ir I
+0010281f	pppppp@@@
+00102839	7r Ir Ir Ir I6
+00102869	;r Ir Ir Ik
+0010287b	2r Ir Ir I]
+0010289f	;r Ir Ir Ir Ir Ii 3
+0010291f	&   ppp
+00102a7b	 ITTT
+00102b20	 ITTT
+00102b4c	 KTTT
+00102bf1	 KTTT
+001032e0	-5;;;>>>;;;@@@YYYmmmyyy
+00103390	yyymmmYYYFFF@@@;;;>>>;;;
+001033b4	-5;;;
+00103477	-5;;;
+00103488	-5FFF
+0010354b	-5FFF
+0010355c	-5FFF
+0010361f	-5FFF
+00103630	-5PPP
+001036f3	-5PPP
+00103704	-5YYY
+00103721	Y!<000
+00103731	5`      Y!<@@@Y!<f&E
+00103748	```@@@   
+00103762	$000@@@@@@000Y!<@@@Y!<
+0010377b	Y!<@@@Y!<s+N
+0010378a	PPP@@@   
+00103794	5`Y!<   @@@@@@   000
+001037c7	-5YYY
+001037d8	-5sss
+0010382f	4^   
+0010384d	;j@@@
+00103855	@@@```
+0010389b	-5sss
+00103921	:h@?@
+00103938	      
+00103959	0/0u/T
+001039a3	~qzZ%A
+001039c4	~qz~qz~qz
+001039d4	7b?8=
+001039dc	?8=n,O
+001039f5	8d?8=
+00103a06	~qz~qz~qzock
+00103a2a	_U\V$?
+00103a7a	>2;>2;
+00103aa5	>pX#@}cv
+00103ac9	6a>2;
+00103b79	E~R"?}cv
+00103c4d	A{f)M_U\
+00103ca0	~qz/*.
+00103cfe	<      @?@
+00103d14	pop@?@D
+00103d41	poppop0/0=
+00103d56	popPOPD
+00103d64	10/0`_`pop   
+00103d79	8   0/0
+00103dd3	pppppp@@@
+00103e3a	-^n#Hc
+00103ed3	6   ppp
+001041a8	2sTTT
+00104894	-5;;;>>>;;;@@@YYYmmmyyy
+00104944	yyymmmYYYFFF@@@;;;>>>;;;
+00104968	-5;;;
+00104a2b	-5;;;
+00104a3c	-5FFF
+00104aff	-5FFF
+00104b10	-5FFF
+00104b46	Mvy:X
+00104b52	Mve0Jy:X
+00104b70	?`y:Xy:X
+00104b7c	Mvy:X
+00104b88	Mvy:X
+00104b94	Mvo5Qy:X
+00104ba6	Cgy:Xy:X
+00104bbb	Hoy:X
+00104bc1	Mvaaa
+00104bd3	-5FFF
+00104be4	-5PPP
+00104c0e	Ktg1L      @
+00104c1b	0@@@@
+00104c28	```@@@   g1L
+00104c3b	Ktg1L'
+00104c43	000@@@@@@000@
+00104c51	0@@@@
+00104c5d	0@@@@
+00104c6a	PPP@@@   g1L@
+00104c78	0   @@@@@@   000
+00104c91	@@@]-E
+00104ca7	-5PPP
+00104cb8	-5YYY
+00104d0c	2[V!<   
+00104d29	@@@a%D@@@
+00104d35	@@@```
+00104d7b	-5YYY
+00104d8c	-5sss
+00104d9c	.y0Wy0Wy0Wy0W
+00104dd9	P 9y0Wy0W
+00104dfd	???[$B???
+00104e3e	4y0Wy0W
+00104e4f	-5sss
+00104e70	,s.Ss.Ss.Ss.S
+00104ea4	ofmofmofm
+00104eb0	m+OW"?836
+00104ec1	1s.Ss.Sl+N
+00104ed1	836W"?836
+00104ee6	ofmofmofmbZ_
+00104ef8	U#=l+N
+00104f0f	$t-Ss-Rt-S
+00104f44	+p+Qp+Qp+Qp+Q
+00104f57	xcs0(.0(.
+00104f93	p+Qp+Qp+Qp+Q
+00104fa5	0(.T =0(.
+00104fcc	m*Op+Q
+00104fe3	0p+Qp+Qp+Q
+00105018	+j*Pj*Pj*Pj*P
+00105067	j*Pj*Pj*Pj*P
+001050b8	S!?j*Pj*P
+001050ec	*i&Mi&Mi&Mi&M
+0010512b	"i&MA
+0010513d	8i&Mi&Mi&M
+00105180	ofm*&)
+0010518f	i&Mi&M
+001051c0	)h$Ki$Li$Li$L
+001051f4	onn???+
+001051ff	@i$Lb"G
+00105221	onnonn///'
+00105236	onnONO+
+00105245	///_^^onn 
+00105262	;i$Li$L
+00105294	(r#Jr#Jr!Jr!J
+001052b3	pppppp@@@
+001052cd	7r!Jr!Jr!Jr!J6
+001052fd	<r!Jr!Jr!Jk
+0010530f	3r!Jr!Jr!J]
+00105333	<r!Jr!Jr!J
+00105368	(r Ir Ir Ir I/
+00105396	r Ir Ir Ir Ir Ir Ir Ir Ir I6
+001053b3	"   ppp
+001053ce	;r Ir Ir Ir Ir Ir Ir Ir Ir Ir Ir Ir Ir I
+00105401	)r Ir Ir Ir Ir I
+001055e4	(TTTl
+00105cbc	V,?V,?V,?V,?V,?V,?V,?V,?V,?V,?
+00105cdc	_2G_2G_2G_2G_2G_2G_2G_2G_2G_2G
+00105cfc	e6Ne6Ne6Ne6Ne6Ne6Ne6Ne6Ne6Ne6N
+00105d1c	p<Up<Up<Up<Up<Up<Up<Up<Up<Up<U
+00105d3c	xC\xC\xC\xC\xC\xC\xC\xC\xC\xC\
+00105e24	V2,V2,V2,V2,V2,V2,V2,V2,V2,V2,
+00105e44	_72_72_72_72_72_72_72_72_72_72
+00105e64	e96e96e96e96e96e96e96e96e96e96
+00105e84	pA<pA<pA<pA<pA<pA<pA<pA<pA<pA<
+00105ea4	xICxICxICxICxICxICxICxICxICxIC
+001062ac	-5%--%--;;;FFFYYYmmmyyy
+001063a1	yyymmmYYYFFF;;;%%%%%%
+001063c0	-5;;;
+001064c5	-5%--
+001064d4	-5555
+001064e3	\B7778A,
+001065ca	\B<A7777
+001065d9	-5555
+001065f4	9/777
+001066db	9/777
+0010670b	2/uuuuta
+00106726	2/t-+@
+00106735	2/\$"(
+0010673d	\$"X" @
+00106746	t-+\$"(
+00106753	2/d'%0
+00106764	t-+\$"(
+00106777	2/t-+@
+00106782	d'%l*(8
+00106798	2/t-+@
+001067a4	2/\$"(
+001067ac	\$"t-+@
+001067b9	2/\$"(
+001067ce	2/\$"(
+001067e0	2/`%#0
+001067f2	2/utauuu
+00106810	-5QQQ
+0010681b	q5.q5.q5.q5.q5.q5.N$ PPP
+00106848	c.(   
+001068a5	q5.q5.q5.8
+001068b4	```F!
+001068c9	PPPJ#
+00106905	q5.q5.q5.q5.
+00106915	-5FFF
+00106924	-5YYY
+0010692f	q./q./q./q./q./q./#
+0010695c	U"#@??
+001069b9	q./q./q./
+00106a19	q./q./q./q./
+00106a29	-5YYY
+00106a43	g-/g-/g-/g-/g-/g-/
+00106a8b	@7;PEJ
+00106ab2	@7;0),
+00106abe	p`h`RY
+00106acf	 g-/g-/
+00106b19	nvPEJ
+00106b21	@7;@7;@7; 
+00106b2d	Z')g-/g-/g-/
+00106b57	g-/g-/g-/g-/g-/G
+00106be4	g-/g-/
+00106bf1	^n`FR
+00106c2d	^npR`
+00106c44	g-/g-/g-/yB.
+00106c6a	za,2a,2a,2a,2a,2*
+00106c8f	pR``FR
+00106cec	0#)P;E
+00106cf8	a,2a,2
+00106d52	@/7I!%a,2a,2a,2x=.
+00106d7d	rfg-/g-/g-/g-/g-/
+00106dac	0),@7;
+00106e09	@7;M"#g-/
+00106e21	Q#%0),
+00106e69	g-/g-/g-/g-/i<-
+00106e91	h_g-/g-/g-/g-/Z') 
+00106ece	 0/0@??0/0
+00106ee4	@??@??
+00106ef9	@??0/0*
+00106f20	a*,g-/
+00106f4d	@??@??&
+00106f5e	 @??0/0
+00106f7d	g-/g-/g-/g-/b8,
+00106fa5	`Yq./q./q./q./?
+00106fbf	c()   
+00106fe0	c()\%&U"#\%&q./q./q./j+,U"#8
+00107007	q./q./U"#\%&q./j+,\%&q./q./c()c()q./q./\%&j+,q./q./
+00107043	@@@U"#q./C
+0010705b	q./q./U"#U"#q./q./q./c()U"#
+00107082	q./c()U"#j+,q./q./q./q./q./a6,
+001070b9	WPq5.q5.q5.q5.c.(      5
+001070df	Y*$g0*
+001070e8	000   
+001070f4	q5.q5.q5.q5.q5.q5.q5.q5.q5.F!
+0010711b	q5.q5.q5.q5.q5.q5.q5.q5.q5.q5.q5.q5.q5.q5.q5.q5.q5.J#
+00107151	   @@@/
+0010715a	q5.q5.q5./
+00107166	@@@   c.(q5.q5.q5.q5.q5.q5.q5.q5.q5.1
+00107190	PPPN$ q5.q5.q5.q5.q5.q5.q5.q5.q5.Z5+
+001071cd	PKy5.y5.y5.y5.y5.j.(j.(y5.y5.y5.[("q2+y5.y5.q2+b+%j.(<
+00107205	n0*y5.y5.y5.y5.y5.y5.y5.y5.y5.y5.K!
+0010722c	n0*y5.y5.y5.y5.y5.y5.y5.y5.y5.y5.y5.y5.y5.y5.y5.y5.y5.y5.j.([("y5.y5.y5.y5.y5.[("j.(y5.y5.y5.y5.y5.y5.y5.y5.y5.y5.f-'5
+001072a4	S$ y5.y5.y5.y5.y5.y5.y5.y5.y5.y5.X/+
+001072e4	9/UUU
+001073cb	9/UUU
+001073d6	AAAW0+
+001074eb	mpa,2
+00122a36	MS PGothic
+00122ab4	msctls_progress32
+00122af4	msctls_progress32
+00122b34	{8856F961-340A-11D0-A96B-00C04FD705A2}
+00122ba4	Static
+00122bd0	Static
+00122bfc	Static
+00122c28	FullCheck
+00122c5c	Static
+00122c88	window
+00122d02	MS Shell Dlg
+00122d1e	PatchClient2
+00122d38	Integrity.xml
+00122d54	Temporary(Verifying patch information in progress
+00122dba	Executing Diff...<Update has completed. Click [Game Start] button to continue.
+00122e58	{0} Unzip in progress
+00122e86	{0} Download in progress
+00122eba	Download in progress
+00122ee6	Launcher v{0}{1}
+00122f08	Are you sure you want to quit?#Unable to retrieve patch info file.
+00122f8e	An error has occurred.<An error has occurred during the patch process. 
+00123020	Code = {0}RUnable to proceed with patch update due to necessary file(s) already being opened.*Downloading patch information in progress
+00123130	$The launcher is now shutting down...
+0012317c	TartarosSAn abnormal status has been detected within the files. Please restart the launcher.
+00123236	Analyzing entire files
+00123264	-Unable to run more than 1 launcher at a time.%This window version is not supported.QAn abnormal status has been detected within the files. Unable to access the game. {0} Analyzing files in progress
+00123408	Ready
+0027910a	TRUEVISION-XFILE.
+00279162	VS_VERSION_INFO
+002791be	StringFileInfo
+002791e2	040004b0
+002791fa	FileDescription
+0027921c	Tartaros Online Launcher
+00279256	FileVersion
+00279270	1, 0, 0, 1
+0027928e	InternalName
+002792a8	Tartaros Online
+002792ce	LegalCopyright
+002792ec	Copyright (C) INTIVSOFT. All Rights Reserved.
+0027934e	OriginalFilename
+00279370	Launcher.exe
+00279392	ProductName
+002793ac	Tartaros Online Launcher
+002793e6	ProductVersion
+00279404	1, 0, 0, 1
+00279422	VarFileInfo
+00279442	Translation
+00279460	<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"><assemblyIdentity version="1.0.0.0" processorArchitecture="x86" name="Tartaros" type="win32"></assemblyIdentity><description>Tartaros</description><dependency><dependentAssembly><assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version="6.0.0.0" processorArchitecture="x86" publicKeyToken="6595b64144ccf1df" language="*"></assemblyIdentity></dependentAssembly></dependency><trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="requireAdministrator" uiAccess="false"></requestedExecutionLevel></requestedPrivileges></security></trustInfo></assembly>
+002797ca	PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADD

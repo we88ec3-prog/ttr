@@ -1,0 +1,789 @@
+0000004d	!This program cannot be run in DOS mode.
+000000d7	;RichGz
+000001e0	.text
+00000207	`.rdata
+0000022f	@.data
+00000258	.data1
+00000280	.rsrc
+000002a7	@.reloc
+000012cd	$[]^_
+000012f3	$[]^_
+000014a0	$[]^_
+0000278d	ta;u0}:
+000027c7	GF;u0|
+00002de7	CF;u0|
+00003bf2	tl;V0}E
+00003c37	GC;^0|
+0000404f	|$<E;
+00004072	d[]^_
+000040df	l$<A;
+0000433b	T$<F;
+000044bf	T$<F;
+00004568	$[]^_
+000045b3	$[]^_
+0000460b	$[]^_
+0000463b	$[]^_
+00004667	$[]^_
+0000469f	$[]^_
+000046cf	$[]^_
+00004ab4	l$,;O0|
+00005dda	FG;}0|
+0000624b	T$<F;
+000063cf	T$<F;
+000066e6	|[]^_
+00007786	|[]^_
+0000888b	t[]^_
+000088d9	t[]^_
+00008964	t[]^_
+00008cab	t[]^_
+00008cf9	t[]^_
+00008d84	t[]^_
+0000acab	t[]^_
+0000acf9	t[]^_
+0000ad84	t[]^_
+0000bb3b	t[]^_
+0000ca3e	$[]^_
+0000d276	t[]^_
+0000d32b	t[]^_
+0000d383	t[]^_
+0000d418	t[]^_
+0000d8d1	\$@+\$<
+0000dde9	D[]^_
+0000e3bb	|[]^_
+0000eef8	D[]^_
+0000f6bb	t[]^_
+0000f709	t[]^_
+0000f794	t[]^_
+0000fa9b	t[]^_
+0000faf3	t[]^_
+0000fb88	t[]^_
+0001116b	t[]^_
+000111a5	t[]^_
+0001121c	t[]^_
+000114af	|$<F;
+0001153f	\$<A;
+00012597	GF;u0|
+00012a77	L$|@;
+00012ad7	t$|@;
+00012b8e	L$|@;
+000133b0	WVUSV
+000137ef	BxH;D$<u6
+00013888	$[]^_
+000138bb	$[]^_
+00013d50	WVUSV
+0001418f	BxH;D$<u6
+00014228	$[]^_
+0001425b	$[]^_
+000151d4	l[]^_
+0001531f	BxH;D$<u5
+000153b7	$[]^_
+000153ea	$[]^_
+00016354	l[]^_
+0001649f	BxH;D$<u5
+00016537	$[]^_
+0001656a	$[]^_
+0001708f	BxH;D$<u6
+00017128	$[]^_
+0001715b	$[]^_
+00017c8f	BxH;D$<u6
+00017d28	$[]^_
+00017d5b	$[]^_
+0001860f	BxH;D$<u6
+000186a8	$[]^_
+000186e8	$[]^_
+0001926f	BxH;D$<u6
+00019308	$[]^_
+00019348	$[]^_
+0001a42d	t[]^_
+0001a56f	BxH;D$<u5
+0001a607	$[]^_
+0001a647	$[]^_
+0001a9df	BxH;D$<u6
+0001aa78	$[]^_
+0001aab8	$[]^_
+0001ae50	WVUSV
+0001afcf	BxH;D$<u6
+0001b068	$[]^_
+0001b09e	$[]^_
+0001bb4f	BxH;D$<u5
+0001bbe7	$[]^_
+0001bc1d	$[]^_
+0001c0c0	WVUSV
+0001c34f	BxH;D$<u6
+0001c3e8	$[]^_
+0001c41e	$[]^_
+0001c9d0	WVUSV
+0001cc3f	BxH;D$<u6
+0001ccd8	$[]^_
+0001cd0e	$[]^_
+0001d25f	BxH;D$<u6
+0001d2f8	$[]^_
+0001d317	$[]^_
+0001e2c2	GxH;D$du5
+0001e5f3	T$`;BT
+0001e6fc	L[]^_
+0001f1b6	CxH;D$\u6
+0001f44b	D[]^_
+0001fdde	pP+L$
+00020038	$[]^_
+00020c92	+T$$+
+00020db9	,[]^_
+00021c6c	D[]^_
+00021cf4	D[]^_
+00021f04	l$,;n
+00024e2b	$[]^_
+000255d5	$[]^_
+000256b7	$[]^_
+00026034	8E;.|
+0002717e	TQQVWP
+00027392	TQQVWP
+00027bbf	RRPRj
+00027c9a	t[h@-
+0002a644	TVRQPS
+0002a66b	TVRQPS
+0002bac9	<[]^_
+0002bd1b	T$$}!
+0002beab	<[]^_
+0002bef8	<[]^_
+0002c001	;L$$~
+0002c08f	T$(F;
+0002c290	\$(B;
+0002c3c3	TPRQSV
+0002c4f0	D$$~'
+0002c516	D[]^_
+0002c549	|$@;l$$
+0002c91b	D$$~&
+0002cf82	TPQSVW
+0002e59b	L[]^_
+0002e6c6	,[]^_
+0002eebf	|$<A;
+0002ef26	d[]^_
+0002effc	d[]^_
+0002f512	D$@tC
+0002f661	D$@tD
+00030c00	T$|B;
+00031bff	\$d@;
+0003261a	C ;F|u
+00035369	t$4G;
+000354c5	|[]^_
+00036ac0	WVUSV
+0003a136	PSQRVW
+0003a354	_^ZY[X
+0003a366	PSQRVW
+0003a584	_^ZY[X
+0003a593	PSQRVW
+0003a74d	_^ZY[X
+0003a763	PSQRVW
+0003a96b	_^ZY[X
+0003a986	PSQRVW
+0003acee	_^ZY[X
+0003ad06	PSQRVW
+0003b06e	_^ZY[X
+0003b086	PSQRVW
+0003b3d4	_^ZY[X
+0003b3e6	PSQRVW
+0003b734	_^ZY[X
+0003b746	PSQRVW
+0003ba4e	_^ZY[X
+0003ba66	PSQRVW
+0003be18	_^ZY[X
+0003be26	PSQRVW
+0003c3f0	_^ZY[X
+0003c406	PSQRVW
+0003c9d0	_^ZY[X
+0003c9e6	PSQRVW
+0003cf72	_^ZY[X
+0003cf86	PSQRVW
+0003d5fa	_^ZY[X
+0003d613	PSQRVW
+0003d6b3	_^ZY[X
+0003d6c3	PSQRVW
+0003d97b	_^ZY[X
+0003d993	PSQRVW
+0003dc4b	_^ZY[X
+0003dc66	PSQRVW
+0003df94	_^ZY[X
+0003dfa6	PSQRVW
+0003e35e	_^ZY[X
+0003e376	PSQRVW
+0003e72e	_^ZY[X
+0003e743	PSQRVW
+0003ec37	_^ZY[X
+0003ec46	PSQRVW
+0003f252	_^ZY[X
+0003f266	PSQRVW
+0003f871	_^ZY[X
+0003f889	PSQRVW
+0003fc47	_^ZY[X
+0003fc53	PSQVW
+0003fd8c	_^Y[X
+0003fda3	PSQVW
+0003feaa	_^Y[X
+0003ff33	PSQRVW
+00040207	_^ZY[X
+00040213	PSQRVW
+000407b3	gx_^ZY[X
+000407c3	PSQRVW
+00040f09	h8_^ZY[X
+00042e71	oL$@f
+00042f54	oL$pf
+00043032	oD$ f
+00043038	oL$`f
+00043116	oD$0f
+0004311c	oL$Pf
+0004533e	oD$Pf
+00045350	o\$0f
+0004535a	od$pf
+00045382	o|$`f
+0004541f	ol$@f
+00045464	o|$pf
+000454ed	ot$0f
+000455d6	SQRVW
+00045609	_^ZY[
+00045615	_^ZY[
+00045986	SQRVW
+00045af9	>_^ZY[
+00045b16	PSQRVW
+00046063	_^ZY[X
+00046073	PSQRW
+000460cf	_ZY[X
+00046103	SQRVW
+00046174	_^ZY[
+00046183	SQRVW
+000463eb	?_^ZY[
+00046403	SQRVW
+0004667e	?_^ZY[
+00046768	VC20XC00U
+0004684b	SVWUj
+000468b4	t.;t$$t(
+00046ce9	u7WPS
+00046cfa	u&WVS
+00046de8	eYt,F
+00047246	`Ww!j
+000475fa	HHtpHHtl
+00047c9e	`u>Wj
+00047d12	`t:jtj
+00047d9e	u?jtj
+00047e90	HSVWh
+00048105	?=t"U
+00048259	8"uF@
+00048427	SS@SSPVSS
+00048449	t#SSUP
+00048450	t$$VSS
+000484cc	_^][YY
+00048993	^}%95
+00048a72	SVWj 
+00048b9b	SVWj 
+0004a60c	Wj@Y3
+0004ab1d	`VWuBh
+0004ae14	`uFWWj
+0004ae3a	"WWSh
+0004af26	tMWWS
+0004b42e	+ttHHtd
+0004bc98	YYF;5
+0004bd86	PPPPPPPP
+0004be06	PPPPPPPP
+0004c15d	`VWsr
+0004c370	FGQPS
+0004d116	GAIsProcessorFeaturePresent
+0004d134	KERNEL32
+0004d148	e+000
+0004d171	 (8PX
+0004d179	700WP
+0004d189	`h````
+0004d191	ppxxxx
+0004d1ac	(null)
+0004d1bc	(null)
+0004d1c4	runtime error 
+0004d1d8	TLOSS error
+0004d1e8	SING error
+0004d1f8	DOMAIN error
+0004d208	R6028
+0004d20f	- unable to initialize heap
+0004d230	R6027
+0004d237	- not enough space for lowio initialization
+0004d268	R6026
+0004d26f	- not enough space for stdio initialization
+0004d2a0	R6025
+0004d2a7	- pure virtual function call
+0004d2c8	R6024
+0004d2cf	- not enough space for _onexit/atexit table
+0004d300	R6019
+0004d307	- unable to open console device
+0004d32c	R6018
+0004d333	- unexpected heap error
+0004d350	R6017
+0004d357	- unexpected multithread lock error
+0004d380	R6016
+0004d387	- not enough space for thread data
+0004d3ae	abnormal program termination
+0004d3d0	R6009
+0004d3d7	- not enough space for environment
+0004d3fc	R6008
+0004d403	- not enough space for arguments
+0004d428	R6002
+0004d42f	- floating point not loaded
+0004d450	Microsoft Visual C++ Runtime Library
+0004d47c	Runtime Error!
+0004d48c	Program: 
+0004d49c	<program name unknown>
+0004d4b4	GetLastActivePopup
+0004d4c8	GetActiveWindow
+0004d4d8	MessageBoxA
+0004d4e4	user32.dll
+0004d51f	`1#QNAN
+0004d528	1#INF
+0004d530	1#IND
+0004d538	1#SNAN
+0004d540	H:mm:ss
+0004d548	dddd, MMMM dd, yyyy
+0004d55c	M/d/yy
+0004d56c	December
+0004d578	November
+0004d584	October
+0004d58c	September
+0004d598	August
+0004d5b0	April
+0004d5b8	March
+0004d5c0	February
+0004d5cc	January
+0004d604	Saturday
+0004d610	Friday
+0004d618	Thursday
+0004d624	Wednesday
+0004d630	Tuesday
+0004d638	Monday
+0004d640	Sunday
+0004d664	SunMonTueWedThuFriSat
+0004d67c	JanFebMarAprMayJunJulAugSepOctNovDec
+0004d7b6	CreateFileA
+0004d7c4	CloseHandle
+0004d7d2	ReadFile
+0004d7de	WriteFile
+0004d7ea	SetFilePointer
+0004d7fc	LoadLibraryA
+0004d80c	GetProcAddress
+0004d81e	FreeLibrary
+0004d82c	OutputDebugStringA
+0004d842	GetCurrentThreadId
+0004d858	GetModuleFileNameA
+0004d86e	lstrlenA
+0004d878	KERNEL32.dll
+0004d888	RtlUnwind
+0004d894	ExitProcess
+0004d8a2	TerminateProcess
+0004d8b6	GetCurrentProcess
+0004d8ca	GetCommandLineA
+0004d8dc	GetVersion
+0004d8ea	GetModuleHandleA
+0004d8fe	HeapAlloc
+0004d90a	HeapFree
+0004d916	InitializeCriticalSection
+0004d932	DeleteCriticalSection
+0004d94a	EnterCriticalSection
+0004d962	LeaveCriticalSection
+0004d97a	TlsSetValue
+0004d988	TlsAlloc
+0004d994	TlsFree
+0004d99e	SetLastError
+0004d9ae	TlsGetValue
+0004d9bc	GetLastError
+0004d9cc	SetHandleCount
+0004d9de	GetStdHandle
+0004d9ee	GetFileType
+0004d9fc	GetStartupInfoA
+0004da0e	FreeEnvironmentStringsA
+0004da28	FreeEnvironmentStringsW
+0004da42	WideCharToMultiByte
+0004da58	GetEnvironmentStrings
+0004da70	GetEnvironmentStringsW
+0004da8a	HeapDestroy
+0004da98	HeapCreate
+0004daa6	VirtualFree
+0004dab4	InterlockedDecrement
+0004dacc	InterlockedIncrement
+0004dae4	VirtualAlloc
+0004daf4	HeapReAlloc
+0004db02	GetCPInfo
+0004db0e	GetACP
+0004db18	GetOEMCP
+0004db24	MultiByteToWideChar
+0004db3a	GetStringTypeA
+0004db4c	GetStringTypeW
+0004db5e	LCMapStringA
+0004db6e	LCMapStringW
+0004db7e	SetStdHandle
+0004db8e	FlushFileBuffers
+0004dc04	ijl15.dll
+0004dc0e	ijlErrorStr
+0004dc1a	ijlFree
+0004dc22	ijlGetLibVersion
+0004dc33	ijlInit
+0004dc3b	ijlRead
+0004dc43	ijlWrite
+0004e0b6	XXXXX
+0004e2a0	@E@E@E@E@v@v@v@vj
+0004e3a3	X!{bh
+0004e3f0	AmA-Tb
+0004e420	BKBKbh~XBKBK!;
+0004e4a3	X!{bh
+0004e4f8	AmA-Tb
+0004e520	BKBKbh~XF
+0004e530	BKBK!;
+0004e631	XI2BK;
+0004e698	AmA-A-
+0004e6d0	BKBKBK
+0004e6e4	BKBKF
+0004e6f0	bh!;~X
+0004e731	XBKBKX
+0004e74a	BKBK;
+0004e770	!{bhbh
+0004e7b1	sTbTb
+0004e7d0	BKTbBK
+0004e7ea	TbBKF
+0004e7f0	bh~X~X=
+0004e831	XBKBKX
+0004e83a	BKBK;
+0004e870	!{bhbh
+0004e8b1	sTbTb
+0004e8d0	BKTbBK
+0004e8da	TbBKF
+0004e8f0	bh~X~X=
+0004f0c6	         (((((                  H
+0004fc7e	z?aUY
+0004fcc0	zc%C1
+0004fd13	-64OS
+000502f7	?+0du
+00050307	?+0du
+00050397	?+0du
+000503a7	?+0du
+000503ff	?vT5A
+0005042f	?vT5A
+00050d20	user32
+00050d40	MessageBoxA
+00050d60	PeekMessageA
+00050d80	PostQuitMessage
+00050da0	wsprintfA
+00050dc0	advapi32
+00050de0	RegOpenKeyExA
+00050e00	RegQueryValueExA
+00050e20	RegCloseKey
+00051040	Success
+00051060	Interrupt Success
+00051080	ROI Success
+000510a0	Exception detected
+000510c0	Invalid Encoder
+000510e0	Unsupported subsampling
+00051100	Unsupported bytes per pixel
+00051120	Memory error
+00051140	Bad Huffman table
+00051160	Bad Quantization table
+00051180	Invalid JPEG_PROPERTIES
+000511a0	Error close file
+000511c0	Invalid file name
+000511e0	Error EOF
+00051200	Not supported
+00051220	Not JPEG
+00051240	Error COMP
+00051260	Error SOF
+00051280	Error DNL
+000512a0	No Huffman table
+000512c0	No Quantization table
+000512e0	No frame
+00051300	Multiply frame
+00051320	Data error
+00051340	No image
+00051360	File error
+00051380	Internal error
+000513a0	Bad RST marker
+000513c0	Thumbnail too small
+000513e0	Thumbnail has wrong color
+00051400	Output buffer too small
+00051420	Unsupported frame was found
+00051440	Error access to jpeg_comment buffer
+00051480	Reserved
+000514a0	Unknown error code
+00051520	[%02X] 
+00051540	Assertion failed in %s(%d)
+0005155b	Reason: %s
+00051566	Module: %s
+00051572	(Press "Retry" to debug the application)
+000515a0	Intel(R) JPEG Library
+00051660	Intel(R) JPEG Library, version %s
+000516cf	&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+0005178c	%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+00051829	/cB8Bcccccccccccccccccccccccccccccccccccccccccccccccccc
+00051879	(:3=<9387@H\N@DWE78PmQW_bghg>Mqypdx\egc
+00051b60	Software\Intel Corporation\PLSuite\IJLib
+00051ba0	USECPU
+00051bc0	TRACE
+00051c00	ijl15.dll
+00051c20	1.51.12
+00051c40	[1.51.12.44]
+00051c60	May 30 2001
+00052066	VS_VERSION_INFO
+000520c2	StringFileInfo
+000520e6	040904b0
+000520fe	CompanyName
+00052118	Intel Corporation
+00052142	FileDescription
+00052164	Intel
+00052170	 JPEG Library - Retail Version
+000521b6	FileVersion
+000521d0	1,51,12,44
+000521ee	InternalName
+00052208	ijl15
+0005221a	LegalCopyright
+00052238	Copyright 
+0005224e	 Intel Corporation 1998 - 2001
+00052292	OriginalFilename
+000522b4	ijl15.dll
+000522ce	ProductName
+000522e8	Intel
+000522f4	 JPEG Library
+00052316	ProductVersion
+00052334	1,51,12,44
+00052352	VarFileInfo
+00052372	Translation
+0005301b	1$1.1
+00053021	1/2~2
+00053029	283Z3
+0005304d	3=3}3
+00053061	8!8+8
+00053067	8&9!<7<A<K<
+0005308d	808p8
+000530a7	3Q3p3
+000530ad	3!<7<A<K<
+000530f1	6(7J7
+00053139	0*040>0
+0005314f	2-3O3
+00053155	316G6Q6[6"7V7
+00053163	:':1:;:
+0005316b	;@;p=z=
+00053184	D2Z2d2n2;3o3
+0005319b	455W5
+000531a1	5T8j8t8~8N9
+000531bf	>Q>p>
+000531e7	5'575G5W5f9l9r9
+00053210	79G9W9g97>G>W>g>
+0005323b	8!9S9D=\=t=
+00053251	031A1
+00053263	2,3:3
+0005327d	7[9i9):>:
+000532d9	7F9K9x9}9
+00053307	: :&:,:2:8:?:D:I:N:S:X:]:b:g:l:q:v:
+00053333	<)<I<
+00053353	<#=1=6=;=@=]=d=s=z=
+0005337b	>">,><>I>P>W>^>e>l>s>z>
+000533af	?)?3?G?Q?[?e?o?y?
+000533e9	0!0(080H0R0\0l0y0
+0005341b	1'111;1E1O1Y1c1w1
+0005344b	2!2+222G2L2Q2X2h2x2
+00053479	3 3'3.353<3C3M3W3a3k3u3
+000534af	4)434=4G4Q4[4b4w4|4
+000534df	545;5I5P5W5^5e5l5s5}5
+00053511	6'616;6E6O6Y6c6m6w6
+00053543	7%7,737:7d7k7y7
+00053573	8%8/898C8M8W8a8k8u8
+000535a9	9f:k:A<X<o<
+000535b9	=+=B=Y=p=
+000535d3	1g3{3
+000535f0	31:1D1N1X1b1l1v1
+00053625	2&2-242;2B2I2P2W2^2w2
+00053641	3"3X3x3
+00053651	4W4}4
+0005365b	4*5@5I5W5
+00053697	5!595[5
+00053709	4V9f9
+0005372d	9a9}9
+00053745	;J<f<
+0005374f	<X=t=
+0005375d	>(>t>
+00053781	0C0u0
+0005378d	191S1
+00053797	2.2A2`2
+000537b3	<$=6=
+000537bf	=->?>]>w>
+000537dc	Y0n0c5j5
+000537e9	6f<m<
+00053815	1D2N2_2~2
+00053825	3#3.3
+0005383b	4&4-4n4x4
+0005384d	5.5J5U5
+00053883	7r8y8
+000538a1	:j:q:x:
+000538af	;+;E;L;^;q;x;
+000538cf	<,=3=E=X=_=~=
+000538e5	>s>z>
+0005390d	0!0(0R0
+00053921	1j1q1x1
+0005392f	282?2Q2d2k2
+0005394f	4%484?4^4e4
+0005395f	4F5M5T5~5
+00053975	5`6g6n6
+00053983	7l7s7
+0005399f	929@9
+000539b5	;B<I<f<m<
+000539c5	<e=L>S>e>x>
+000539d9	?$?C?
+000539f0	50<0C0b0
+00053a03	1-1@1G1Z1a1
+00053a15	2p2w2~2
+00053a2d	3,434E4X4_4~4
+00053a4f	6#6>6
+00053a61	7 7'7F7M7
+00053a71	7P8W8^8
+00053a8d	:+:2:F:M:e:
+00053aa5	:1;X;
+00053aad	;M<u<
+00053add	0 0'0;0B0W0^0v0
+00053aff	7"7/7X7_7
+00053b13	7(8T8g8t8
+00053b27	9<9C9
+00053b33	9(:/:Q:
+00053b45	:$;7;D;m;t;
+00053b63	<*=1=O=V=
+00053b77	>;>o>
+00053b87	?T?[?
+00053b98	'0.050<0{0
+00053bad	1T1[1
+00053bbb	1?2F2`2
+00053bd7	4K4R4l4
+00053be5	4$5+5\5
+00053c05	6g7n7
+00053c19	8#8h8o8z8
+00053c27	989?9]9d9
+00053c39	9=:h:o:
+00053c4b	:$;p;
+00053c61	=(=2=_=w=
+00053c6f	= >/>E>T>n>|>
+00053ca3	1,1d1}1
+00053cb7	2)242
+00053cbf	2>3H3R3
+00053ccf	4@4O4e4t4
+00053cf7	727J7
+00053d09	8$828H8S8
+00053d19	8%979c9
+00053d27	9#:5:a:
+00053d35	>J?Q?X?_?
+00053d5b	0K1R1
+00053d7b	4?6r6
+00053d87	7\7f7q7
+00053d91	7:8Q8o8
+00053d9b	9Z9q9
+00053da5	;e;|;
+00053dd5	9&9<9C9
+00053de9	:1:<:T:j:q:
+00053e03	;";Y;c;q;
+00053e1b	<;<E<[<s<}<
+00053e31	=!=+=c=m={=
+00053e49	>)>E>O>e>}>
+00053e61	?+?5?m?w?
+00053e95	1#1u1
+00053ea9	242J2Q2t2
+00053ec1	2"3-373M3W3m3
+00053edd	4#4-4^4i4s4
+00053ef7	5'515G5_5i5
+00053f11	686C6M6c6m6
+00053f2b	7!797C7
+00053f37	8a8m8y8
+00053f61	9S:_:k:s:{:
+00053f79	:/;;;G;O;W;_;};
+00053f95	<#<+<3<;<Y<e<q<y<
+00053fab	<-=:=
+00053ff9	0l0x0
+00054011	0P1\1h1p1x1
+0005403b	6!6s6
+00054051	627B7R7b7l7v7
+0005406b	8!8+858?8I8S8]8
+000540a1	9.:>:N:^:h:r:|:
+000540bd	;';1;;;E;O;Y;
+000540d3	<"<,<J<[<k<|<
+000540f3	= =*=8=B=Q=[=j=t=
+00054111	>)>:>J>[>l>v>
+00054133	?"?1?;?J?T?u?
+0005415c	$0/0<0J0_0f0p0z0
+0005417b	1 1*141>1
+00054197	142?2L2Z2o2v2
+000541b5	3&303:3D3N3
+000541d3	3D4O4\4j4
+000541eb	5#5A5Y5j5t5
+00054209	6.686O6Y6h6r6
+00054229	777H7R7q7
+00054247	8/898H8R8`8j8y8
+00054263	9;9L9X9`9r9
+00054277	:.:?:K:S:e:
+0005428b	;";3;?;G;Y;
+000542a1	<'<3<;<M<w<
+000542b1	<"=E=Z=k=
+000542c9	>5>A>o>{>
+000542e5	?P?a?m?u?
+00054304	S0d0p0x0
+00054317	0W1h1t1|1
+0005432b	1[2l2x2
+0005433f	3F3f3
+0005434d	4+4F4Z4u4
+00054365	565B5X5d5v5
+00054383	8E8s8z8
+000543b7	0,0~2
+000543c1	2-3[3
+000543c9	5F5l5
+000543e9	7"7&7+7T8
+0005440d	; ;*;C;K;P;\;a;~;
+00054431	<!<+<E<S<[<a<
+00054443	=-=<=X=y=
+00054473	2C2}2
+0005447d	2$3,3
+00054485	364E4[4
+0005448d	5E6O7
+000544a5	;#;';
+000544b3	<!<&<2<:<B<J<`<h<p<x<
+000544d9	=)=/=@=Y=e=k=x=
+00054509	?$?9?k?u?
+00054525	080>0K0l0
+00054537	041@1J1^1l1y1~1
+0005454b	1.2s2V3o3
+0005455d	3!4q4
+00054571	5"5*5Q5]5g5o5w5}5
+00054591	6,6;6}6
+000545cc	(1@1G1O1T1X1\1
+000545ef	12282<2@2D2
+00054609	3+3]3d3h3l3p3t3x3|3
+0005463b	5e7s7y7
+0005465b	83898D8J8T8Z8j8p8
+0005466d	8Z9G;R;Z;m;s;
+000546b8	*0A0N0h0v0
+000546d7	131V1`1i1
+000546ed	292K2Q2~3
+000546ff	4(454H4Q4]4
+0005471d	515F5L5T5\5g5
+0005473b	6"6'6,6E6K6
+00054751	757C7P7`7
+00054767	80878?8D8H8L8u8
+00054789	8"9(9,90949
+000547a5	:M:T:X:\:`:d:h:l:p:
+000547c3	;#;);5;:;D;K;S;Y;`;e;v;
+000547ed	=-=E=e=
+000547ff	>+>5>?>G>U>s>
+00054811	> ?6?i?
+0005482d	3/3_3
+0005483f	545x6|6
+00054859	6V7p7
+00054861	7J9W9|9
+0005486f	:E:Y:
+00054883	;D;Q;V;c;o;)<0<I<
+000548a0	b0v0Z1j1
+000548ad	1F2L2Z2
+000548b7	243:3H3
+000548c3	3Z4d4
+0005490b	? ?$?(?,?0?8?X?h?x?
+00054928	$0,040<0D0L0T0\0d0l0t0|0
+00054999	: :$:(:,:0:4:8:<:@:P:T:X:\:`:d:h:l:p:t:
+00054a1f	9 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+00054a9f	: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+00054b1f	; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+00054b9f	< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+00054bdd	<P>T>h>l>
+00054c2d	? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+00054cb7	0 0$0(0,00040
+00054cd7	6064686<6@6D6H6L6P6T6

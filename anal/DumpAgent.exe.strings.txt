@@ -1,0 +1,1362 @@
+0000004d	!This program cannot be run in DOS mode.
+000000d0	Rich*
+000001d8	.text
+000001ff	`.rdata
+00000227	@.data
+00000250	.rsrc
+000010f3	0f;1u
+00001518	SUWsP+
+0000157d	D$ PUV
+00002697	t_SUVW
+0000272d	RQPVW
+00002771	PQRWVS
+000029a0	RVPSQ
+000029d5	RVPQS
+00002c18	L$$Qj
+00002c5c	0^][Y
+00002ccf	PQVRj
+00002d39	D$$SUVW
+00002da4	D$ ;s
+00002e8c	9l$4r
+00002eaa	Y_^][
+000030bd	D$ VP
+000032ba	D$ Pjf
+00003370	QSUVW
+000034fb	L$h^3
+0000381a	jjjjj
+00003960	V RWh!
+00003a36	FD_^][
+00003d78	~x9npr
+00003d93	~\9nTr
+00003dae	~@9n8r
+00003efd	PQSVW
+00004341	9l$<r
+00004387	\$|9l$Xr
+000043a7	\$D9l$t
+000045a1	Y_^][
+0000467b	L$(RPQ
+00004790	T$(PQR
+00004809	T$,RV
+000048c2	Y_^][
+000048f8	SUVhX
+00004973	L$ Qj
+00004afd	PQSUV
+00004eab	L$8Qj
+00004f62	D$8Pj
+00004ffd	L$<Qj
+0000531c	t:;L$
+000054c8	L$ QUV
+00005565	VPWUj
+000055bc	VPWUj
+0000592b	t$(+t$$W
+00005937	.;\$<
+00006104	T$$VW3
+0000658e	L$$+L$
+000065d5	T$,Q+
+00006a66	85w=W
+00006f80	HSUVW
+0000721c	Y_^][
+00007619	D$ SV
+000076c9	D$ VW
+00007f6d	T$8Rh8 C
+00007f90	D$HQRP
+0000800e	u/9^|r
+0000802d	L$0Qh
+00008057	L$0RPQ
+000086b1	Y_^][
+0000891b	9l$,u?
+00008964	;|$(t
+0000896f	;\$,t!
+00008a48	D$(PWSUQ
+00008a6d	D$$_^][
+00008c8d	~,;~0v
+00008f45	FD9F@w
+00009173	Y_^][
+000091a9	D$dSUVW
+000093b1	Y_^][
+000093e9	D$DSV
+000094b3	D$Hf=4
+00009529	D$DSUVW
+000095f6	D$Pf=2
+0000962c	D$Pf=4
+0000966e	Y_^][
+000096a9	D$DSV
+00009779	D$Hf=4
+00009a68	9|$,r
+00009bb8	Y_^][
+00009ccf	L$0QR
+00009e03	Y_^][
+00009f81	D$Df=4
+0000a08c	L$0QR
+0000a0c2	9\$Hr
+0000a25e	Y_^][
+0000a299	D$`SUVW
+0000a34f	9l$hr
+0000a409	D$lf=4
+0000a42a	9l$hr
+0000a44a	Y_^][
+0000a46d	PQSVW
+0000ac8b	D$XPQ
+0000b5e7	Y_^][
+0000b661	E`SVWP
+0000b768	8^Vt+
+0000b9c1	EdSVWP
+0000bb0c	t49uXr
+0000bc25	w,;w0v
+0000be3a	R(PVW
+0000bf05	R(PVW
+0000c0b9	D$0SUVW
+0000c106	9oLu,j
+0000c180	l$Pt,
+0000c236	|$<2u
+0000c283	Y_^][
+0000c2b0	TSUVW
+0000c305	D$0PQ
+0000c33f	D$Lht
+0000c383	9t$Hr
+0000c5ac	Y_^][
+0000c5cd	PQSVW
+0000c6dd	PQSVW
+0000ca5c	Ph`"C
+0000db71	EtSVW
+0000dbbf	_j X;
+0000dd99	QQSUVW
+0000ddbd	0UUUUW
+0000de0b	UUUUW
+0000de9f	_^][Y
+0000e187	WtrHHt
+0000e1b9	tA9wht<
+0000e1ca	9p t-S
+0000e20d	9p$ty
+0000e304	VVUVS
+0000e324	g9n t_;
+0000eea9	t>hX+C
+0000f33a	tgh0,C
+0000f5aa	WWWWW
+0000f8b5	t<9|$
+0000fd93	9^0u<j
+0000fdd2	F09^4u-j
+0000fe04	F49^8u)j
+0000fe4b	udhD#C
+00010836	tBh|/C
+000109bb	;(r[V
+00011069	F4X2C
+000114b7	QX_^]
+00011975	F4X2C
+00011a03	S\_^[]
+00011a51	S\_^[]
+00012845	rWWWW
+00012880	v Wh!
+0001293c	FD_^][
+00012c31	j hR\A
+00012da7	t39w u&
+00012dd2	_ 9w$u
+0001347a	O 9Htu
+0001395c	Q@_^]
+00013abd	QX_^]
+00013afe	Q\_^]
+0001450f	u0j0^VP
+000145e8	YYtNj
+00014e6f	VwltB
+00015451	WWWWhd
+000154cc	SVWj(3
+00015792	F(l.C
+0001579f	SUVW3
+00016416	PWVWWW
+00016439	WVWWW
+00016a9e	_^][Y
+00016f55	QSUVW
+00016fed	_^][Y
+00017291	Pj<hx;C
+000172b1	j<hx;C
+00017a66	@QPQV
+00018044	+F(_;E
+00018073	F(@@;F,v
+000182b0	F(;^ r
+000182bd	F(;F0u
+000182d3	^(_^[]
+000189c5	^(_^[
+00018b3e	r5f=Z
+00018b44	w/f=9
+00018bb6	r^f=Z
+00018bbc	wXf=9
+00019635	tj9~8u@j
+000196a1	9~8ucj
+000197fa	F4_]^[
+0001a0fe	QQSVWd
+0001a2f6	jjjjj
+0001a5c6	PPPPP
+0001a5f4	0WWWWW
+0001a66b	0WWWWW
+0001a896	SSSSS
+0001a905	7GG9]
+0001aab6	QSUVW
+0001ab69	_^][Y
+0001ac01	WWWWW
+0001ac89	WWWWW
+0001ad04	SSSSS
+0001adc4	_VVVVV
+0001ae14	SSSSS
+0001ae44	SSSSS
+0001aef0	HH_^[
+0001af07	VVVVV
+0001af6a	VVVVV
+0001afaa	SSSSS
+0001b08b	SSSSS
+0001b0c5	SSSSS
+0001b678	SSSSS
+0001b6a7	SSSSS
+0001bb38	SSSSS
+0001bbe6	VVVVV
+0001bcec	VVVVV
+0001bd62	SSSSS
+0001bf09	VVVVV
+0001c00f	WWWWW
+0001c0a8	uL9=8
+0001c1af	wIVSP
+0001c376	SSSSS
+0001c3f2	WWWWW
+0001c55f	VVVVV
+0001c796	PPPPP
+0001c7f8	VVVVV
+0001c8a9	SSSSS
+0001ca87	QSSSj
+0001cb27	^SSSSS
+0001cbd0	SSSSS
+0001cc18	AGG;M
+0001cc98	t#F9]
+0001cdb0	WWWWW
+0001d20a	Y__^[
+0001d2dc	VVVVV
+0001d313	VVVVV
+0001d378	YYuTVWh
+0001d55d	0WWWWW
+0001d584	BBFFf;
+0001d699	8VVVVV
+0001d6ce	AAGGf;
+0001d71f	t SVW
+0001d730	UUUUU
+0001d787	0;1t|
+0001ee17	Y__^[
+0001ee35	\$ UV
+0001ef55	D$,9h
+0001f02c	0WWWWW
+0001f062	@@BBf;
+0001f076	@@BBf;
+0001f173	WWWWW
+0001f271	WWWWW
+0001f2f7	SVWt-
+0001f33b	SVWt+
+0001f65d	VVVVV
+0001f6a1	PPPPP
+0001f6b7	<Yv8V
+0001f6e4	VVVVV
+0001f708	VVVVV
+0001f72a	VVVVV
+0001f77f	]_^[Y
+0001f9c5	>=Yt/j
+0001f9d8	tLVWP
+0001f9e9	UUUUU
+0001f9fa	4~f9.u
+0001fa20	Y[_^]
+0001fb8b	QQSVWh
+0001fbdc	?YYsJ
+0001fc98	@@f98u
+0001fc9f	@@f98u
+0001fcee	t#SSj
+0001fd85	_^][Y
+0001fe55	j@j ^V
+0001fee4	[j@j 
+000200d2	QQSV3
+0002016e	&h4DC
+000201e5	&h4DC
+000202cd	t&h$DC
+00020384	YYt:V
+00020507	Wh4DC
+00020649	YYt4V
+000206a7	VVVVV
+000206c2	VVVVV
+000210af	s[S;7|G;w
+00021506	tR99u2
+0002155c	@_^[]
+00021776	0SSSSS
+00021cdd	0A@@Ju
+00021f19	Wto=h
+00021f2b	t^9(uZ
+00021f93	tD9(u@
+00022042	Y_^][
+0002231a	rpf=Z
+00022340	rJf=*
+00022354	r6f=J
+0002251d	YYu-9D$
+0002256f	u-9D$
+00022689	WWWWW
+00022717	VVVVV
+00022785	~,WPV
+00022ab0	<at9<rt,<wt
+00022ac1	SSSSS
+00022b35	tVHtG
+00022bcd	tDHt0
+00022c51	Vh,EC
+00022c82	;h<EC
+00022ccc	SSSSS
+00022e6f	URPQQh
+00023a6a	PPPPP
+00023b28	PPPPP
+000248dd	WWWWW
+00025688	VVVVV
+000256f3	VVVVV
+00025cad	WWWWW
+00025d4b	WWWWW
+00025eaa	SSSSS
+00025f62	SSSSS
+0002646a	VVVVV
+00026633	VVVVV
+00026c32	VVVVV
+00026de5	j]Yf9
+00026e05	FFf=-
+00026ee5	jx^f;
+00026f24	YYj0[
+0002732e	PPPPP
+0002739a	u8SS3
+000273a0	GWhPEC
+00027432	9]$SS
+00027ac9	PPPPP
+00027c4a	WWWWW
+00027c5b	t!hD>C
+00027e98	_VVVVV
+00027f62	SSSSS
+0002801f	SSSSS
+00028107	^WWWWW
+0002846b	PPPPP
+00028571	SSSSS
+0002862a	SSSSS
+000287a6	VVVVV
+00028969	SSSSS
+00028a08	SSSSS
+00028aad	0SSSSS
+00028b34	0SSSSS
+00028be1	VVVVV
+00028c0b	SVWUj
+00028cac	;t$,v-
+00028d31	UQPXY]Y[
+00028d64	FVhPEC
+00028dca	9] SS
+00029196	PPPPPPPP
+000292a6	PPPPPPPP
+00029317	PShPEC
+00029482	tb9} u
+00029548	VW|Z;
+000295c8	VW|[;
+00029695	VVVVV
+0002994d	SSSSS
+00029ad4	SSSSS
+00029aef	SSSSS
+00029b2a	tGHt.Ht&
+00029b43	^SSSSS
+0002a0e5	tySSS
+0002a20e	8VVVVV
+0002a2f0	VVVVV
+0002a327	VVVVV
+0002a556	SSSSS
+0002a58c	SSSSS
+0002a759	WWWWW
+0002a79a	WWWWW
+0002a888	VVVVV
+0002b27c	^SSSSS
+0002b2f4	j"^SSSSS
+0002b33e	QSWVj
+0002b542	WWWWV
+0002b565	t+WWVPV
+0002b617	SSSSW
+0002b6bd	SSSSW
+0002b757	0SSSSS
+0002b91e	PPPPP
+0002b994	_VVVVV
+0002ba2d	SSSSS
+0002ba63	SSSSS
+0002bd62	VVVVV
+0002bf20	WWWWW
+0002c1a7	WWWWW
+0002c36b	WWWWW
+0002c40b	VVVVV
+0002cf2a	SSSSS
+0002cfea	<+t(<-t$:
+0002d0fe	+t HHt
+0002d62b	u&f!;f;
+0002d6b8	VVVVV
+0002d6e4	VVVVV
+0002e86f	9~$~!S
+0002e88e	G;~$|
+00031668	vector<T> too long
+0003167c	Tartaros
+00031690	Niche
+00031938	Tartaros.log
+00031948	Tartaros.dmp
+000319e0	bad allocation
+000319f0	CTransferDlg
+00031a04	xkfmxkfhtmejavm123$
+00031a2c	tartarosdump
+00031a48	52.78.56.175
+00031c32	@Tartaros.dmp
+00031c50	Tartaros.log
+00031c70	Tartaros.%d-%d-%d.%d_%d_%d.%u_%u.log
+00031cc0	Tartaros.%d-%d-%d.%d_%d_%d.%u_%u.dmp
+00031d10	****** USER COMMENT ******
+00031dc2	@%s error 0x%08x
+00031de4	%s error
+00031e02	@Create
+00031e20	Listen
+00031e30	Accept
+00031e40	Close
+00031e4c	Connect
+00031e68	Send timeout
+00031e84	Socket Error
+00031ea0	Receive
+00031eb0	Receive timeout
+00031ed0	GetSockName
+00031ee8	GetHostByName
+00031f04	GetHostByAddr
+00031f36	@%s%u
+00031f44	invalid map/set<T> iterator
+00031f60	deque<T> too long
+00031f74	.\FTPClient\FTPClient.cpp
+00031f90	APPE 
+00031f9c	RETR 
+00031fa8	STOU 
+00031fb4	STOR 
+00031fc0	NLST 
+00031fd8	LIST 
+00031ff4	(%d,%d,%d,%d,%d,%d)
+0003201c	%d.%d.%d.%d
+00032038	227 Entering Passive Mode (%d,%d,%d,%d,%d,%d)
+000320c4	PORT 
+000320ec	TYPE L 
+000320fc	TYPE I
+0003210c	TYPE E
+0003211c	TYPE A
+00032138	SITE 
+0003214c	REST 
+00032158	SIZE 
+00032170	Logon failed.
+00032190	OPEN 
+000321a0	ACCT 
+000321ac	PASS 
+000321b8	USER 
+000321d0	anonymous
+00032244	CWinApp
+0003224a	pSettings
+00032260	PreviewPages
+00032300	DeactivateActCtx
+00032314	ActivateActCtx
+00032324	ReleaseActCtx
+00032334	CreateActCtxW
+00032344	KERNEL32
+00032358	Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+000323d0	NoRun
+000323dc	NoDrives
+000323f0	RestrictRun
+00032408	NoNetConnectDisconnect
+00032438	NoRecentDocsHistory
+00032460	NoClose
+00032470	Software\Microsoft\Windows\CurrentVersion\Policies\Network
+000324e8	NoEntireNetwork
+00032508	Software\Microsoft\Windows\CurrentVersion\Policies\Comdlg32
+00032580	NoPlacesBar
+00032598	NoBackButton
+000325b4	NoFileMru
+000325c8	FindActCtxSectionStringW
+000325ec	ntdll.dll
+00032608	Control Panel\Desktop\ResourceLocale
+00032654	GetSystemDefaultUILanguage
+00032670	GetUserDefaultUILanguage
+0003268c	kernel32.dll
+000326a8	%s%s.dll
+0003277a	@%s (%s:%d)
+00032794	%s (%s:%d)
+000327b0	Exception thrown in destructor
+000327d0	f:\dd\vctools\vc7libs\ship\atlmfc\src\mfc\appcore.cpp
+00032808	CCmdTarget
+0003290c	CWinThread
+000329bc	Software\
+000329d0	CDialog
+00032b56	@Edit
+00032c30	MS Shell Dlg
+00032c4c	CEdit
+00032c70	CInvalidArgException
+00032c88	CNotSupportedException
+00032ca0	CMemoryException
+00032cb4	CException
+00032d84	COleException
+00032e12	Acomctl32.dll
+00032e36	Acomdlg32.dll
+00032e6c	AfxWnd80su
+00032e84	AfxControlBar80su
+00032ea8	AfxMDIFrame80su
+00032ec8	AfxFrameOrView80su
+00032ef0	AfxOleControl80su
+00032f14	AfxOldWndProc423
+00032f5c	GetMonitorInfoA
+00032f6c	GetMonitorInfoW
+00032f7c	EnumDisplayDevicesW
+00032f90	EnumDisplayMonitors
+00032fa4	MonitorFromPoint
+00032fb8	MonitorFromRect
+00032fc8	MonitorFromWindow
+00032fdc	GetSystemMetrics
+00032ff0	USER32
+00033000	DISPLAY
+00033006	YaccParent
+0003301c	accChildCount
+00033038	accChild
+0003304c	accName
+0003305c	accValue
+00033070	accDescription
+00033090	accRole
+000330a0	accState
+000330b4	accHelp
+000330c4	accHelpTopic
+000330e0	accKeyboardShortcut
+00033108	accFocus
+0003311c	accSelection
+00033138	accDefaultAction
+0003315c	accSelect
+00033170	accLocation
+00033188	accNavigate
+000331a0	accHitTest
+000331b8	accDoDefaultAction
+000333e4	InitCommonControls
+000333f8	InitCommonControlsEx
+00033410	HtmlHelpW
+0003341c	hhctrl.ocx
+0003352c	#32768
+0003353c	f:\dd\vctools\vc7libs\ship\atlmfc\include\afxwin2.inl
+00033850	commctrl_DragListMsg
+00033884	CGdiObject
+00033890	CPaintDC
+000338a0	CUserException
+000338b0	CResourceException
+00033a94	f:\dd\vctools\vc7libs\ship\atlmfc\include\afxwin1.inl
+00033acc	software
+00033ae0	CObject
+00033ae6	tDelete
+00033af8	NoRemove
+00033b0c	ForceRemove
+00033b78	f:\dd\vctools\vc7libs\ship\atlmfc\src\mfc\auxdata.cpp
+00033bbc	System
+00033bcc	CArchiveException
+00033c18	CMapPtrToPtr
+00033c54	CPtrList
+00033c90	CMenu
+00033cca	@.INI
+00033cf0	NotifyWinEvent
+00033d00	user32.dll
+00033d18	MSWHEEL_ROLLMSG
+00033d38	CByteArray
+00033d54	CObArray
+00033d88	CPtrArray
+00033df4	Unknown exception
+00033e28	CorExitProcess
+00033e38	mscoree.dll
+00033e44	kernel32.dll
+00033e60	runtime error 
+00033e70	TLOSS error
+00033e80	SING error
+00033e90	DOMAIN error
+00033ea0	R6034
+00033ea7	An application has made an attempt to load the C runtime library incorrectly.
+00033ef5	Please contact the application's support team for more information.
+00033f40	R6033
+00033f47	- Attempt to use MSIL code from this assembly during native code initialization
+00033f97	This indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.
+00034038	R6032
+0003403f	- not enough space for locale information
+00034070	R6031
+00034077	- Attempt to initialize the CRT more than once.
+000340a7	This indicates a bug in your application.
+000340d4	R6030
+000340db	- CRT not initialized
+000340f4	R6028
+000340fb	- unable to initialize heap
+0003411c	R6027
+00034123	- not enough space for lowio initialization
+00034154	R6026
+0003415b	- not enough space for stdio initialization
+0003418c	R6025
+00034193	- pure virtual function call
+000341b4	R6024
+000341bb	- not enough space for _onexit/atexit table
+000341ec	R6019
+000341f3	- unable to open console device
+00034218	R6018
+0003421f	- unexpected heap error
+0003423c	R6017
+00034243	- unexpected multithread lock error
+0003426c	R6016
+00034273	- not enough space for thread data
+0003429a	This application has requested the Runtime to terminate it in an unusual way.
+000342e8	Please contact the application's support team for more information.
+00034330	R6009
+00034337	- not enough space for environment
+0003435c	R6008
+00034363	- not enough space for arguments
+00034388	R6002
+0003438f	- floating point support not loaded
+000343b8	Microsoft Visual C++ Runtime Library
+000343e8	<program name unknown>
+00034400	Runtime Error!
+00034410	Program: 
+0003441c	.mixcrt
+00034424	EncodePointer
+00034434	KERNEL32.DLL
+00034444	DecodePointer
+00034454	FlsFree
+0003445c	FlsSetValue
+00034468	FlsGetValue
+00034474	FlsAlloc
+00034490	bad exception
+000344c7	 !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+00034534	UTF-8
+0003453c	UTF-16LE
+00034548	UNICODE
+00034554	InitializeCriticalSectionAndSpinCount
+0003457c	e+000
+00034596	GAIsProcessorFeaturePresent
+000345b4	KERNEL32
+000345c0	SunMonTueWedThuFriSat
+000345d8	JanFebMarAprMayJunJulAugSepOctNovDec
+00034600	GetProcessWindowStation
+00034618	GetUserObjectInformationA
+00034634	GetLastActivePopup
+00034648	GetActiveWindow
+00034658	MessageBoxA
+00034664	USER32.DLL
+00034670	 Complete Object Locator'
+0003468c	 Class Hierarchy Descriptor'
+000346ac	 Base Class Array'
+000346c0	 Base Class Descriptor at (
+000346dc	 Type Descriptor'
+000346f0	`local static thread guard'
+0003470c	`managed vector copy constructor iterator'
+00034738	`vector vbase copy constructor iterator'
+00034764	`vector copy constructor iterator'
+00034788	`dynamic atexit destructor for '
+000347ac	`dynamic initializer for '
+000347c8	`eh vector vbase copy constructor iterator'
+000347f4	`eh vector copy constructor iterator'
+0003481c	`managed vector destructor iterator'
+00034844	`managed vector constructor iterator'
+0003486c	`placement delete[] closure'
+0003488c	`placement delete closure'
+000348a8	`omni callsig'
+000348b8	 delete[]
+000348c4	 new[]
+000348cc	`local vftable constructor closure'
+000348f0	`local vftable'
+00034900	`RTTI
+0003490c	`udt returning'
+0003491c	`copy constructor closure'
+00034938	`eh vector vbase constructor iterator'
+00034960	`eh vector destructor iterator'
+00034980	`eh vector constructor iterator'
+000349a4	`virtual displacement map'
+000349c0	`vector vbase constructor iterator'
+000349e4	`vector destructor iterator'
+00034a04	`vector constructor iterator'
+00034a24	`scalar deleting destructor'
+00034a44	`default constructor closure'
+00034a64	`vector deleting destructor'
+00034a84	`vbase destructor'
+00034a98	`string'
+00034aa4	`local static guard'
+00034abc	`typeof'
+00034ac8	`vcall'
+00034ad0	`vbtable'
+00034adc	`vftable'
+00034b64	operator
+00034b88	 delete
+00034b98	__unaligned
+00034ba4	__restrict
+00034bb0	__ptr64
+00034bb8	__clrcall
+00034bc4	__fastcall
+00034bd0	__thiscall
+00034bdc	__stdcall
+00034be8	__pascal
+00034bf4	__cdecl
+00034bfc	__based(
+00034e88	         (((((                  H
+0003508a	         h((((                  H
+00035188	                                 H
+00035330	 !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+000354b0	 !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+00035590	HH:mm:ss
+0003559c	dddd, MMMM dd, yyyy
+000355b0	MM/dd/yy
+000355c4	December
+000355d0	November
+000355dc	October
+000355e4	September
+000355f0	August
+00035608	April
+00035610	March
+00035618	February
+00035624	January
+0003565c	Saturday
+00035668	Friday
+00035670	Thursday
+0003567c	Wednesday
+00035688	Tuesday
+00035690	Monday
+00035698	Sunday
+000356ba	n(null)
+000356cc	(null)
+000356f9	( 8PX
+00035701	700WP
+00035711	`h````
+00035719	xpxxxx
+0003575d	('8PW
+00035766	700PP
+00035778	`h`hhh
+00035781	xppwpp
+00035794	CONOUT$
+0003579c	1#QNAN
+000357a4	1#INF
+000357ac	1#IND
+000357b4	1#SNAN
+000357db	Fstring too long
+000357ec	invalid string position
+00035815	=L9o<
+00035830	OLEACC.dll
+000358a0	d:\PG-Source\Application\DumpAgent\Release MT\DumpAgent.pdb
+0003986a	CreateStdAccessibleObject
+00039886	LresultFromObject
+00039e16	SizeofResource
+00039e28	LockResource
+00039e38	LoadResource
+00039e48	FindResourceW
+00039e58	GetCommandLineW
+00039e6a	FreeResource
+00039e7a	DeleteFileW
+00039e88	GetLocalTime
+00039e98	WideCharToMultiByte
+00039eae	GetLastError
+00039ebe	lstrlenW
+00039eca	LocalFree
+00039ed6	FormatMessageW
+00039ee8	Sleep
+00039ef0	GetProcAddress
+00039f02	GetModuleHandleW
+00039f16	FreeLibrary
+00039f24	GlobalAlloc
+00039f32	lstrcmpW
+00039f3e	GlobalLock
+00039f4c	InterlockedExchange
+00039f62	MultiByteToWideChar
+00039f78	LoadLibraryExW
+00039f8a	GetLocaleInfoW
+00039f9c	lstrcmpA
+00039fa8	EnumResourceLanguagesW
+00039fc2	GetVersion
+00039fd0	GetModuleFileNameW
+00039fe6	ConvertDefaultLocale
+00039ffe	GetCurrentThreadId
+0003a014	GetCurrentThread
+0003a028	GlobalDeleteAtom
+0003a03c	CloseHandle
+0003a04a	GlobalAddAtomW
+0003a05c	SetLastError
+0003a06c	GetCurrentProcessId
+0003a082	GlobalFree
+0003a090	GlobalUnlock
+0003a0a0	MulDiv
+0003a0aa	InterlockedDecrement
+0003a0c2	GetVersionExA
+0003a0d2	LoadLibraryA
+0003a0e2	CompareStringW
+0003a0f4	LoadLibraryW
+0003a104	GlobalFindAtomW
+0003a116	GetModuleHandleA
+0003a12a	WritePrivateProfileStringW
+0003a148	GlobalFlags
+0003a156	LocalAlloc
+0003a164	LeaveCriticalSection
+0003a17c	TlsGetValue
+0003a18a	EnterCriticalSection
+0003a1a2	GlobalReAlloc
+0003a1b2	GlobalHandle
+0003a1c2	InitializeCriticalSection
+0003a1de	TlsAlloc
+0003a1ea	TlsSetValue
+0003a1f8	LocalReAlloc
+0003a208	DeleteCriticalSection
+0003a220	TlsFree
+0003a22a	InterlockedIncrement
+0003a242	GetThreadLocale
+0003a254	ReadFile
+0003a260	WriteFile
+0003a26c	SetFilePointer
+0003a27e	FlushFileBuffers
+0003a292	SetEndOfFile
+0003a2a2	GetCurrentProcess
+0003a2b6	lstrlenA
+0003a2c2	SetErrorMode
+0003a2d2	HeapFree
+0003a2de	HeapAlloc
+0003a2ea	GetProcessHeap
+0003a2fc	GetStartupInfoW
+0003a30e	RtlUnwind
+0003a31a	TerminateProcess
+0003a32e	UnhandledExceptionFilter
+0003a34a	SetUnhandledExceptionFilter
+0003a368	IsDebuggerPresent
+0003a37c	RaiseException
+0003a38e	HeapReAlloc
+0003a39c	GetSystemTimeAsFileTime
+0003a3b6	ExitProcess
+0003a3c4	VirtualAlloc
+0003a3d4	HeapSize
+0003a3e0	GetStdHandle
+0003a3f0	GetModuleFileNameA
+0003a406	FreeEnvironmentStringsA
+0003a420	GetEnvironmentStrings
+0003a438	FreeEnvironmentStringsW
+0003a452	GetEnvironmentStringsW
+0003a46c	GetCommandLineA
+0003a47e	SetHandleCount
+0003a490	GetFileType
+0003a49e	GetStartupInfoA
+0003a4b0	HeapDestroy
+0003a4be	HeapCreate
+0003a4cc	VirtualFree
+0003a4da	QueryPerformanceCounter
+0003a4f4	GetTickCount
+0003a504	GetCPInfo
+0003a510	GetACP
+0003a51a	GetOEMCP
+0003a526	IsValidCodePage
+0003a538	GetConsoleCP
+0003a548	GetConsoleMode
+0003a55a	LCMapStringA
+0003a56a	LCMapStringW
+0003a57a	GetStringTypeA
+0003a58c	GetStringTypeW
+0003a59e	GetLocaleInfoA
+0003a5b0	SetStdHandle
+0003a5c0	CreateFileA
+0003a5ce	WriteConsoleA
+0003a5de	GetConsoleOutputCP
+0003a5f4	WriteConsoleW
+0003a602	KERNEL32.dll
+0003a612	MessageBoxW
+0003a620	wsprintfW
+0003a62c	DrawIcon
+0003a638	SendMessageW
+0003a648	IsIconic
+0003a654	GetClientRect
+0003a664	EnableWindow
+0003a674	LoadIconW
+0003a680	GetSystemMetrics
+0003a694	UpdateWindow
+0003a6a4	SetActiveWindow
+0003a6b6	GetActiveWindow
+0003a6c8	IsWindowEnabled
+0003a6da	GetDesktopWindow
+0003a6ee	PeekMessageW
+0003a6fe	GetParent
+0003a70a	PostQuitMessage
+0003a71c	PostMessageW
+0003a72c	CheckMenuItem
+0003a73c	EnableMenuItem
+0003a74e	GetMenuState
+0003a75e	ModifyMenuW
+0003a76c	GetFocus
+0003a778	LoadBitmapW
+0003a786	GetMenuCheckMarkDimensions
+0003a7a4	SetMenuItemBitmaps
+0003a7ba	ValidateRect
+0003a7ca	GetCursorPos
+0003a7da	GetKeyState
+0003a7e8	IsWindowVisible
+0003a7fa	DispatchMessageW
+0003a80e	TranslateMessage
+0003a822	GetMessageW
+0003a830	CallNextHookEx
+0003a842	SetWindowsHookExW
+0003a856	SetCursor
+0003a862	GetLastActivePopup
+0003a878	GetWindowLongW
+0003a88a	GetWindowThreadProcessId
+0003a8a6	EndDialog
+0003a8b2	GetNextDlgTabItem
+0003a8c6	GetDlgItem
+0003a8d4	IsWindow
+0003a8e0	DestroyWindow
+0003a8f0	CreateDialogIndirectParamW
+0003a90e	GetSubMenu
+0003a91c	GetMenuItemCount
+0003a930	GetMenuItemID
+0003a940	UnhookWindowsHookEx
+0003a956	GetWindow
+0003a962	GetWindowRect
+0003a972	GetWindowPlacement
+0003a988	SystemParametersInfoA
+0003a9a0	SetWindowPos
+0003a9b0	SetWindowLongW
+0003a9c2	CallWindowProcW
+0003a9d4	DefWindowProcW
+0003a9e6	GetDlgCtrlID
+0003a9f6	PtInRect
+0003aa02	CopyRect
+0003aa0e	AdjustWindowRectEx
+0003aa24	GetSysColor
+0003aa32	RegisterClassW
+0003aa44	GetClassInfoW
+0003aa54	GetClassInfoExW
+0003aa66	CreateWindowExW
+0003aa78	GetMenu
+0003aa82	SetForegroundWindow
+0003aa98	MapWindowPoints
+0003aaaa	GetMessagePos
+0003aaba	GetMessageTime
+0003aacc	GetTopWindow
+0003aadc	GetForegroundWindow
+0003aaf2	GetWindowTextW
+0003ab04	GetWindowTextLengthW
+0003ab1c	SetFocus
+0003ab28	RemovePropW
+0003ab36	GetPropW
+0003ab42	SetPropW
+0003ab4e	GetClassNameW
+0003ab5e	GetClassLongW
+0003ab6e	GetCapture
+0003ab7c	WinHelpW
+0003ab88	SendDlgItemMessageA
+0003ab9e	SendDlgItemMessageW
+0003abb4	RegisterWindowMessageW
+0003abce	IsDialogMessageW
+0003abe2	SetWindowTextW
+0003abf4	ShowWindow
+0003ac02	TabbedTextOutW
+0003ac14	DrawTextW
+0003ac20	DrawTextExW
+0003ac2e	GrayStringW
+0003ac3c	ClientToScreen
+0003ac4e	GetDC
+0003ac56	ReleaseDC
+0003ac62	BeginPaint
+0003ac70	EndPaint
+0003ac7c	LoadCursorW
+0003ac8a	GetSysColorBrush
+0003ac9e	UnregisterClassW
+0003acb2	DestroyMenu
+0003acbe	USER32.dll
+0003accc	CreateBitmap
+0003acdc	GetDeviceCaps
+0003acec	GetClipBox
+0003acfa	SetTextColor
+0003ad0a	SetBkColor
+0003ad18	GetObjectW
+0003ad26	SaveDC
+0003ad30	RestoreDC
+0003ad3c	SetMapMode
+0003ad4a	DeleteObject
+0003ad5a	PtVisible
+0003ad66	RectVisible
+0003ad74	TextOutW
+0003ad80	ExtTextOutW
+0003ad8e	Escape
+0003ad98	SelectObject
+0003ada8	SetViewportOrgEx
+0003adbc	OffsetViewportOrgEx
+0003add2	SetViewportExtEx
+0003ade6	ScaleViewportExtEx
+0003adfc	SetWindowExtEx
+0003ae0e	ScaleWindowExtEx
+0003ae22	DeleteDC
+0003ae2e	GetStockObject
+0003ae3e	GDI32.dll
+0003ae4a	ClosePrinter
+0003ae5a	DocumentPropertiesW
+0003ae70	OpenPrinterW
+0003ae7e	WINSPOOL.DRV
+0003ae8e	RegCloseKey
+0003ae9c	RegQueryValueExW
+0003aeb0	RegOpenKeyExW
+0003aec0	RegDeleteKeyW
+0003aed0	RegEnumKeyW
+0003aede	RegOpenKeyW
+0003aeec	RegQueryValueW
+0003aefe	RegCreateKeyExW
+0003af10	RegSetValueExW
+0003af20	ADVAPI32.dll
+0003af30	InitCommonControlsEx
+0003af46	COMCTL32.dll
+0003af56	PathFindFileNameW
+0003af6a	PathFindExtensionW
+0003af7e	SHLWAPI.dll
+0003af8c	CoCreateGuid
+0003af9a	ole32.dll
+0003afa4	OLEAUT32.dll
+0003afb2	WS2_32.dll
+0003afc0	UnregisterClassA
+0003b008	.?AVCDumpAgentApp@@
+0003b024	.?AVCWinApp@@
+0003b03c	.?AVCWinThread@@
+0003b058	.?AVCCmdTarget@@
+0003b074	.?AVCObject@@
+0003b08c	.?AVbad_alloc@std@@
+0003b0a8	.?AVexception@std@@
+0003b0c4	.?AVlogic_error@std@@
+0003b0e4	.?AVlength_error@std@@
+0003b104	.?AVCEdit@@
+0003b118	.?AVCWnd@@
+0003b12c	.?AVCDumpAgentDlg@@
+0003b148	.?AVCDialog@@
+0003b164	.PAVCException@@
+0003b180	.?AVCTransferDlg@@
+0003b19c	.?AVIBlockingSocket@nsSocket@@
+0003b1c4	.?AVCBlockingSocket@nsSocket@@
+0003b1ec	.?AVCBlockingSocketException@nsSocket@@
+0003b21c	.?AVITransferNotification@nsFTP@@
+0003b248	.?AVCFile@nsFTP@@
+0003b264	.?AVout_of_range@std@@
+0003b284	.?AVCFTPClient@nsFTP@@
+0003b370	.?AVCCmdUI@@
+0003b388	.PAVCMemoryException@@
+0003b3a8	.PAVCSimpleException@@
+0003b3c8	.PAVCObject@@
+0003b3f0	.PAVCNotSupportedException@@
+0003b418	.PAVCInvalidArgException@@
+0003b43c	.?AVCMemoryException@@
+0003b45c	.?AVCSimpleException@@
+0003b47c	.?AVCException@@
+0003b498	.?AVCNotSupportedException@@
+0003b4c0	.?AVCInvalidArgException@@
+0003b830	.?AVCOleException@@
+0003b84c	.PAVCOleException@@
+0003b868	.?AVCAfxStringMgr@@
+0003b884	.?AUIAtlStringMgr@ATL@@
+0003b8a4	.?AV_AFX_SOCK_STATE@@
+0003b8c4	.?AVCNoTrackObject@@
+0003b8e4	.?AV_AFX_THREAD_STATE@@
+0003b904	.?AVAFX_MODULE_THREAD_STATE@@
+0003b92c	.?AVAFX_MODULE_STATE@@
+0003b94c	.?AVCDllIsolationWrapperBase@@
+0003b974	.?AVCComCtlWrapper@@
+0003b994	.?AVCCommDlgWrapper@@
+0003b9b4	.?AV_AFX_BASE_MODULE_STATE@@
+0003ba7c	.?AVXAccessible@CWnd@@
+0003ba9c	.?AVXAccessibleServer@CWnd@@
+0003bac4	.?AVCTestCmdUI@@
+0003bae0	.?AV_AFX_HTMLHELP_STATE@@
+0003bb04	.PAVCUserException@@
+0003bb28	.?AV?$IAccessibleProxyImpl@VCAccessibleProxy@ATL@@@ATL@@
+0003bb6c	.?AUIAccessible@@
+0003bb88	.?AUIDispatch@@
+0003bba0	.?AUIUnknown@@
+0003bbb8	.?AUIAccessibleProxy@@
+0003bbd8	.?AV?$CMFCComObject@VCAccessibleProxy@ATL@@@@
+0003bc10	.?AVCAccessibleProxy@ATL@@
+0003bc38	.?AV?$CComObjectRootEx@VCComSingleThreadModel@ATL@@@ATL@@
+0003bc7c	.?AVCComObjectRootBase@ATL@@
+0003bca4	.?AUIOleWindow@@
+0003bcc0	.PAVCResourceException@@
+0003bce4	.?AVCResourceException@@
+0003bd08	.?AVCUserException@@
+0003bd28	.?AVCGdiObject@@
+0003bd44	.?AVCDC@@
+0003bd58	.?AVCPaintDC@@
+0003bd70	.?AUCThreadData@@
+0003bd8c	.?AVCHandleMap@@
+0003bda8	.PAVCArchiveException@@
+0003bdc8	.?AVCArchiveException@@
+0003bde8	.?AVCMapPtrToPtr@@
+0003be04	.?AVCPtrList@@
+0003be1c	.?AVCMenu@@
+0003be30	.?AVCObArray@@
+0003be74	.?AVCByteArray@@
+0003beb4	.?AV?$CArray@W4LoadArrayObjType@CArchive@@ABW412@@@
+0003bef0	.?AVCPtrArray@@
+0003bf10	.?AVtype_info@@
+0003c25c	.?AVbad_exception@std@@
+0003c2fe	                          
+0003c3de	abcdefghijklmnopqrstuvwxyz
+0003c3fe	ABCDEFGHIJKLMNOPQRSTUVWXYZ
+0003c502	                          
+0003c5e9	abcdefghijklmnopqrstuvwxyz
+0003c609	ABCDEFGHIJKLMNOPQRSTUVWXYZ
+0003d1fe	z?aUY
+0003d240	zc%C1
+0003d293	-64OS
+0004029d	wwwwwwwwwwwwwwwwwwwwww
+000404ad	wwwwwwwwwwwwwwwwwwwwww
+000406c2	wwwwwwwwwww}
+0004070c	wwwwwwww
+00040905	wwwwwwwwwwwwww
+000409e5	wwwwwwwwwwwwww
+00040ac8	wwwwwww}
+00040bec	wwwwwww}x
+00040c2b	}wwwwwww}
+00041137	_`__``_``a`_`_aaaa`
+0004114b	     !        !     
+00041166	i\\\\\\\\[\\\\\\\[\\a///2/////////2/22///
+000411ae	BB<<<<777111,,,*/
+000411de	RFGHJCDKLL=>>88+/
+00041209	[`//"QRT$
+00041218	1=>>8+2
+00041239	\`2/"OQ
+00041248	$%=>>*2
+00041269	\a//"NO
+0004127a	L=>(2
+00041299	\a//"WN
+000412a3	FTHI*++LL=(/
+000412b6	h\^|~
+000412c9	\`//'VW
+000412d3	RFTHJCDKLL)2
+000412e6	j\]x|~
+000412ed	rccp~
+000412f9	\_//'VV
+00041303	QRFTHJCDKL(/
+00041316	i\^wx|~pcccccb
+00041329	\`//'UV
+00041333	OQRFGHJCDK(/
+00041346	i\]wwx|pcckrss
+00041359	\a//0UU
+00041363	NOQRSGHIJD(2
+00041376	i\^vwwxpccr
+00041389	\`///YU
+00041393	WNOQRFTHIJ)/
+000413a6	j\]uvwwmccp
+000413b9	\`//9YY
+000413c3	VWNO5;*THI)2
+000413d6	j\]uuvwmccp
+000413e9	\a//9XY
+000413fa	STH)2
+00041406	i\]ouuvmccbbbbbs
+00041419	\a//@XX0
+0004142a	RST)/
+00041436	i\]oouulefffggkt
+00041449	\`/2@ZXX:
+00041458	;NPRF(/
+00041466	h\]loouuvwwx|~
+00041479	\_2/@ZZXXYYUUUVWNOPQ(/
+00041496	i\]ffggkkqqqzzz{{{
+000414a9	\_//?MMMMEEEAAAA3345
+000414c6	i\\\\\\\\\\\\\\\\\\\`//&&&&&--&&&&-&&&&./
+000414f6	illlllllll
+00041fbd	]ZZZZZZZZZZZWV-1---------1-
+00041fe9	mV2.AHBC5D;<<(-
+00042009	kV2.P:#
+00042011	!!+=>(-
+00042029	kV239
+00042049	kV73@
+00042069	kV78@
+00042070	OGJKD;*1
+0004207d	]d}~wca``
+00042089	kV78F
+00042090	OOGJKD*1
+0004209d	\dy}rch{
+000420a9	kV7EF
+000420b0	MNOGIK/1
+000420bd	\buyrcj
+000420c9	kV?EE
+000420d0	RR.#:I/-
+000420dd	[btuncfssv
+000420e9	kV?LE
+000420fd	]_ptqhhhjj
+00042109	kV?LTE
+00042113	@NO41
+0004211d	]_mptuy}~
+00042129	lV6SUTTQQQRRN91
+0004213d	[WXXXYXXYXYYWV-)))))))))),,
+00042824	F5><<==.
+00042834	ECK2LPV.
+00042844	E@J3MOU.
+00042854	D?H31IT.
+00042864	B;G1JKS.(
+00042874	E9A011R.&#
+00042884	E/4678:."&' 
+00042895	NQWhX^XXXe
+000428f8	djklnoc
+00042908	sgba`_f|
+00042919	ux||||
+00042a2d	#  #  # 
+00042a3f	#! # 
+00042a45	#! #! # 
+00042a4e	#  # 
+00042a60	#gdc 
+00042a69	#  #! # 
+00042a75	#  #  # 
+00042a81	#  # 
+00042a87	#  # 
+00042a96	#  #  #  #
+00042b2b	t5! #! #
+00042bbe	lR! #
+00042c4e	mS! #
+00042cde	lR! #
+00042d6e	lR! #
+00042dfe	lR! #
+00042e8e	lR! #
+00042f1e	lR! #
+00042fae	lR! #
+0004303e	lR! #
+000430ce	lR! #
+0004315e	lR! #
+000431ee	lR! #
+0004327e	lR! #
+0004330e	lR! #
+0004339e	lR! #
+0004342e	lR! #
+000434be	lS! #
+0004354e	lR! #
+000435de	lR! #
+00043612	b;wi=ua=ua=ua=ua<u`=ua=ua<u`9d[qikunntnntnnunntnnunnunntpwyr
+0004366e	cVgdc
+000436fb	nkgdc
+000438dd	y|~$s
+0004392f	rcgdc
+000439af	4@egdc
+00043a3f	5@fgdc
+00043acf	5@fgdc
+00043b5f	4@egdc
+00043bef	5Afgdc
+00043c7f	4@egdc
+00043d0f	5@fgdc
+00043d9f	5@fgdc
+00043e2f	4@egdc
+00043ebf	4@egdc
+00043f4f	5@fgdc
+00043fdf	5Afgdc
+0004406f	5@egdc
+000440ff	5@fgdc
+0004469a	BL@BM@BM@BL@BL@BL@BL@BM@CMABM@BL@BL@ 
+000446c0	#w\Rv\Rw]Sw\Rw\Rw\Sv\Rv\Rw\Rw]Sw]Sw]StYQ1-/ 
+00044746	t6REE 
+000447a6	t6RDD 
+00044806	t5REE 
+00044866	t5RDE 
+000448c6	u6RDD 
+00044927	=REE 
+00044987	=REE 
+000449e7	=SEE 
+00044a47	=REE 
+00044aa7	=REE 
+00044b07	=SEE 
+00044b67	=SEE 
+00044bc7	;tcc 
+00044bfe	3ZzWo
+00045307	|Xfdc
+0004563a	Dump Agent
+00045656	Microsoft JhengHei
+00045755	\vuBf
+00045786	zlOUL
+000457c2	Dump Agent
+000457de	MS UI Gothic
+0004582a	W0~0Y0
+000458d1	NU0[0
+000458e9	uBfn0
+000458fa	O0`0U0D0
+00045926	Dump Agent
+00045aaa	Dump Agent
+00045ac6	SimSun
+00045bea	MS UI Gothic
+00045c20	ck(W|v
+00045c4c	msctls_progress32
+00045c90	100 %
+00045ce6	-Ng0Y0
+00045cf6	MS UI Gothic
+00045d30	W0f0D0~0Y0
+00045d58	msctls_progress32
+00045d9c	100 %
+00045e64	msctls_progress32
+00045ea8	100 %
+00045efc	MS Shell Dlg
+00045f2e	&New 
+00045f8e	Cancel
+00045fb6	&Help
+00045fde	MS Shell Dlg
+00046017	O1YWe
+00046020	P}1YWe+
+00046026	+Exception 0x%08x occurred. Quitting game...
+000460a1	NW0~0W0_0
+000460b1	Ok01YWeW0~0W0_0
+000460c7	Ok01YWeW0~0W0_0
+000460dd	}k01YWeW0~0W0_0
+000460ee	+Exception 0x%08x occurred. Quitting game...
+000461c0	0x%08x
+0004623a	+Exception 0x%08x occurred. Quitting game...
+000462b0	Save As
+000462c0	All Files (*.*)
+000462e0	Untitled
+000462f6	an unnamed file
+0004632c	&Hide
+00046356	No error message is available.'An unsupported operation was attempted.$A required resource was unavailable.
+0004642e	Out of memory.
+0004644c	An unknown error has occurred.$An invalid argument was encountered.
+000464ea	Invalid filename.
+0004650e	Failed to open document.
+00046540	Failed to save document.
+00046572	Save changes to %1? Failed to create empty document.
+000465dc	The file is too large to open.
+0004661a	Could not start print job.
+00046650	Failed to launch help.
+0004667e	Internal application error.
+000466b6	Command failed.)Insufficient memory to perform operation.PSystem registry entries have been removed and the INI file (if any) was deleted.BNot all of the system registry entries (or INI file) were removed.FThis program requires the file %s, which was not found on this system.tThis program is linked to the missing export %s in the file %s. This machine may have an incompatible version of %s.
+000469ce	Please enter an integer.
+00046a00	Please enter a number.*Please enter an integer between %1 and %2.(Please enter a number between %1 and %2.(Please enter no more than %1 characters.
+00046b28	Please select a button.*Please enter an integer between 0 and 255. Please enter a positive integer. Please enter a date and/or time.
+00046c32	Please enter a currency.
+00046c64	Please enter a GUID.
+00046c8e	Please enter a time.
+00046cb8	Please enter a date.
+00046cea	Unexpected file format.V%1
+00046d20	Cannot find this file.
+00046d4e	Please verify that the correct path and file name are given.
+00046dc8	Destination disk drive is full.5Unable to read from %1, it is opened by someone else.AUnable to write to %1, it is read-only or opened by someone else..An unexpected error occurred while reading %1..An unexpected error occurred while writing %1.
+00046fc6	%1: %2
+00046fd4	Continue running script?
+00047006	Dispatch exception: %1
+00047068	#Unable to read write-only property.#Unable to write read-only property.
+000470fc	#Unable to load mail system support.
+00047146	Mail system DLL is invalid.!Send Mail failed to send message.
+000471de	No error occurred.-An unknown error occurred while accessing %1.
+00047260	%1 was not found.
+00047284	%1 contains an invalid path.=%1 could not be opened because there are too many open files.
+0004733a	Access to %1 was denied..An invalid file handle was associated with %1.<%1 could not be removed because it is the current directory.6%1 could not be created because the directory is full.
+000474b2	Seek failed on %15A hardware I/O error was reported while accessing %1.0A sharing violation occurred while accessing %1.0A locking violation occurred while accessing %1.
+00047606	Disk full while accessing %1..An attempt was made to access %1 past its end.
+000476a2	No error occurred.-An unknown error occurred while accessing %1./An attempt was made to write to the reading %1..An attempt was made to access %1 past its end.0An attempt was made to read from the writing %1.
+00047844	%1 has a bad format."%1 contained an unexpected object. %1 contains an incorrect schema.
+00047906	pixels
+00047934	Uncheck
+00047944	Check
+00047950	Mixed
+00047b3a	VS_VERSION_INFO
+00047b96	StringFileInfo
+00047bba	000004b0
+00047bd2	CompanyName
+00047bec	INTIVSOFT
+00047c06	FileDescription
+00047c28	DumpAgent
+00047c42	FileVersion
+00047c5c	1, 0, 0, 3
+00047c7a	InternalName
+00047c94	DumpAgent.exe
+00047cb6	LegalCopyright
+00047cd4	(c) 2008-2011 INTIVSOFT.  All rights reserved.
+00047d3a	OriginalFilename
+00047d5c	DumpAgent.exe
+00047d7e	ProductName
+00047d98	DumpAgent
+00047db2	ProductVersion
+00047dd0	1, 0, 0, 3
+00047dee	VarFileInfo
+00047e0e	Translation
+00047e2c	<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+00047e77	  <dependency>
+00047e87	    <dependentAssembly>
+00047ea0	      <assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version="6.0.0.0" processorArchitecture="x86" publicKeyToken="6595b64144ccf1df" language="*"></assemblyIdentity>
+00047f60	    </dependentAssembly>
+00047f7a	  </dependency>
+00047f8b	</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGX

@@ -1,0 +1,3251 @@
+0000004d	!This program cannot be run in DOS mode.
+000000d7	DRich
+000001e0	.textbss1)
+00000208	.text
+0000022f	`.rdata
+00000257	@.data
+00000280	.idata
+000002a8	.ndata
+000002d0	.rsrc
+000002f7	@.reloc
+0000368c	XZ_^[
+00007329	XZ_^[
+0000748f	dwRet
+000074ae	binbuf
+000074ba	errstr
+000074d3	pvsf1
+000074d9	lExitCode
+00008605	XZ_^[
+00008648	buffer
+0000877f	XZ_^[
+0000891d	XZ_^[
+000094f8	XZ_^[
+00009548	length
+00009d38	XZ_^[
+00009d98	progress
+00009da1	input_len
+0000a219	XZ_^[
+0000a6be	XZ_^[
+0000aff3	XZ_^[
+0000b048	hToken
+0000b9ec	XZ_^[
+0000c45e	XZ_^[
+0000ca37	XZ_^[
+0000cc2a	H4Qj"
+0000cc3c	H8Qj#
+0000cfc3	XZ_^[
+0000d8b1	XZ_^[
+0000d946	available64
+0000d955	available
+0000dd3b	XZ_^[
+0000dd85	scalestr
+0000df9c	XZ_^[
+0000ea80	XZ_^[
+0000eeab	XZ_^[
+0000f1b7	XZ_^[
+0000f1e4	new_item
+0000f6b3	PhP.D
+0000fa82	XZ_^[
+0000fd13	jjjjjj
+0000fd5f	XZ_^[
+0000fd8c	ProcInfo
+000103ef	XZ_^[
+00010d9b	XZ_^[
+00010dc8	prefix
+00011107	XZ_^[
+00011134	dwBytes
+00011387	XZ_^[
+00011b38	XZ_^[
+00011b74	fldrs
+00011f4f	XZ_^[
+00012435	XZ_^[
+000135b4	XZ_^[
+00013e89	PRSVW
+00013e9c	_^[ZX
+00013eb5	QSVW3
+00013f5a	3_[^]
+000146b8	Rhh0J
+00014a3d	Rh,2J
+00014a46	Ph 2J
+00016189	PRSVWh
+000161af	_^[ZX
+0001658d	QVVVR
+000165dd	R VVV
+000168a4	Wh|HJ
+00017727	x\@WJ
+0001775f	Qh@WJ
+0001882e	u!h8MJ
+00018961	u!h0LJ
+00019a00	j hpPJ
+00019a2a	j hpPJ
+00019b14	j*hpPJ
+00019b3e	j*hpPJ
+0001a9de	uJjxhdRJ
+0001b12e	j9hpTJ
+0001b158	j9hpTJ
+0001b5ce	u!h@UJ
+0001b809	Ph:VC
+0001b86b	Qh:VC
+0001b94f	u!hxVJ
+0001ba4f	u!h8VJ
+0001bc9f	u!hxVJ
+0001beab	u!h8VJ
+0001c0c9	Ph)NC
+0001c12b	Qh)NC
+0001db17	RhXZJ
+0001db1b	Jjjjj
+0001db34	 h0ZJ
+0001db3d	Ijjjj
+0001e24b	Jjjjj
+0001e26d	Ijjjj
+0001e2a3	Qh0^J
+0001e383	Qhp]J
+0001e414	t!hp\J
+0001e46f	Ph0\J
+0001e667	t!h|[J
+0001e6b7	t!h<[J
+0001ecc4	Ijjjj
+0001ed4d	t!h`cJ
+0001ee92	Ph aJ
+0001efdc	t!hl_J
+0001f02a	t!h8_J
+0001f386	t!h`cJ
+0001f52c	t!h`cJ
+0001f6fe	Ijjjj
+0001f723	Ijjjj
+0001f745	Ijjjj
+0001f767	Ijjjj
+0001f780	 hLfJ
+0001f789	Ijjjj
+0001f873	Jjjjj
+0001f8a2	Jjjjj
+0001f90d	Ph aJ
+0001f911	Jjjjj
+0001f940	Jjjjj
+0001f9af	Jjjjj
+0001f9d3	Jjjjj
+0001fa24	Jjjjj
+0001fa4f	QhTdJ
+0001fa53	Jjjjj
+0001fc38	u!hPgJ
+0001fdb2	u!h\iJ
+000203a8	Jjjjj
+000203c5	QhxiJ
+000203c9	Jjjjj
+00020539	u!hdjJ
+000205a2	u!h<jJ
+00020699	P,+Q,
+000206ab	A0+B0
+00020962	Ijjjj
+00020a2c	Jjjjj
+00020a57	Jjjjj
+00020a79	Jjjjj
+00020ac2	 Ph@kJ
+00020ac7	Jjjjj
+00020b43	Jjjjj
+00020b9f	Jjjjj
+00020bed	Ijjjj
+00020e50	Jjjjj
+00020f7f	t1h(lJ
+00020f89	Ijjjj
+0002108b	Jjjjj
+000210a9	H,QhllJ
+000210af	Jjjjj
+000210cb	H0QhDlJ
+000210d1	Jjjjj
+000212ab	u!htmJ
+00021594	Ph0nJ
+00021611	u!htmJ
+00021ce5	u*hDoJ
+00021e05	u*hDoJ
+000222b6	@\@WJ
+000222ca	t0h4oJ
+0002231e	Bh(VK
+0002263c	y\@WJ
+00022a2c	u!h`pJ
+00022f01	jah8}J
+00022f2b	jah8}J
+00022f65	jbh8}J
+00022f8f	jbh8}J
+00023871	jah8}J
+0002389b	jah8}J
+000238d5	jbh8}J
+000238ff	jbh8}J
+000241df	URPQQh`~E
+00024b7e	zh(VK
+00028572	uZj[h\
+00029fd4	Ph:VC
+0002a034	Ph)NC
+0002a062	Rh:VC
+0002a0c2	Rh)NC
+0003202a	u!h`pJ
+00032164	u!h`pJ
+00035601	HlQhX`K
+00037a37	j hpPJ
+00037a61	j hpPJ
+00037b45	j*hpPJ
+00037b6f	j*hpPJ
+0003a1b3	SVWUj
+0003a254	;t$,v-
+0003a2d9	UQPXY]Y[
+0003a81a	jjjjj
+0003d579	u!h@RJ
+000471cb	Rh``K
+0004779b	Rh``K
+00047ccd	toj@h
+0004d136	PPPPPPPP
+0004d366	PPPPPPPP
+0004e19e	Qj@hX
+0004faac	Rh}OC
+0004fb3c	u!h8VJ
+0004fe15	Qh}OC
+0004fec9	Qh}OC
+0004ff8f	u!h8VJ
+0005113e	u!h8MJ
+0005126d	u!h0LJ
+0005243e	Qh:VC
+00052470	Rh:VC
+0005249e	Qh)NC
+000524d0	Rh)NC
+000546e2	PQSVW
+000547b0	}'hDbK
+00055120	Rh}OC
+000551ae	Qh}OC
+00055e3b	Rh``K
+000564eb	Rh``K
+00059ecb	Rh``K
+0005a5cb	Rh``K
+0005ab0a	RhQNC
+0005df88	Du5h`
+00063d50	@txj'
+00066ead	;U$trj
+0006808d	j:hX"K
+000680b7	j:hX"K
+0006ac6c	logging set to %d
+0006ac84	settings logging to %d
+0006aca0	created uninstaller: %I64d, "%s"
+0006acc8	WriteReg: error creating key "%s\%s"
+0006acf4	WriteReg: error writing into "%s\%s" "%s"
+0006ad28	WriteRegBin: "%s\%s" "%s"="%s"
+0006ad50	WriteRegDWORD: "%s\%s" "%s"="0x%08x"
+0006ad7c	WriteRegExpandStr: "%s\%s" "%s"="%s"
+0006ada8	WriteRegStr: "%s\%s" "%s"="%s"
+0006add0	DeleteRegKey: "%s\%s"
+0006adec	DeleteRegValue: "%s\%s" "%s"
+0006ae14	WriteINIStr: wrote [%s] %s=%s in %s
+0006ae48	CopyFiles "%s"->"%s"
+0006ae68	CreateShortCut: out: "%s", in: "%s %s", icon: %s,%d, sw=%d, hk=%d
+0006aeb8	Error registering DLL: Could not initialize OLE
+0006aef4	Error registering DLL: Could not load %s
+0006af28	Error registering DLL: %s not found in %s
+0006af60	Exec: failed createprocess ("%s")
+0006af88	Exec: success ("%s")
+0006afa4	Exec: command="%s"
+0006afbc	ExecShell: success ("%s": file:"%s" params:"%s")
+0006aff8	ExecShell: warning: error ("%s": file:"%s" params:"%s")=%d
+0006b040	HideWindow
+0006b050	Pop: stack empty
+0006b064	Exch: stack < %d elements
+0006b084	RMDir: "%s"
+0006b094	MessageBox: %d,"%s"
+0006b0ac	Delete: "%s"
+0006b0c0	File: wrote %I64d to "%s"
+0006b0e0	File: error, user abort
+0006b0fc	File: error, user cancel
+0006b11c	File: error, user retry
+0006b138	File: error creating "%s"
+0006b158	File: skipped: "%s" (overwriteflag=%d)
+0006b188	File: overwriteflag=%d, allowskipfilesflag=%d, name="%s"
+0006b1cc	Rename failed: %s
+0006b1e4	Rename on reboot: %s
+0006b200	Rename: %s
+0006b210	IfFileExists: file "%s" does not exist, jumping %d
+0006b250	IfFileExists: file "%s" exists, jumping %d
+0006b284	SetCurrentDirectory(%s) failed (%d)
+0006b2b0	CreateDirectory: "%s" created
+0006b2d4	CreateDirectory: can't create "%s" - a file already exists
+0006b31c	CreateDirectory: can't create "%s" (err=%d)
+0006b350	CreateDirectory: "%s" (%d)
+0006b370	SetFileAttributes failed.
+0006b390	SetFileAttributes: "%s":%08X
+0006b3b4	BringToFront
+0006b3c4	Sleep(%d)
+0006b3d0	detailprint: %s
+0006b3e4	Call: %d
+0006b3f0	Aborting: "%s"
+0006b404	Jump: %d
+0006b410	verifying installer: %d%%
+0006b430	.%u.dat
+0006b440	Installer integrity check has failed. Common causes include
+0006b47c	incomplete download and damaged media. Contact the
+0006b4af	installer's author to obtain a new copy.
+0006b4d9	More information at:
+0006b4ee	http://nsis.sf.net/NSIS_Error
+0006b534	Error launching installer
+0006b554	... %d%%
+0006b560	m_file_mapping.cur->next
+0006b5a0	d:\project\tartaros\util\nsis64-master\nsis64-master\source\exehead\fileform.c
+0006b660	!"shouldn't happen"
+0006b690	shouldn't happen
+0006b6a4	SeShutdownPrivilege
+0006b6c0	~nsu.tmp
+0006b6e4	\Temp
+0006b6fc	NSIS Error
+0006b710	Error writing temporary file. Make sure your temp folder is valid.
+0006b760	install.log
+0006b770	RichEdit
+0006b77c	RichEdit20A
+0006b78c	RichEd32
+0006b798	RichEd20
+0006b7b0	.DEFAULT\Control Panel\International
+0006b7dc	Control Panel\Desktop\ResourceLocale
+0006b810	%u.%u%s%s
+0006b81c	Skipping section: "%s"
+0006b838	Section: "%s"
+0006b848	New install of "%s" to "%s"
+0006b86c	SHGetFolderPathA
+0006b880	SHFOLDER
+0006b88c	SHAutoComplete
+0006b8a0	SHLWAPI
+0006b8ac	GetUserDefaultUILanguage
+0006b8cc	AdjustTokenPrivileges
+0006b8e8	LookupPrivilegeValueA
+0006b904	OpenProcessToken
+0006b918	RegDeleteKeyExA
+0006b92c	ADVAPI32
+0006b938	MoveFileExA
+0006b948	GetDiskFreeSpaceExA
+0006b960	KERNEL32
+0006b970	Software\Microsoft\Windows\CurrentVersion
+0006b99c	\Microsoft\Internet Explorer\Quick Launch
+0006b9d8	RMDir: RemoveDirectory failed("%s")
+0006ba04	RMDir: RemoveDirectory on Reboot("%s")
+0006ba34	RMDir: RemoveDirectory("%s")
+0006ba58	RMDir: RemoveDirectory invalid input("%s")
+0006ba8c	Delete: DeleteFile failed("%s")
+0006bab4	Delete: DeleteFile on Reboot("%s")
+0006bae0	Delete: DeleteFile("%s")
+0006bb10	%s=%s
+0006bb20	[Rename]
+0006bb30	*?|<>/":
+0006bb40	invalid registry key
+0006bb5c	HKEY_DYN_DATA
+0006bb6c	HKEY_CURRENT_CONFIG
+0006bb84	HKEY_PERFORMANCE_DATA
+0006bba0	HKEY_USERS
+0006bbb0	HKEY_LOCAL_MACHINE
+0006bbc8	HKEY_CURRENT_USER
+0006bbe0	HKEY_CLASSES_ROOT
+0006bbfc	%02x%c
+0006c08d	/4*&{
+0006c938	tXT9bq^F
+0006ca09	YFDAt
+0006cbff	]/qNn
+0006ce56	J9*`+
+0006d369	$<;{d
+0006de29	O(hHj
+0006e0b2	A'qQU
+0006e18f	W'tVa
+0006e353	WJ?,C
+0006e485	X7iii9P
+0006e5b2	t&1Zs
+0006e6b7	BeUNO
+0006e955	T&<rskO
+0006ec88	Unknown Runtime Check Error
+0006ecac	Stack memory around _alloca was corrupted
+0006ece0	A local variable was used before it was initialized
+0006ed20	Stack memory was corrupted
+0006ed48	A cast to a smaller data type has caused a loss of data.  If this was intentional, you should mask the source of the cast with the appropriate bitmask.  For example:  
+0006edf2	char c = (i & 0xFF);
+0006ee08	Changing the code in this way will not affect the quality of the resulting optimized code.
+0006eea0	The value of ESP was not properly saved across a function call.  This is usually a result of calling a function declared with one calling convention with a function pointer declared with a different calling convention.
+0006efdc	Stack around the variable '
+0006eff8	' was corrupted.
+0006f00c	The variable '
+0006f01c	' is being used without being initialized.
+0006f068	Run-Time Check Failure #%d - %s
+0006f090	Unknown Module Name
+0006f0a8	Unknown Filename
+0006f0c0	Run-Time Check Failure #%d - %s
+0006f110	Runtime Check Error.
+0006f13c	 Unable to display RTC Message.
+0006f194	Stack corrupted near unknown variable
+0006f1c8	Stack area around _alloca memory reserved by this function is corrupted
+0006f220	%s%s%s%s
+0006f230	%s%s%p%s%ld%s%d%s
+0006f248	Stack area around _alloca memory reserved by this function is corrupted
+0006f2a1	Address: 0x
+0006f2b1	Size: 
+0006f2bd	Allocation number within this function: 
+0006f2f1	Data: <
+0006f2fc	wsprintfA
+0006f308	user32.dll
+0006f318	%.2X 
+0006f320	A variable is being used without being initialized.
+0006f378	Microsoft Visual C++ Runtime Library
+0006f3d0	(Press Retry to debug the application - JIT must be enabled)
+0006f468	wcscat_s(assertbuf, (60 * 9), L"(Press Retry to debug the application - JIT must be enabled)")
+0006f550	wcscat_s(assertbuf, (60 * 9), dblnewline )
+0006f5b8	For information on how your program can cause an assertion
+0006f62e	failure, see the Visual C++ documentation on asserts
+0006f6c8	wcscat_s(assertbuf, (60 * 9), L"For information on how your program can cause an assertion\n" L"failure, see the Visual C++ documentation on asserts")
+0006f838	wcscat_s( assertbuf, (60 * 9), expr )
+0006f898	wcsncat_s( assertbuf, (60 * 9), expr, (60 * 9) - (wcslen(assertbuf) + 3 + 2*2 + (sizeof(L"For information on how your program can cause an assertion\n" L"failure, see the Visual C++ documentation on asserts")/sizeof(TCHAR))-1 + (sizeof(L"(Press Retry to debug the application - JIT must be enabled)")/sizeof(TCHAR))))
+0006fb94	Expression: 
+0006fbb8	wcscat_s( assertbuf, (60 * 9), L"Expression: " )
+0006fc30	_itow_s( lineno, assertbuf + wcslen(assertbuf), (60 * 9) - wcslen(assertbuf), 10 )
+0006fcf8	Line: 
+0006fd08	wcscat_s( assertbuf, (60 * 9), L"Line: " )
+0006fd70	wcscat_s( assertbuf, (60 * 9), filename )
+0006fdd8	wcscat_s( assertbuf, (60 * 9), pch + len - (ffn/3 - ffn/6 - 2) )
+0006fe78	wcsncat_s( assertbuf, (60 * 9), pch + len - p, ffn/6 - 1 )
+0006ff08	wcsncat_s( assertbuf, (60 * 9), pch, ffn - ffn/3 - 3 )
+0006ff90	wcscat_s( assertbuf, (60 * 9), pch + len - p )
+00070000	wcscat_s( assertbuf, (60 * 9), dotdotdot )
+00070068	wcsncat_s( assertbuf, (60 * 9), pch, ffn - 3 - p )
+000700e4	File: 
+000700f8	wcscat_s( assertbuf, (60 * 9), L"File: " )
+00070160	wcscat_s( assertbuf, (60 * 9), newline )
+000701c8	wcscat_s( assertbuf, (60 * 9), pch )
+00070220	wcsncpy_s( pch, (260 + 1) - (pch - progname), dotdotdot, 3 )
+000702b4	<program name unknown>
+000702f0	wcscpy_s( progname, 260 + 1, L"<program name unknown>")
+00070378	Program: 
+00070390	wcscat_s( assertbuf, (60 * 9), L"Program: " )
+00070400	wcscat_s( assertbuf, (60 * 9), dblnewline )
+0007046c	Assertion failed!
+00070498	wcscpy_s( assertbuf, (60 * 9), L"Assertion failed!" )
+0007051c	_wassert
+00070538	f:\dd\vctools\crt_bld\self_x86\crt\src\assert.c
+000705b8	Stack around _alloca corrupted
+000705e0	Local variable used before initialization
+00070614	Stack memory corruption
+00070630	Cast to smaller type causing loss of data
+00070664	Stack pointer corruption
+0007069c	f:\dd\vctools\crt_bld\self_x86\crt\prebuild\misc\i386\chkesp.c
+000706e8	The value of ESP was not properly saved across a function call.  This is usually a result of calling a function declared with one calling convention with a function pointer declared with a different calling convention. 
+000707f0	MSPDB80.DLL
+00070804	PDBOpenValidate5
+00070818	EnvironmentDirectory
+00070834	SOFTWARE\Microsoft\VisualStudio\9.0\Setup\VS
+0007086c	RegCloseKey
+0007087c	RegQueryValueExA
+00070890	RegOpenKeyExA
+000708a0	ADVAPI32.DLL
+000708b0	CorExitProcess
+000708c4	mscoree.dll
+000708e0	_wpgmptr != NULL
+00070908	_get_wpgmptr
+00070928	f:\dd\vctools\crt_bld\self_x86\crt\src\crt0dat.c
+000709a0	pValue != NULL
+000709c4	_pgmptr != NULL
+000709ec	_get_pgmptr
+00070a08	signal
+00070a18	f:\dd\vctools\crt_bld\self_x86\crt\src\winsig.c
+00070a8c	("Invalid signal or error", 0)
+00070ad8	f:\dd\vctools\crt_bld\self_x86\crt\src\winsig.c
+00070b14	raise
+00070b24	GetProcessWindowStation
+00070b40	GetUserObjectInformationW
+00070b60	GetLastActivePopup
+00070b78	GetActiveWindow
+00070b8c	MessageBoxW
+00070b9c	USER32.DLL
+00070bb8	length < sizeInTChars
+00070bec	2 <= radix && radix <= 36
+00070c30	sizeInTChars > (size_t)(is_neg ? 2 : 1)
+00070c90	sizeInTChars > 0
+00070cb8	xtow_s
+00070cc8	f:\dd\vctools\crt_bld\self_x86\crt\src\xtoa.c
+00070d38	buf != NULL
+00070d54	x64tow_s
+00070d6c	(L"Buffer is too small" && 0)
+00070db4	Buffer is too small
+00070de8	(L"String is not null terminated" && 0)
+00070e48	String is not null terminated
+00070e90	(((_Src))) != NULL
+00070ec0	wcsncat_s
+00070ed8	f:\dd\vctools\crt_bld\self_x86\crt\src\tcsncat_s.inl
+00070f58	((_Dst)) != NULL && ((_SizeInWords)) > 0
+00070fbc	wcsncpy_s
+00070fd8	f:\dd\vctools\crt_bld\self_x86\crt\src\tcsncpy_s.inl
+00071058	wcscat_s
+00071070	f:\dd\vctools\crt_bld\self_x86\crt\src\tcscat_s.inl
+000710ec	wcscpy_s
+00071108	f:\dd\vctools\crt_bld\self_x86\crt\src\tcscpy_s.inl
+00071184	(format != NULL)
+000711ac	fwprintf
+000711c8	f:\dd\vctools\crt_bld\self_x86\crt\src\fwprintf.c
+00071240	(str != NULL)
+00071264	f:\dd\vctools\crt_bld\self_x86\crt\src\setvbuf.c
+000712a0	((2 <= size) && (size <= INT_MAX))
+000712f8	(type == _IONBF) || (type == _IOFBF) || (type == _IOLBF)
+00071380	setvbuf
+00071398	f:\dd\vctools\crt_bld\self_x86\crt\src\setvbuf.c
+00071410	f:\dd\vctools\crt_bld\self_x86\crt\src\_file.c
+00071448	_set_error_mode
+00071470	f:\dd\vctools\crt_bld\self_x86\crt\src\errmode.c
+000714e8	("Invalid error_mode", 0)
+00071540	(count == 0) || (string != NULL)
+00071590	_vswprintf_helper
+000715c0	f:\dd\vctools\crt_bld\self_x86\crt\src\vswprint.c
+00071638	("Buffer too small", 0)
+00071678	string != NULL && sizeInWords > 0
+000716cc	_vswprintf_s_l
+000716f0	format != NULL
+00071714	_vsnwprintf_s_l
+000717d0	strcpy_s(*env, cchars, p)
+00071810	_setenvp
+00071828	f:\dd\vctools\crt_bld\self_x86\crt\src\stdenvp.c
+000718a0	f:\dd\vctools\crt_bld\self_x86\crt\src\stdenvp.c
+000718dc	f:\dd\vctools\crt_bld\self_x86\crt\src\stdargv.c
+00071918	f:\dd\vctools\crt_bld\self_x86\crt\src\a_env.c
+00071950	f:\dd\vctools\crt_bld\self_x86\crt\src\ioinit.c
+0007198c	Client
+00071994	Ignore
+000719a0	Normal
+000719c8	Error: memory allocation: bad memory block type.
+00071a04	Invalid allocation size: %Iu bytes.
+00071a30	Client hook allocation failure.
+00071a58	Client hook allocation failure at file %hs line %d.
+00071a98	f:\dd\vctools\crt_bld\self_x86\crt\src\dbgheap.c
+00071b10	_CrtCheckMemory()
+00071b3c	_pFirstBlock == pOldBlock
+00071b7c	_pLastBlock == pOldBlock
+00071bb8	fRealloc || (!fRealloc && pNewBlock == pOldBlock)
+00071c30	Error: possible heap corruption at or near 0x%p
+00071c70	pOldBlock->nLine == IGNORE_LINE && pOldBlock->lRequest == IGNORE_REQ
+00071d18	_CrtIsValidHeapPointer(pUserData)
+00071d70	The Block at 0x%p was allocated by aligned routines, use _aligned_realloc()
+00071dd0	Error: memory allocation: bad memory block type.
+00071e02	Memory allocated at %hs(%d).
+00071e30	Invalid allocation size: %Iu bytes.
+00071e55	Memory allocated at %hs(%d).
+00071e80	Client hook re-allocation failure.
+00071eac	Client hook re-allocation failure at file %hs line %d.
+00071ef0	_expand_dbg
+00071f0c	pUserData != NULL
+00071f38	_pFirstBlock == pHead
+00071f6c	_pLastBlock == pHead
+00071fa0	pHead->nBlockUse == nBlockUse
+00071fe8	pHead->nLine == IGNORE_LINE && pHead->lRequest == IGNORE_REQ
+00072080	HEAP CORRUPTION DETECTED: after %hs block (#%d) at 0x%p.
+000720b9	CRT detected that the application wrote to memory after end of heap buffer.
+00072120	HEAP CORRUPTION DETECTED: after %hs block (#%d) at 0x%p.
+00072159	CRT detected that the application wrote to memory after end of heap buffer.
+000721a6	Memory allocated at %hs(%d).
+000721e8	HEAP CORRUPTION DETECTED: before %hs block (#%d) at 0x%p.
+00072222	CRT detected that the application wrote to memory before start of heap buffer.
+00072290	HEAP CORRUPTION DETECTED: before %hs block (#%d) at 0x%p.
+000722ca	CRT detected that the application wrote to memory before start of heap buffer.
+0007231a	Memory allocated at %hs(%d).
+00072360	_BLOCK_TYPE_IS_VALID(pHead->nBlockUse)
+000723c0	Client hook free failure.
+000723e0	The Block at 0x%p was allocated by aligned routines, use _aligned_free()
+00072438	_msize_dbg
+00072454	%hs located at 0x%p is %Iu bytes long.
+00072488	%hs located at 0x%p is %Iu bytes long.
+000724b0	Memory allocated at %hs(%d).
+000724e0	HEAP CORRUPTION DETECTED: on top of Free block at 0x%p.
+00072518	CRT detected that the application wrote to a heap buffer that was freed.
+00072580	HEAP CORRUPTION DETECTED: on top of Free block at 0x%p.
+000725b8	CRT detected that the application wrote to a heap buffer that was freed.
+00072602	Memory allocated at %hs(%d).
+00072640	DAMAGED
+0007264c	_heapchk fails with unknown return value!
+00072680	_heapchk fails with _HEAPBADPTR.
+000726a8	_heapchk fails with _HEAPBADEND.
+000726d0	_heapchk fails with _HEAPBADNODE.
+000726fc	_heapchk fails with _HEAPBADBEGIN.
+00072728	_CrtSetDbgFlag
+00072750	(fNewBits==_CRTDBG_REPORT_FLAG) || ((fNewBits & 0x0ffff & ~(_CRTDBG_ALLOC_MEM_DF | _CRTDBG_DELAY_FREE_MEM_DF | _CRTDBG_CHECK_ALWAYS_DF | _CRTDBG_CHECK_CRT_DF | _CRTDBG_LEAK_CHECK_DF) ) == 0)
+0007291c	_CrtDoForAllClientObjects
+0007295c	pfn != NULL
+00072978	Bad memory block found at 0x%p.
+000729a0	Bad memory block found at 0x%p.
+000729c1	Memory allocated at %hs(%d).
+000729ec	_CrtMemCheckpoint
+00072a18	state != NULL
+00072a3c	newState != NULL
+00072a64	oldState != NULL
+00072a8c	_CrtMemDifference
+00072ab8	Object dump complete.
+00072ad4	crt block at 0x%p, subtype %x, %Iu bytes long.
+00072b10	normal block at 0x%p, %Iu bytes long.
+00072b40	client block at 0x%p, subtype %x, %Iu bytes long.
+00072b80	{%ld} 
+00072b88	%hs(%d) : 
+00072b98	#File Error#(%d) : 
+00072bb0	Dumping objects ->
+00072bc8	 Data: <%s> %s
+00072bdc	(*_errno())
+00072bf8	_printMemBlockData
+00072c28	Detected memory leaks!
+00072c44	Total allocations: %Id bytes.
+00072c6c	Largest number used: %Id bytes.
+00072c94	%Id bytes in %Id %hs Blocks.
+00072cb8	_CrtMemDumpStatistics
+00072cec	offset == 0 || offset < size
+00072d34	_aligned_offset_malloc_dbg
+00072d74	IS_2_POW_N(align)
+00072da0	_aligned_offset_realloc_dbg
+00072de4	Damage before 0x%p which was allocated by aligned routine
+00072e30	The block at 0x%p was not allocated by _aligned routines, use realloc()
+00072e88	The block at 0x%p was not allocated by _aligned routines, use free()
+00072edc	_aligned_msize_dbg
+00072f0c	memblock != NULL
+00072f34	EncodePointer
+00072f44	KERNEL32.DLL
+00072f64	DecodePointer
+00072f74	f:\dd\vctools\crt_bld\self_x86\crt\src\tidtable.c
+00072fb0	FlsFree
+00072fbc	FlsSetValue
+00072fcc	FlsGetValue
+00072fdc	FlsAlloc
+00072fe8	f:\dd\vctools\crt_bld\self_x86\crt\src\heapinit.c
+00073060	_crtheap
+00073078	runtime error 
+0007308c	TLOSS error
+0007309c	SING error
+000730ac	DOMAIN error
+000730c0	R6034
+000730c7	An application has made an attempt to load the C runtime library without using a manifest.
+00073122	This is an unsupported way to load Visual C++ DLLs. You need to modify your application to build with a manifest.
+00073194	For more information, see the "Visual C++ Libraries as Shared Side-by-Side Assemblies" topic in the product documentation.
+00073258	R6033
+0007325f	- Attempt to use MSIL code from this assembly during native code initialization
+000732af	This indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.
+00073380	R6032
+00073387	- not enough space for locale information
+000733c0	R6031
+000733c7	- Attempt to initialize the CRT more than once.
+000733f7	This indicates a bug in your application.
+00073438	R6030
+0007343f	- CRT not initialized
+00073460	R6028
+00073467	- unable to initialize heap
+0007348c	R6027
+00073493	- not enough space for lowio initialization
+000734cc	R6026
+000734d3	- not enough space for stdio initialization
+0007350c	R6025
+00073513	- pure virtual function call
+0007353c	R6024
+00073543	- not enough space for _onexit/atexit table
+0007357c	R6019
+00073583	- unable to open console device
+000735b0	R6018
+000735b7	- unexpected heap error
+000735d8	R6017
+000735df	- unexpected multithread lock error
+00073610	R6016
+00073617	- not enough space for thread data
+0007364a	This application has requested the Runtime to terminate it in an unusual way.
+00073698	Please contact the application's support team for more information.
+000736fc	R6009
+00073703	- not enough space for environment
+00073730	R6008
+00073737	- not enough space for arguments
+00073764	R6002
+0007376b	- floating point support not loaded
+0007379c	Microsoft Visual C++ Runtime Library
+000737c8	strcat_s(outmsg, (sizeof(outmsg) / sizeof(outmsg[0])), rterrs[tblindx].rterrtxt)
+00073890	strcat_s(outmsg, (sizeof(outmsg) / sizeof(outmsg[0])), "\n\n")
+00073928	strncpy_s(pch, progname_size - (pch - progname), "...", 3)
+000739b8	<program name unknown>
+000739d8	strcpy_s(progname, progname_size, "<program name unknown>")
+00073a68	Runtime Error!
+00073a78	Program: 
+00073a88	strcpy_s(outmsg, (sizeof(outmsg) / sizeof(outmsg[0])), "Runtime Error!\n\nProgram: ")
+00073b58	_NMSG_WRITE
+00073b78	f:\dd\vctools\crt_bld\self_x86\crt\src\crt0msg.c
+00073bf0	Assertion Failed
+00073c04	Error
+00073c0c	Warning
+00073c28	f:\dd\vctools\crt_bld\self_x86\crt\src\dbgrpt.c
+00073c68	("The hook function is not in the list!",0)
+00073cd4	pfnNewHook != NULL
+00073d04	_CrtSetReportHook2
+00073d38	f:\dd\vctools\crt_bld\self_x86\crt\src\dbgrpt.c
+00073db0	mode == _CRT_RPTHOOK_INSTALL || mode == _CRT_RPTHOOK_REMOVE
+00073e40	Microsoft Visual C++ Debug Library
+00073e6c	_CrtDbgReport: String too long or IO Error
+00073ea0	strcpy_s(szOutMessage, 4096, "_CrtDbgReport: String too long or IO Error")
+00073f58	Debug %s!
+00073f63	Program: %s%s%s%s%s%s%s%s%s%s%s%s
+00073f86	(Press Retry to debug the application)
+00073fc1	Module: 
+00073fcd	File: 
+00073fd9	Line: 
+00073fe4	Expression: 
+00073ffa	For information on how your program can cause an assertion
+00074035	failure, see the Visual C++ documentation on asserts.
+00074088	memcpy_s(szShortProgName, sizeof(TCHAR) * (260 - (szShortProgName - szExeName)), dotdotdot, sizeof(TCHAR) * 3)
+00074198	strcpy_s(szExeName, 260, "<program name unknown>")
+00074214	__crtMessageWindowA
+00074244	Assertion Failed
+0007426c	Error
+0007427c	Warning
+000742a0	_CrtSetReportHookW2
+000742d0	Microsoft Visual C++ Debug Library
+00074328	_CrtDbgReport: String too long or IO Error
+00074390	wcscpy_s(szOutMessage, 4096, L"_CrtDbgReport: String too long or IO Error")
+00074448	Debug %s!
+0007445e	Program: %s%s%s%s%s%s%s%s%s%s%s%s
+000744a4	(Press Retry to debug the application)
+00074516	Module: 
+0007452e	File: 
+00074542	Line: 
+0007455c	For information on how your program can cause an assertion
+000745d2	failure, see the Visual C++ documentation on asserts.
+00074670	wcscpy_s(szExeName, 260, L"<program name unknown>")
+000746ec	__crtMessageWindowW
+0007471c	f:\dd\vctools\crt_bld\self_x86\crt\src\onexit.c
+00074758	f:\dd\vctools\crt_bld\self_x86\crt\src\mbctype.c
+00074794	f:\dd\vctools\crt_bld\self_x86\crt\src\mlock.c
+000747cc	SystemFunction036
+000747e8	("rand_s is not available on this platform", 0)
+0007485c	rand_s
+00074870	f:\dd\vctools\crt_bld\self_x86\crt\src\rand_s.c
+000748e4	_RandomValue != NULL
+00074918	strncpy_s(*straddress, outsize, pcbuffer, outsize - 1)
+0007499c	__getlocaleinfo
+000749c8	f:\dd\vctools\crt_bld\self_x86\crt\src\inithelp.c
+00074a40	f:\dd\vctools\crt_bld\self_x86\crt\src\inithelp.c
+00074a80	f:\dd\vctools\crt_bld\self_x86\crt\src\handler.cpp
+00074afc	pnh == 0
+00074b14	_get_errno
+00074b30	f:\dd\vctools\crt_bld\self_x86\crt\src\dosmap.c
+00074ba4	_get_doserrno
+00074bc8	("Invalid file descriptor. File possibly closed by a different thread",0)
+00074c7c	(_osfile(filedes) & FOPEN)
+00074cbc	_commit
+00074cd0	f:\dd\vctools\crt_bld\self_x86\crt\src\commit.c
+00074d48	(filedes >= 0 && (unsigned)filedes < (unsigned)_nhandle)
+00074dd0	_fileno
+00074de8	f:\dd\vctools\crt_bld\self_x86\crt\src\fileno.c
+00074e5c	(stream != NULL)
+00074e84	(_osfile(fh) & FOPEN)
+00074eb8	_write
+00074ec8	f:\dd\vctools\crt_bld\self_x86\crt\src\write.c
+00074f38	(fh >= 0 && (unsigned)fh < (unsigned)_nhandle)
+00074fa8	isleadbyte(_dbcsBuffer(fh))
+00074fec	((cnt & 1) == 0)
+00075014	_write_nolock
+00075038	(buf != NULL)
+0007505c	f:\dd\vctools\crt_bld\self_x86\crt\src\_sftbuf.c
+00075098	f:\dd\vctools\crt_bld\self_x86\crt\src\_sftbuf.c
+00075110	str != NULL
+0007512c	flag == 0 || flag == 1
+00075164	f:\dd\vctools\crt_bld\self_x86\crt\src\output.c
+000751a0	("'n' format specifier disabled", 0)
+000751f8	_woutput_l
+00075218	f:\dd\vctools\crt_bld\self_x86\crt\src\output.c
+0007528c	vfwprintf_helper
+000752b8	f:\dd\vctools\crt_bld\self_x86\crt\src\vfwprint.c
+00075330	f:\dd\vctools\crt_bld\self_x86\crt\src\_freebuf.c
+000753a8	stream != NULL
+000753d0	("inconsistent IOB fields", stream->_ptr - stream->_base >= 0)
+00075468	f:\dd\vctools\crt_bld\self_x86\crt\src\_flsbuf.c
+000754e0	((state == ST_NORMAL) || (state == ST_TYPE))
+00075550	("Incorrect format specifier", 0)
+000755a4	_woutput_s_l
+000755c8	("Missing position in the format string", 0)
+00075638	_tvalidate_param_reuse(&pos_value[type_pos], e_long_long_arg, ch, flags)
+000756e8	_tvalidate_param_reuse(&pos_value[type_pos], e_int64_arg, ch, flags)
+00075790	pass == FORMAT_OUTPUT_PASS
+000757d0	_tvalidate_param_reuse(&pos_value[type_pos], e_double_arg, ch, flags)
+00075878	_tvalidate_param_reuse(&pos_value[type_pos], e_ptr_arg, ch, flags)
+00075918	_tvalidate_param_reuse(&pos_value[type_pos], e_int_arg, ch, flags)
+000759b8	((type_pos>=0) && (type_pos<_ARGMAX))
+00075a18	_tvalidate_param_reuse(&pos_value[precis_pos], e_int_arg, ch, flags)
+00075ac0	((precis_pos >= 0) && (*end_pos == POSITION_CHAR) && (type_pos < _ARGMAX))
+00075b78	_tvalidate_param_reuse(&pos_value[width_pos], e_int_arg, ch, flags)
+00075c20	((width_pos >= 0) && (*end_pos == POSITION_CHAR) && (type_pos < _ARGMAX))
+00075cd8	((type_pos >= 0) && (*end_pos == POSITION_CHAR) && (type_pos < _ARGMAX))
+00075d88	_woutput_p_l
+00075da8	strcpy_s
+00075dc0	((_Dst)) != NULL && ((_SizeInBytes)) > 0
+00075e24	_expand_base
+00075e48	f:\dd\vctools\crt_bld\self_x86\crt\src\expand.c
+00075ebc	pBlock != NULL
+00075ee0	HeapQueryInformation
+00075efc	kernel32.dll
+00075f20	f:\dd\vctools\crt_bld\self_x86\crt\src\sbheap.c
+00075f98	(threshold <= MAX_ALLOC_DATA_SIZE) && __sbh_heap_init(threshold)
+00076034	_set_sbh_threshold
+00076068	threshold <= MAX_ALLOC_DATA_SIZE
+000760b8	_set_amblksiz
+000760dc	0 < size && size <= UINT_MAX
+00076124	_get_amblksiz
+00076148	pSize != NULL
+0007616c	LC_TIME
+00076178	LC_NUMERIC
+00076188	LC_MONETARY
+00076198	LC_CTYPE
+000761a4	LC_COLLATE
+000761b4	LC_ALL
+00076237	 !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+000762b0	f:\dd\vctools\crt_bld\self_x86\crt\src\setlocal.c
+00076328	((ptloci->lc_category[category].wlocale != NULL) && (ptloci->lc_category[category].wrefcount != NULL)) || ((ptloci->lc_category[category].wlocale == NULL) && (ptloci->lc_category[category].wrefcount == NULL))
+00076520	_configthreadlocale
+00076550	("Invalid parameter for _configthreadlocale",0)
+000765c4	f:\dd\vctools\crt_bld\self_x86\crt\src\setlocal.c
+00076600	setlocale
+00076618	LC_MIN <= _category && _category <= LC_MAX
+00076680	strncpy_s(lctemp, (sizeof(lctemp) / sizeof(lctemp[0])), s, len)
+0007671c	_setlocale_nolock
+00076750	strcpy_s(pch + sizeof(int), cch - sizeof(int), lctemp)
+000767d4	_setlocale_set_cat
+00076804	strcat_s(pch, cch, ";")
+00076840	_setlocale_get_all
+00076878	strcpy_s(output, sizeInChars, cacheout)
+000768d8	strncpy_s(cachein, cacheinSize, source, charactersInSource + 1)
+00076978	strcpy_s(output, sizeInChars, "C")
+000769cc	_expandlocale
+000769f0	strcat_s(outstr, sizeInBytes, ( *(char * *)((substr += ( (sizeof(char *) + sizeof(int) - 1) & ~(sizeof(int) - 1) )) - ( (sizeof(char *) + sizeof(int) - 1) & ~(sizeof(int) - 1) )) ))
+00076ba4	_strcats
+00076bc0	strncpy_s(names->szCodePage, (sizeof(names->szCodePage) / sizeof(names->szCodePage[0])), locale, len)
+00076cb8	strncpy_s(names->szCountry, (sizeof(names->szCountry) / sizeof(names->szCountry[0])), locale, len)
+00076da8	strncpy_s(names->szLanguage, (sizeof(names->szLanguage) / sizeof(names->szLanguage[0])), locale, len)
+00076e9e	,strncpy_s(names->szCodePage, (sizeof(names->szCodePage) / sizeof(names->szCodePage[0])), &locale[1], 16-1)
+00076fa0	__lc_strtolc
+00076fc8	strcpy_s(locale, sizeInBytes, (char *)names->szLanguage)
+00077050	__lc_lctostr
+00077070	(string != NULL)
+00077098	sprintf
+000770b0	f:\dd\vctools\crt_bld\self_x86\crt\src\sprintf.c
+00077128	f:\dd\vctools\crt_bld\self_x86\crt\src\isctype.c
+000771a0	(unsigned)(c + 1) <= 256
+000771dc	GetUserObjectInformationA
+000771fc	MessageBoxA
+0007720c	USER32.DLL
+0007721c	strcat_s
+00077234	strncpy_s
+00077250	fMode == _CRTDBG_REPORT_MODE || (fMode & ~(_CRTDBG_MODE_FILE | _CRTDBG_MODE_DEBUG | _CRTDBG_MODE_WNDW)) == 0
+00077358	_CrtSetReportMode
+00077388	f:\dd\vctools\crt_bld\self_x86\crt\src\dbgrptt.c
+00077400	nRptType >= 0 && nRptType < _CRT_ERRCNT
+00077460	_CrtSetReportFile
+00077490	_CrtDbgReport: String too long or Invalid characters in String
+00077528	wcscpy_s(szOutMessage2, 4096, L"_CrtDbgReport: String too long or Invalid characters in String")
+00077610	e = mbstowcs_s(&ret, szOutMessage2, 4096, szOutMessage, ((size_t)-1))
+000776b8	strcpy_s(szOutMessage, 4096, szLineMessage)
+00077724	%s(%d) : %s
+00077738	strcat_s(szLineMessage, 4096, "\n")
+00077798	strcat_s(szLineMessage, 4096, "\r")
+000777f0	strcat_s(szLineMessage, 4096, szUserMessage)
+00077860	strcpy_s(szLineMessage, 4096, szFormat ? "Assertion failed: " : "Assertion failed!")
+0007792c	Assertion failed!
+00077944	Assertion failed: 
+00077960	strcpy_s(szUserMessage, 4096, "_CrtDbgReport: String too long or IO Error")
+00077a18	, Line 
+00077a24	<file unknown>
+00077a38	Second Chance Assertion Failed: File 
+00077a68	_itoa_s(nLine, szLineMessage, 4096, 10)
+00077ac8	_VCrtDbgReportA
+00077af0	wcstombs_s(&ret, szaOutMessage, 4096, szOutMessage, ((size_t)-1))
+00077b90	_CrtDbgReport: String too long or Invalid characters in String
+00077be0	strcpy_s(szOutMessage2, 4096, "_CrtDbgReport: String too long or Invalid characters in String")
+00077cc8	wcstombs_s(((void *)0), szOutMessage2, 4096, szOutMessage, ((size_t)-1))
+00077d78	wcscpy_s(szOutMessage, 4096, szLineMessage)
+00077de4	%s(%d) : %s
+00077e00	wcscat_s(szLineMessage, 4096, L"\n")
+00077e60	wcscat_s(szLineMessage, 4096, L"\r")
+00077eb8	wcscat_s(szLineMessage, 4096, szUserMessage)
+00077f28	wcscpy_s(szLineMessage, 4096, szFormat ? L"Assertion failed: " : L"Assertion failed!")
+00077ff8	Assertion failed: 
+00078028	wcscpy_s(szUserMessage, 4096, L"_CrtDbgReport: String too long or IO Error")
+000780e0	, Line 
+000780f4	<file unknown>
+00078118	Second Chance Assertion Failed: File 
+00078178	_itow_s(nLine, szLineMessage, 4096, 10)
+000781d8	_VCrtDbgReportW
+00078200	sizeInBytes >= count
+00078234	src != NULL
+00078250	memcpy_s
+00078268	f:\dd\vctools\crt_bld\self_x86\crt\src\memcpy_s.c
+000782e0	dst != NULL
+000782fc	_swprintf
+00078318	f:\dd\vctools\crt_bld\self_x86\crt\src\swprintf.c
+00078398	f:\dd\vctools\crt_bld\self_x86\crt\src\malloc.h
+00078410	("Corrupted pointer passed to _freea", 0)
+00078474	f:\dd\vctools\crt_bld\self_x86\crt\src\osfinfo.c
+000784b0	_get_osfhandle
+000784d8	f:\dd\vctools\crt_bld\self_x86\crt\src\osfinfo.c
+00078550	_cputws
+00078568	f:\dd\vctools\crt_bld\self_x86\crt\src\putwch.c
+000785e0	f:\dd\vctools\crt_bld\self_x86\crt\src\mbtowc.c
+00078658	_loc_update.GetLocaleT()->locinfo->mb_cur_max == 1 || _loc_update.GetLocaleT()->locinfo->mb_cur_max == 2
+00078754	_isatty
+00078768	f:\dd\vctools\crt_bld\self_x86\crt\src\isatty.c
+000787dc	_lseeki64
+000787f8	f:\dd\vctools\crt_bld\self_x86\crt\src\lseeki64.c
+00078870	printf
+00078880	f:\dd\vctools\crt_bld\self_x86\crt\src\printf.c
+000788f4	(null)
+00078904	(null)
+00078931	( 8PX
+00078939	700WP
+00078949	`h````
+00078951	xpxxxx
+0007897c	(ch != _T('\0'))
+000789a8	( (_Stream->_flag & _IOSTRG) || ( fn = _fileno(_Stream), ( (_textmode_safe(fn) == __IOINFO_TM_ANSI) && !_tm_unicode_safe(fn))))
+00078adc	_output_l
+00078af4	fputwc
+00078b08	f:\dd\vctools\crt_bld\self_x86\crt\src\fputwc.c
+00078b7c	fclose
+00078b90	f:\dd\vctools\crt_bld\self_x86\crt\src\fclose.c
+00078c04	_fclose_nolock
+00078c28	f:\dd\vctools\crt_bld\self_x86\crt\src\_getbuf.c
+00078c68	f:\dd\vctools\crt_bld\self_x86\crt\src\_getbuf.c
+00078d05	('8PW
+00078d0e	700PP
+00078d20	`h`hhh
+00078d29	xppwpp
+00078d4c	_output_s_l
+00078d68	_tvalidate_param_reuse(&pos_value[type_pos], e_short_arg, ch, flags)
+00078e10	_output_p_l
+00078e30	ibase == 0 || (2 <= ibase && ibase <= 36)
+00078e94	wcstoxl
+00078ea8	f:\dd\vctools\crt_bld\self_x86\crt\src\wcstol.c
+00078f1c	nptr != NULL
+00079040	         (((((                  H
+00079242	         h((((                  H
+00079340	                                 H
+000794e8	 !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+00079668	 !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+000798e8	f:\dd\vctools\crt_bld\self_x86\crt\src\inittime.c
+00079960	ploci->lc_time_curr->refcount > 0
+000799b4	f:\dd\vctools\crt_bld\self_x86\crt\src\inittime.c
+000799f0	f:\dd\vctools\crt_bld\self_x86\crt\src\initnum.c
+00079a68	ploci->lconv_num_refcount > 0
+00079ab0	f:\dd\vctools\crt_bld\self_x86\crt\src\initnum.c
+00079af0	f:\dd\vctools\crt_bld\self_x86\crt\src\initmon.c
+00079b68	ploci->lconv_mon_refcount > 0
+00079bb0	f:\dd\vctools\crt_bld\self_x86\crt\src\initmon.c
+00079bec	ploci->ctype1_refcount > 0
+00079c30	f:\dd\vctools\crt_bld\self_x86\crt\src\initctyp.c
+00079ca8	f:\dd\vctools\crt_bld\self_x86\crt\src\initctyp.c
+00079ce4	HH:mm:ss
+00079cf0	dddd, MMMM dd, yyyy
+00079d08	MM/dd/yy
+00079d1c	December
+00079d28	November
+00079d34	October
+00079d40	September
+00079d4c	August
+00079d64	April
+00079d6c	March
+00079d74	February
+00079d80	January
+00079dbc	Saturday
+00079dc8	Friday
+00079dd0	Thursday
+00079ddc	Wednesday
+00079de8	Tuesday
+00079df4	Monday
+00079dfc	Sunday
+00079e1e	nstrcpy_s(s, (len + 1) - (s - p), pt->wday[n])
+00079e90	strcpy_s(s, (len + 1) - (s - p), pt->wday_abbr[n])
+00079f0c	_Getdays_l
+00079f28	f:\dd\vctools\crt_bld\self_x86\crt\src\strftime.c
+00079fa0	f:\dd\vctools\crt_bld\self_x86\crt\src\strftime.c
+00079fe0	strcpy_s(s, (len + 1) - (s - p), pt->month[n])
+0007a050	strcpy_s(s, (len + 1) - (s - p), pt->month_abbr[n])
+0007a0cc	_Getmonths_l
+0007a0f0	strcpy_s(s, len - (s - p), pt->ww_timefmt)
+0007a158	strcpy_s(s, len - (s - p), pt->ww_ldatefmt)
+0007a1c8	strcpy_s(s, len - (s - p), pt->ww_sdatefmt)
+0007a238	strcpy_s(s, len - (s - p), pt->ampm[1])
+0007a298	strcpy_s(s, len - (s - p), pt->ampm[0])
+0007a2f8	strcpy_s(s, len - (s - p), pt->month[n])
+0007a360	strcpy_s(s, len - (s - p), pt->month_abbr[n])
+0007a3d0	strcpy_s(s, len - (s - p), pt->wday[n])
+0007a430	strcpy_s(s, len - (s - p), pt->wday_abbr[n])
+0007a49c	_Gettnames_l
+0007a4bc	FALSE
+0007a4d0	("Invalid MBCS character sequence passed to strftime",0)
+0007a558	timeptr != NULL
+0007a580	( format != NULL )
+0007a5b0	( maxsize != 0 )
+0007a5d8	_Strftime_l
+0007a5f4	( string != NULL )
+0007a628	( "Invalid format directive" , 0 )
+0007a680	( timeptr->tm_year >= -1900 ) && ( timeptr->tm_year <= 8099 )
+0007a714	( timeptr->tm_year >=0 )
+0007a750	( ( timeptr->tm_sec >=0 ) && ( timeptr->tm_sec <= 59 ) )
+0007a7d8	( ( timeptr->tm_min >=0 ) && ( timeptr->tm_min <= 59 ) )
+0007a860	( ( timeptr->tm_yday >=0 ) && ( timeptr->tm_yday <= 365 ) )
+0007a8f0	( ( timeptr->tm_hour >=0 ) && ( timeptr->tm_hour <= 23 ) )
+0007a980	( ( timeptr->tm_mday >=1 ) && ( timeptr->tm_mday <= 31 ) )
+0007aa10	( ( timeptr->tm_mon >=0 ) && ( timeptr->tm_mon <= 11 ) )
+0007aa98	_expandtime
+0007aab8	( ( timeptr->tm_wday >=0 ) && ( timeptr->tm_wday <= 6 ) )
+0007ab48	("Invalid MBCS character sequence passed into strftime",0)
+0007abd8	("Invalid MBCS character sequence found in locale AMPM string",0)
+0007ac7c	am/pm
+0007ac84	united-states
+0007ac94	united-kingdom
+0007aca8	trinidad & tobago
+0007acc0	south-korea
+0007acd0	south-africa
+0007ace0	south korea
+0007acf0	south africa
+0007ad00	slovak
+0007ad08	puerto-rico
+0007ad18	pr-china
+0007ad24	pr china
+0007ad34	new-zealand
+0007ad44	hong-kong
+0007ad50	holland
+0007ad5c	great britain
+0007ad6c	england
+0007ad78	czech
+0007ad80	china
+0007ad88	britain
+0007ad94	america
+0007adac	swiss
+0007adb4	swedish-finland
+0007adc8	spanish-venezuela
+0007ade0	spanish-uruguay
+0007adf4	spanish-puerto rico
+0007ae0c	spanish-peru
+0007ae1c	spanish-paraguay
+0007ae30	spanish-panama
+0007ae44	spanish-nicaragua
+0007ae5c	spanish-modern
+0007ae70	spanish-mexican
+0007ae84	spanish-honduras
+0007ae98	spanish-guatemala
+0007aeb0	spanish-el salvador
+0007aec8	spanish-ecuador
+0007aedc	spanish-dominican republic
+0007aefc	spanish-costa rica
+0007af14	spanish-colombia
+0007af28	spanish-chile
+0007af38	spanish-bolivia
+0007af4c	spanish-argentina
+0007af64	portuguese-brazilian
+0007af80	norwegian-nynorsk
+0007af98	norwegian-bokmal
+0007afac	norwegian
+0007afb8	italian-swiss
+0007afc8	irish-english
+0007afd8	german-swiss
+0007afe8	german-luxembourg
+0007b000	german-lichtenstein
+0007b018	german-austrian
+0007b02c	french-swiss
+0007b03c	french-luxembourg
+0007b054	french-canadian
+0007b068	french-belgian
+0007b07c	english-usa
+0007b08c	english-us
+0007b09c	english-uk
+0007b0ac	english-trinidad y tobago
+0007b0cc	english-south africa
+0007b0e8	english-nz
+0007b0f8	english-jamaica
+0007b10c	english-ire
+0007b11c	english-caribbean
+0007b134	english-can
+0007b144	english-belize
+0007b158	english-aus
+0007b168	english-american
+0007b17c	dutch-belgian
+0007b18c	chinese-traditional
+0007b1a4	chinese-singapore
+0007b1bc	chinese-simplified
+0007b1d4	chinese-hongkong
+0007b1e8	chinese
+0007b1fc	canadian
+0007b208	belgian
+0007b214	australian
+0007b224	american-english
+0007b238	american english
+0007b24c	american
+0007b5bc	Norwegian-Nynorsk
+0007b5d8	strcpy_s(lpOutStr->szLanguage, (sizeof(lpOutStr->szLanguage) / sizeof(lpOutStr->szLanguage[0])), "Norwegian-Nynorsk")
+0007b6f4	__get_qualified_locale
+0007b730	f:\dd\vctools\crt_bld\self_x86\crt\src\getqloc.c
+0007b7b2	P_vsprintf_l
+0007b7d0	f:\dd\vctools\crt_bld\self_x86\crt\src\vsprintf.c
+0007b848	_vscprintf_helper
+0007b874	_vsnprintf_helper
+0007b8a0	string != NULL && sizeInBytes > 0
+0007b8f4	_vsprintf_s_l
+0007b918	_vsnprintf_s_l
+0007b93c	_mbstowcs_l_helper
+0007b970	f:\dd\vctools\crt_bld\self_x86\crt\src\mbstowcs.c
+0007b9e8	s != NULL
+0007ba00	retsize <= sizeInWords
+0007ba38	bufferSize <= INT_MAX
+0007ba6c	_mbstowcs_s_l
+0007ba90	(pwcs == NULL && sizeInWords == 0) || (pwcs != NULL && sizeInWords > 0)
+0007bb3c	xtoa_s
+0007bb4c	x64toa_s
+0007bb64	_wcstombs_l_helper
+0007bb98	f:\dd\vctools\crt_bld\self_x86\crt\src\wcstombs.c
+0007bc10	pwcs != NULL
+0007bc30	sizeInBytes > retsize
+0007bc64	_wcstombs_s_l
+0007bc88	(dst != NULL && sizeInBytes > 0) || (dst == NULL && sizeInBytes == 0)
+0007bd30	_vswprintf_l
+0007bd50	_vscwprintf_helper
+0007bd80	bad allocation
+0007bd98	bad exception
+0007bdb8	f:\dd\vctools\crt_bld\self_x86\crt\src\convrtcp.c
+0007bdf4	CONIN$
+0007bdfc	CONOUT$
+0007be08	vprintf_helper
+0007be30	f:\dd\vctools\crt_bld\self_x86\crt\src\vprintf.c
+0007bea8	sizeInBytes > 0
+0007bed0	_wctomb_s_l
+0007bef0	f:\dd\vctools\crt_bld\self_x86\crt\src\wctomb.c
+0007bf64	sizeInBytes <= INT_MAX
+0007bf9c	_close
+0007bfb0	f:\dd\vctools\crt_bld\self_x86\crt\src\close.c
+0007c020	strtoxl
+0007c038	f:\dd\vctools\crt_bld\self_x86\crt\src\strtol.c
+0007c0ac	SunMonTueWedThuFriSat
+0007c0c4	JanFebMarAprMayJunJulAugSepOctNovDec
+0007c0f8	_get_daylight
+0007c120	f:\dd\vctools\crt_bld\self_x86\crt\src\timeset.c
+0007c198	(_Daylight != NULL)
+0007c1c8	_get_dstbias
+0007c1e8	(_Daylight_savings_bias != NULL)
+0007c238	_get_timezone
+0007c25c	(_Timezone != NULL)
+0007c28c	_Index == 0 || _Index == 1
+0007c2cc	_ReturnValue != NULL
+0007c300	_get_tzname
+0007c320	(_Buffer != NULL && _SizeInBytes > 0) || (_Buffer == NULL && _SizeInBytes == 0)
+0007c3e0	strncpy_s(tzname[1], 64, TZ, 3)
+0007c430	strncpy_s(tzname[0], 64, TZ, 3)
+0007c480	strcpy_s(lastTZ, strlen(TZ) + 1, TZ)
+0007c4d8	f:\dd\vctools\crt_bld\self_x86\crt\src\tzset.c
+0007c514	_get_dstbias(&dstbias)
+0007c54c	_get_daylight(&daylight)
+0007c588	_get_timezone(&timezone)
+0007c5c4	_tzset_nolock
+0007c5e8	f:\dd\vctools\crt_bld\self_x86\crt\src\tzset.c
+0007c658	_isindst_nolock
+0007c680	cvtdate
+0007c694	_stricmp_l
+0007c6b0	f:\dd\vctools\crt_bld\self_x86\crt\src\stricmp.c
+0007c728	_stricmp
+0007c740	count <= INT_MAX
+0007c768	_strnicmp_l
+0007c788	f:\dd\vctools\crt_bld\self_x86\crt\src\strnicmp.c
+0007c800	_strnicmp
+0007c85c	Unknown exception
+0007c8a8	f:\dd\vctools\crt_bld\self_x86\crt\src\dbgdel.cpp
+0007c920	(_tcsnlen(option, _MAX_ENV) < _MAX_ENV)
+0007c980	getenv
+0007c990	f:\dd\vctools\crt_bld\self_x86\crt\src\getenv.c
+0007ca04	(option != NULL)
+0007ca30	_tcsnlen(*search + length + 1, _MAX_ENV) < _MAX_ENV
+0007cab0	strcpy_s(buffer, sizeInTChars, str)
+0007cb08	(buffer != NULL && sizeInTChars > 0) || (buffer == NULL && sizeInTChars == 0)
+0007cbc4	_getenv_s_helper
+0007cbec	pReturnValue != NULL
+0007cc20	strcpy_s(*pBuffer, size, str)
+0007cc68	varname != NULL
+0007cc90	_dupenv_s_helper
+0007ccb8	pBuffer != NULL
+0007cce0	strtoxq
+0007ccf8	f:\dd\vctools\crt_bld\self_x86\crt\src\strtoq.c
+0007cd70	f:\dd\vctools\crt_bld\self_x86\crt\prebuild\eh\typname.cpp
+0007ce00	pNode->next != NULL
+0007ce30	strcpy_s ((char *)((type_info *)_This)->_m_data, len+2, (char *)pTmpUndName)
+0007cee8	type_info::_Name_base
+0007cf20	strcpy_s (pTmpTypeName, len+2, (char *)pTmpUndName)
+0007cf9c	type_info::_Name_base_internal
+0007cfe8	n <= INT_MAX
+0007d008	s2 != NULL
+0007d024	_mbsnbicoll_l
+0007d048	f:\dd\vctools\crt_bld\self_x86\crt\src\mbsnbico.c
+0007d0c0	s1 != NULL
+0007d0dc	f:\dd\vctools\crt_bld\self_x86\crt\src\wtombenv.c
+0007d118	 Complete Object Locator'
+0007d138	 Class Hierarchy Descriptor'
+0007d15c	 Base Class Array'
+0007d174	 Base Class Descriptor at (
+0007d198	 Type Descriptor'
+0007d1b0	`local static thread guard'
+0007d1d4	`managed vector copy constructor iterator'
+0007d208	`vector vbase copy constructor iterator'
+0007d23c	`vector copy constructor iterator'
+0007d268	`dynamic atexit destructor for '
+0007d290	`dynamic initializer for '
+0007d2b0	`eh vector vbase copy constructor iterator'
+0007d2e4	`eh vector copy constructor iterator'
+0007d314	`managed vector destructor iterator'
+0007d340	`managed vector constructor iterator'
+0007d370	`placement delete[] closure'
+0007d394	`placement delete closure'
+0007d3b4	`omni callsig'
+0007d3c8	 delete[]
+0007d3d4	 new[]
+0007d3dc	`local vftable constructor closure'
+0007d408	`local vftable'
+0007d41c	`RTTI
+0007d428	`udt returning'
+0007d43c	`copy constructor closure'
+0007d45c	`eh vector vbase constructor iterator'
+0007d48c	`eh vector destructor iterator'
+0007d4b4	`eh vector constructor iterator'
+0007d4dc	`virtual displacement map'
+0007d4fc	`vector vbase constructor iterator'
+0007d528	`vector destructor iterator'
+0007d54c	`vector constructor iterator'
+0007d570	`scalar deleting destructor'
+0007d594	`default constructor closure'
+0007d5b8	`vector deleting destructor'
+0007d5dc	`vbase destructor'
+0007d5f4	`string'
+0007d600	`local static guard'
+0007d61c	`typeof'
+0007d628	`vcall'
+0007d634	`vbtable'
+0007d640	`vftable'
+0007d6c8	operator
+0007d6ec	 delete
+0007d700	__unaligned
+0007d710	__restrict
+0007d720	__ptr64
+0007d72c	__clrcall
+0007d738	__fastcall
+0007d748	__thiscall
+0007d758	__stdcall
+0007d764	__pascal
+0007d770	__cdecl
+0007d77c	__based(
+0007d968	generic-type-
+0007d978	template-parameter-
+0007d994	`anonymous namespace'
+0007d9b0	`non-type-template-parameter
+0007d9d4	`template-parameter
+0007d9fc	extern "C" 
+0007da0c	[thunk]:
+0007da18	public: 
+0007da24	protected: 
+0007da34	private: 
+0007da40	virtual 
+0007da4c	static 
+0007da58	`template static data member destructor helper'
+0007da94	`template static data member constructor helper'
+0007dad0	`local static destructor helper'
+0007daf8	`adjustor{
+0007db08	`vtordisp{
+0007db18	`vtordispex{
+0007db38	void 
+0007db40	volatile
+0007db4c	,<ellipsis>
+0007db64	<ellipsis>
+0007db74	 throw(
+0007db80	 volatile
+0007db8c	const
+0007db94	signed 
+0007dba0	unsigned 
+0007dbac	UNKNOWN
+0007dbb8	__w64 
+0007dbc0	wchar_t
+0007dbcc	__int128
+0007dbd8	__int64
+0007dbe4	__int32
+0007dbf0	__int16
+0007dbfc	__int8
+0007dc0c	double
+0007dc14	long 
+0007dc1c	float
+0007dc30	short
+0007dc40	enum 
+0007dc48	cointerface 
+0007dc58	coclass 
+0007dc64	class 
+0007dc6c	struct 
+0007dc78	union 
+0007dc80	`unknown ecsu'
+0007dc9c	short 
+0007dca4	char 
+0007dcac	const 
+0007dcb4	volatile 
+0007dcc0	cli::pin_ptr<
+0007dcd0	cli::array<
+0007dce4	{flat}
+0007dcf0	{for 
+0007dd60	f:\dd\vctools\crt_bld\self_x86\crt\src\a_cmp.c
+0007ddd0	cchCount1==0 && cchCount2==1 || cchCount1==1 && cchCount2==0
+0007de64	_string2 != NULL
+0007de8c	_strnicoll_l
+0007deb0	f:\dd\vctools\crt_bld\self_x86\crt\src\strnicol.c
+0007df28	_string1 != NULL
+0007df50	strcpy_s(name, strlen(option) + 2, option)
+0007dfb8	("CRT Logic error during setenv",0)
+0007e010	f:\dd\vctools\crt_bld\self_x86\crt\src\setenv.c
+0007e050	_tcsnlen(equal + 1, _MAX_ENV) < _MAX_ENV
+0007e0b4	equal - option < _MAX_ENV
+0007e0f4	__crtsetenv
+0007e110	f:\dd\vctools\crt_bld\self_x86\crt\src\setenv.c
+0007e184	poption != NULL
+0007e1b0	strcpy_s(*newenvptr, envptrSize, *oldenvptr)
+0007e21c	copy_environ
+0007e23c	_mbschr_l
+0007e258	f:\dd\vctools\crt_bld\self_x86\crt\src\mbschr.c
+0007e2cc	string != NULL
+0007e874	RSDS[
+0007e88c	D:\Project\Tartaros\Util\Nsis64-master\Nsis64-master\Debug\stubs\stub.pdb
+000804f8	Assertion failed: %s, file %s, line %d
+00080aa6	                          
+00080b86	abcdefghijklmnopqrstuvwxyz
+00080ba6	ABCDEFGHIJKLMNOPQRSTUVWXYZ
+00080caa	                          
+00080d91	abcdefghijklmnopqrstuvwxyz
+00080db1	ABCDEFGHIJKLMNOPQRSTUVWXYZ
+0008164c	.?AVbad_exception@std@@
+00081674	.?AVexception@std@@
+00081780	.?AVtype_info@@
+000817a0	.?AVbad_cast@std@@
+000817c0	.?AVbad_typeid@std@@
+000817e4	.?AV__non_rtti_object@std@@
+0008264e	ImageList_Destroy
+00082662	ImageList_AddMasked
+00082678	ImageList_Create
+0008268a	COMCTL32.dll
+0008269a	VerQueryValueA
+000826ac	GetFileVersionInfoA
+000826c2	GetFileVersionInfoSizeA
+000826da	VERSION.dll
+000826e8	MulDiv
+000826f2	DeleteFileA
+00082700	FindFirstFileA
+00082712	FindNextFileA
+00082722	FindClose
+0008272e	SetFilePointer
+00082740	ReadFile
+0008274c	WriteFile
+00082758	GetPrivateProfileStringA
+00082774	WritePrivateProfileStringA
+00082792	MultiByteToWideChar
+000827a8	FreeLibrary
+000827b6	LoadLibraryExA
+000827c8	GetModuleHandleA
+000827dc	GetExitCodeProcess
+000827f2	WaitForSingleObject
+00082808	GlobalAlloc
+00082816	GlobalFree
+00082824	ExpandEnvironmentStringsA
+00082840	lstrcmpA
+0008284c	lstrcmpiA
+00082858	CloseHandle
+00082866	SetFileTime
+00082874	CompareFileTime
+00082886	SearchPathA
+00082894	GetShortPathNameA
+000828a8	GetFullPathNameA
+000828bc	MoveFileA
+000828c8	SetCurrentDirectoryA
+000828e0	GetFileAttributesA
+000828f6	GetLastError
+00082906	CreateDirectoryA
+0008291a	SetFileAttributesA
+00082930	Sleep
+00082938	GetTickCount
+00082948	GetFileSizeEx
+00082958	GetModuleFileNameA
+0008296e	SetFilePointerEx
+00082982	GetCurrentProcess
+00082996	ExitProcess
+000829a4	CopyFileA
+000829b0	SetEnvironmentVariableA
+000829ca	GetWindowsDirectoryA
+000829e2	GetTempPathA
+000829f2	GetCommandLineA
+00082a04	SetErrorMode
+00082a14	LoadLibraryA
+00082a24	lstrlenA
+00082a30	lstrcpynA
+00082a3c	GetDiskFreeSpaceA
+00082a50	GlobalUnlock
+00082a60	GlobalLock
+00082a6e	CreateThread
+00082a7e	CreateProcessA
+00082a90	RemoveDirectoryA
+00082aa4	CreateFileA
+00082ab2	GetTempFileNameA
+00082ac6	GetFileSize
+00082ad4	lstrcpyA
+00082ae0	lstrcatA
+00082aec	GetSystemDirectoryA
+00082b02	GetVersion
+00082b10	GetProcAddress
+00082b20	KERNEL32.dll
+00082b30	DefWindowProcA
+00082b42	EndPaint
+00082b4e	DrawTextA
+00082b5a	FillRect
+00082b66	GetClientRect
+00082b76	BeginPaint
+00082b84	SendMessageA
+00082b94	InvalidateRect
+00082ba6	EnableWindow
+00082bb6	GetDC
+00082bbe	LoadImageA
+00082bcc	SetWindowLongA
+00082bde	GetDlgItem
+00082bec	IsWindow
+00082bf8	FindWindowExA
+00082c08	SendMessageTimeoutA
+00082c1e	wsprintfA
+00082c2a	ShowWindow
+00082c38	SetForegroundWindow
+00082c4e	PostQuitMessage
+00082c60	SetWindowTextA
+00082c72	SetTimer
+00082c7e	CreateDialogParamA
+00082c94	DestroyWindow
+00082ca4	ExitWindowsEx
+00082cb4	CharNextA
+00082cc0	DialogBoxParamA
+00082cd2	GetClassInfoA
+00082ce2	CreateWindowExA
+00082cf4	SystemParametersInfoA
+00082d0c	RegisterClassA
+00082d1e	IsWindowEnabled
+00082d30	SetWindowPos
+00082d40	ScreenToClient
+00082d52	GetWindowRect
+00082d62	EnableMenuItem
+00082d74	GetSystemMenu
+00082d84	EndDialog
+00082d90	SetClassLongA
+00082da0	GetSysColor
+00082dae	GetWindowLongA
+00082dc0	SetCursor
+00082dcc	LoadCursorA
+00082dda	CheckDlgButton
+00082dec	GetAsyncKeyState
+00082e00	IsDlgButtonChecked
+00082e16	GetMessagePos
+00082e26	LoadBitmapA
+00082e34	CallWindowProcA
+00082e46	IsWindowVisible
+00082e58	CloseClipboard
+00082e6a	SetClipboardData
+00082e7e	EmptyClipboard
+00082e90	OpenClipboard
+00082ea0	TrackPopupMenu
+00082eb2	AppendMenuA
+00082ec0	CreatePopupMenu
+00082ed2	GetSystemMetrics
+00082ee6	SetDlgItemTextA
+00082ef8	GetDlgItemTextA
+00082f0a	MessageBoxIndirectA
+00082f20	CharPrevA
+00082f2c	wvsprintfA
+00082f3a	DispatchMessageA
+00082f4e	PeekMessageA
+00082f5c	USER32.dll
+00082f6a	SelectObject
+00082f7a	SetTextColor
+00082f8a	SetBkMode
+00082f96	CreateFontIndirectA
+00082fac	DeleteObject
+00082fbc	CreateBrushIndirect
+00082fd2	GetDeviceCaps
+00082fe2	SetBkColor
+00082fee	GDI32.dll
+00082ffa	RegEnumValueA
+0008300a	RegEnumKeyA
+00083018	RegQueryValueExA
+0008302c	RegSetValueExA
+0008303e	RegCreateKeyExA
+00083050	RegCloseKey
+0008305e	RegDeleteValueA
+00083070	RegDeleteKeyA
+00083080	RegOpenKeyExA
+0008308e	ADVAPI32.dll
+0008309e	SHFileOperationA
+000830b2	ShellExecuteA
+000830c2	SHGetFileInfoA
+000830d4	SHBrowseForFolderA
+000830ea	SHGetPathFromIDListA
+00083102	SHGetSpecialFolderLocation
+0008311e	SHELL32.dll
+0008312c	CoCreateInstance
+00083140	OleUninitialize
+00083152	OleInitialize
+00083162	CoTaskMemFree
+00083170	ole32.dll
+0008317c	IsDebuggerPresent
+00083190	RaiseException
+000831a2	DebugBreak
+000831b0	WideCharToMultiByte
+000831c6	GetModuleFileNameW
+000831dc	WriteConsoleW
+000831ec	GetFileType
+000831fa	GetStdHandle
+0008320a	GetStartupInfoA
+0008321c	TerminateProcess
+00083230	UnhandledExceptionFilter
+0008324c	SetUnhandledExceptionFilter
+0008326a	HeapFree
+00083276	HeapAlloc
+00083282	GetProcessHeap
+00083294	VirtualQuery
+000832a4	GetModuleHandleW
+000832b8	InterlockedIncrement
+000832d0	InterlockedDecrement
+000832e8	SetConsoleCtrlHandler
+00083300	LoadLibraryW
+00083310	EnterCriticalSection
+00083328	LeaveCriticalSection
+00083340	QueryPerformanceCounter
+0008335a	GetCurrentThreadId
+00083370	GetCurrentProcessId
+00083386	GetSystemTimeAsFileTime
+000833a0	FreeEnvironmentStringsA
+000833ba	GetEnvironmentStrings
+000833d2	FreeEnvironmentStringsW
+000833ec	GetEnvironmentStringsW
+00083406	SetHandleCount
+00083418	DeleteCriticalSection
+00083430	HeapValidate
+00083440	IsBadReadPtr
+00083450	TlsGetValue
+0008345e	TlsAlloc
+0008346a	TlsSetValue
+00083478	TlsFree
+00083482	SetLastError
+00083492	GetCurrentThread
+000834a6	HeapDestroy
+000834b4	HeapCreate
+000834c2	VirtualFree
+000834d0	RtlUnwind
+000834dc	GetACP
+000834e6	GetOEMCP
+000834f2	GetCPInfo
+000834fe	IsValidCodePage
+00083510	FatalAppExitA
+00083520	InterlockedExchange
+00083536	InitializeCriticalSectionAndSpinCount
+0008355e	FlushFileBuffers
+00083572	GetConsoleCP
+00083582	GetConsoleMode
+00083594	HeapSize
+000835a0	HeapReAlloc
+000835ae	VirtualAlloc
+000835be	OutputDebugStringA
+000835d4	OutputDebugStringW
+000835ea	LCMapStringA
+000835fa	LCMapStringW
+0008360a	GetStringTypeA
+0008361c	GetStringTypeW
+0008362e	GetLocaleInfoW
+00083640	GetLocaleInfoA
+00083652	SetStdHandle
+00083662	WriteConsoleA
+00083672	GetConsoleOutputCP
+00083688	GetTimeFormatA
+0008369a	GetDateFormatA
+000836ac	IsValidLocale
+000836bc	EnumSystemLocalesA
+000836d2	GetUserDefaultLCID
+000836e8	GetTimeZoneInformation
+00083702	CompareStringA
+00083714	CompareStringW
+000852ba	|wwxzv
+00085382	nRN@u
+00085398	u)'@\
+000853b3	nhM)z
+000853c8	4&)Gz
+000853e4	mPM)u
+000853f7	)%5?x
+00085405	hhjoohhm
+00085415	mPJ)u
+00085508	XL'&v
+00085538	ZL8%=
+000855c7	ZZU:&
+000855f6	ZYVU:4
+00085626	YVUU:4
+00085654	ZVVVVV6
+00085675	nhffeeg
+00085682	HVHVVVCC6
+000856ad	_VVUUUUUCC:7:
+000856dc	^VLL;L;:::66864
+0008570a	_ZZTLLKKK::69944
+0008573a	_XXWYTKKKK:K8&'
+0008576f	ZYTKKK:844
+000857a3	ggggOJJ#!
+00085a60	L100bb
+00085a92	^O10000aeOOf_
+00086290	~JGF2
+000862a6	c_g^^
+000862ae	~~GGG:.
+000862cb	QGF:A33//
+000862ea	KIA@@32/-,
+00086309	RPJJEA@20-
+0008632f	IHH?0
+00086485	PHHH_Pe
+00086974	_(Yvo76]
+000869c3	=Zu31
+000869d6	OLl-J<
+000869e2	9@Bp}|b"
+00086a15	&X*&V)
+00086fc6	wwwwx
+00086fd5	wwwwwx
+00086fe4	wwwwwwx
+00086ff3	wwwwwwwx
+00087003	wwwwwwwx
+00087013	wwwwwwwx
+00087023	wwwwwwwx
+00087033	wwwwwwwx
+00087043	wwwwwwwx
+00087053	wwwwwwwx
+00087063	wwwwwwwx
+00087073	wwwwwwwx
+00087082	wwwwwww
+00087092	wwwwww
+000870a2	wwwww
+000870d9	wwwww
+000870e8	wwwww
+0008733e	MS Shell Dlg
+00087390	RichEdit20A
+000873f6	MS Shell Dlg
+00087516	MS Shell Dlg
+0008771e	MS Shell Dlg
+00087770	msctls_progress32
+000877d0	SysListView32
+00087816	MS Shell Dlg
+000878b6	MS Shell Dlg
+00087930	Please wait while Setup is loading...
+000879e8	<?xml version="1.0" encoding="UTF-8" standalone="yes"?><assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"><assemblyIdentity version="1.0.0.0" processorArchitecture="X86" name="Nullsoft.NSIS.exehead" type="win32"/><description>Nullsoft Install System v19-Mar-2012.cvs</description><dependency><dependentAssembly><assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version="6.0.0.0" processorArchitecture="X86" publicKeyToken="6595b64144ccf1df" language="*" /></dependentAssembly></dependency><trustInfo xmlns="urn:schemas-microsoft-com:asm.v3"><security><requestedPrivileges><requestedExecutionLevel level="requireAdministrator" uiAccess="false"/></requestedPrivileges></security></trustInfo><compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1"><application><supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/><supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"/></application></compatibility></assembly>
+00087e1d	0(1>1o1
+00087e2d	2"282O2r2
+00087e55	9%:{:
+00087e65	<#<*<A<
+00087e81	=.>:>Z>
+00087e91	>%?]?n?
+00087eb3	0,0A0P0W0d0v0}0
+00087ed7	2V2j2}2
+00087ee3	2@3^3
+00087f01	7M7_7l7t7
+00087f15	8<8R8
+00087f21	95;`;
+00087f2f	>-?k?
+00087f45	070D0
+00087f51	242O2q2
+00087f5f	323R3`3v3
+00087f7b	424Q4
+00087f83	5C5p5
+00087f8d	5#6c6
+00087f97	7(8C8
+00087f9f	81969;9w9
+00087fb7	:#;><Q<e<!=
+00087fc3	=9>A>i>
+00087fdd	040K0t0%1C1
+00087ff3	353Q3
+00088023	<N<o<
+0008802f	<1=W=o=
+00088043	? ?P?\?h?t?
+00088071	0(040@0L0X0d0p0|0
+00088099	1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+00088119	2 2$2(2,202
+0008813b	1/1k1
+00088147	1,282D2
+0008814f	293J3Z3v3
+0008815d	3"4B4H4R4X4`4k4y4
+0008817b	5D5P5
+00088189	6$616<6E6L6X6a6h6
+000881a1	7/7E7S7]7b7l7w7
+000881bb	8D8\8g8u8
+000881df	9(:0:@:G:o:
+000881f5	; ;5;=;
+00088207	<#<(<4<U<
+00088243	?&?,?`?
+00088260	+080N0d0i0n0t0
+0008827b	1 1,181D1
+0008829d	6-6?6
+000882ab	848>8/9`9l9x9
+000882bb	9@;X;_;
+000882df	=(=-=:=B=I=P=\=a=m=
+00088303	>8>D>@?X?_?v?
+00088321	0(0-0:0
+00088339	1"1[1b1n1s1
+00088359	2\2c2u2}2
+00088373	4+494?4K4P4
+0008838b	5"5(54595F5S5b5n5u5
+0008839f	5H6O6[6g6
+000883b5	7=7C7O7T7g7u7
+000883d9	8"8+828>8J8q8{8
+000883f9	9'909>9G9L9Z9f9m9x9
+00088421	:9:L:S:_:l:
+00088431	:-;T;
+00088441	<(<4<@<p>z>
+0008846b	0_1d1i1
+0008847d	2!2(292D2M2\2a2p2x2~2
+0008849d	2-373N3~3
+000884c1	4 4(4/454\4l4
+000884e3	5'595>5F5S5W5^5d5t5{5
+00088511	8+878K8R8^8f8h9y9
+00088539	:0:7:F:m:s:x:}:
+0008855d	;T;d;
+0008856d	<'<5<Q<^<v<
+0008858d	=&===\=l=v=}=
+000885a9	>(>;>B>Y>b>s>
+000885c5	? ?\?
+000885dd	0,030U0|0
+000885ff	5<5a5{5
+0008860d	6.6T6`6
+00088619	7,747
+00088635	9(959V9v9
+00088657	;P;W;t;{;
+0008866b	;P=X=f=
+00088681	?-?M?r?
+000886a5	1(151U1]1
+000886b9	2"3(3U3
+000886c7	4,4{4
+000886dd	5$505e7
+000886f5	9"929d9p9|9
+00088707	: ;>;
+00088715	;O<T<b<u<z<
+00088725	=$=R=W=e=q=z=
+00088747	>,>M>`>
+0008875f	0&0Z0
+0008876d	0_1d2
+00088779	4S4i4s4z4
+00088797	5&6G6U6w6
+000887a7	9W:u:
+000887cf	=4=m=
+000887dd	=o>}>
+000887ef	?5?A?
+00088803	010=0N0Z0k0w0}0
+00088821	1&1J1h1
+00088839	2/2;2W2u2
+0008884f	363?3U3\3i3s3
+00088869	545C5[5w5
+00088873	5,6D6S6y6
+0008888d	9'9B9V9|9
+00088899	9o:v:
+000888a9	; ;&;*;2;9;?;
+000888c9	=@=J=s=y=Q>y>
+000888df	>)?6?>?f?
+000888fd	0$0S1g1
+00088911	4 5E5S5\5}5
+00088921	566L6|6
+00088931	819<9n9
+0008893d	91:8:=:C:f:y:
+0008895d	; ;@;_;
+00088975	<$=0=u>}>
+0008897f	?:?m?~?
+00088998	E0O0/2
+000889a1	2^3x3
+000889b5	4)5P5
+000889c7	6<6d6{6
+000889cf	7%7/7T7`7l7
+000889db	8M9q9
+00088a03	;(;.;5;F;l;x;
+00088a15	<.<@<R<d<m<D=N=n=
+00088a35	>$?3?O?o?z?
+00088a4b	0,0T0`0
+00088a8b	2 2$2(2,2024282<2@2D2H2L2P2T2
+00088adb	7$7*70767<7B7H7N7T7Z7`7f7l7r7x7~7
+00088b2f	8 8&8,82888>8D8J8P8V8\8b8h8n8t8z8
+00088b85	9"9(9.949:9@9F9L9R9X9^9d9j9p9v9|9
+00088bdb	:$:*:0:6:<:B:H:N:b:
+00088c0d	021y1
+00088c17	2?2d2
+00088c21	2x3}3
+00088c29	3L4W4
+00088c4f	666?6H6U6c6
+00088c5b	6<7C7
+00088c67	8P8U8
+00088c71	929W9
+00088c81	:4:9:>:D:n:s:x:}:
+00088c9b	:A;F;K;S;
+00088cb9	< =%=*=j=o=t=z=
+00088ccd	=/>4>9>y>~>
+00088ce7	?Z?_?d?j?
+00088d05	0.03080
+00088d21	1C1H1M1
+00088d37	1@2E2J2
+00088d53	3@3E3J3O3x3}3
+00088d71	8/8Y8
+00088d7b	8m9g:
+00088d81	:L;R;X;^;d;j;q;x;
+00088db7	<!<'<?<F<
+00088dcb	=9=?=E=a=q=
+00088df7	0C1L1Y1c1k1p1w1
+00088e0b	2$3+3
+00088e11	4'4?4F4M4`4~4
+00088e27	5U5j5
+00088e3f	7#70757C7K7c798w8
+00088e5b	9&979O9Y9g9l9s9}9
+00088e7b	:/:P:]:i:y:
+00088e89	;-;k;p;};
+00088eb5	?#?P?U?Z?r?
+00088ed1	050G0S0
+00088ee7	181=1O1
+00088ef9	2#2)2L2S2v2~2
+00088f0b	2)353=3[3a3
+00088f1b	4.4:4g4l4q4
+00088f43	7_7f7m7
+00088f4f	7=8I8v8{8
+00088f5b	9-939
+00088f7b	<0<5<?<M<R<\<j<o<y<
+00088f9f	<C=N=q=|=
+00088faf	?#?(?M?V?
+00088fcf	0E0J0O0
+00088fe9	114=4j4o4t4
+00089001	5d5p5
+00089011	6$6)6(747a7f7k7J9S9}9
+0008902f	:&:P:U:Z:
+0008903d	;-;6;`;e;j;
+00089057	=#=(=h=o=*?3?]?b?g?
+0008907b	0X0a0
+00089091	2$2N2S2X2
+0008909d	2!4*4T4Y4^4
+000890b1	5"5'5
+000890bf	6-62676
+000890cf	7A7F7K7
+000890dd	94999>9
+000890fd	;";';g;o;x<}<
+00089113	?&?9?S?s?
+00089135	181=1B1i1r1
+0008914f	4?4D4I4
+00089163	5H5M5R5
+0008916f	6V7h7q7}7
+0008918f	8R8n8
+0008919b	9H9Q9[9
+000891a9	:-:K:
+000891b9	;G<`<
+000891c3	<(=1=[=`=e=
+000891f1	0Q1]1
+00089213	5R5^5
+00089223	5R6^6
+00089235	8B8G8L8
+00089245	8'9g9o9
+0008924d	9T:[:
+0008925b	:1;9;
+00089267	=(>3>@>H>W>l>x>
+00089289	0%0+0
+00089291	112?2I2P2*3>3
+000892a7	4*494N4S4X4
+000892b7	4A5O5Z5b5g5u5}5
+000892cb	556=6
+000892d5	; ;,;7;A;T;
+000892e7	<3<A<J<]<
+000892ff	>9>?>S>*?=?Y?n?s?{?
+00089321	071X1
+00089335	344;4N4d4k4~4
+00089347	6/6c6k6t6
+00089365	767;7i7
+00089371	7"8+8
+00089391	849=9V9u9f;x<}<
+000893b9	>/>I>f>k>
+000893c5	>"???D?e?
+000893dd	0#0c0q0
+000893ed	1"1-161>1K1T1Z1c1h1n1v1|1
+0008940d	2`2j2v2
+00089431	6>6C6H687=7O7
+00089449	8'808J8j8
+0008945d	8P9\9r9
+0008947b	;8;|;
+0008948f	<#<-<9<S<d<
+0008949f	>/>U>a>
+000894bb	?-?9?
+000894d5	0/1;1
+000894df	1h2m2
+000894ef	3!3>3C3`3e3
+00089501	4&4/4q4
+0008950d	5>5v5
+00089515	5"6Q6
+00089529	8;8G8t8y8~8
+0008953f	8x9}9
+00089551	:%:0;q;x;
+0008956f	>/>U>a>
+00089599	1<1H1u1z1
+000895bb	5/5[5`5
+000895c7	6*6U6w6
+000895e7	:N:r;
+000895f3	<4<9<><m<
+0008960b	>/?;?h?m?r?
+0008962b	2 2M2R2W2
+00089643	6@6]6
+00089691	;O;y;
+000896bb	< <&<,<1<6<<<A<G<P<W<^<s<
+000896eb	=+=2=^=
+000896f7	>'>1>:>A>G>x>}>
+00089713	> ?>?
+00089724	*020O0s0y0
+00089731	0H1M1_1>2{2
+00089751	414;4B4w4
+0008976b	5Z5b5
+00089783	5'6/6;6P6
+0008978f	6+7e7p7
+000897a9	818A8F8K8P8
+000897cb	9'929M9R97:C:
+000897e3	;.;3;8;_;h;
+000897f5	;N<g<p<
+00089805	=T=]=f=
+0008980d	= ?^?n?s?x?}?
+0008983f	1)191E1q1
+00089853	2D2I2N2
+00089867	4/4k4t4
+00089885	5.6f6o6}6
+000898a3	8H9M9R9Y9
+000898b1	: :,:@:L:g:w:
+00089905	2:3p3
+00089917	5'5X5]5o5
+00089943	7)8X8
+0008995d	9#:3:=:b:l:
+00089977	=L>t?{?
+000899a1	6.6E6
+000899b3	7'747x7}7
+000899c3	7-8t8
+000899c9	9B9I9k9r9
+000899e5	:Y;z;
+000899f7	<8<A<k<p<u<
+00089a11	= =K=Q=`=,>
+00089a1f	>>?i?n?s?
+00089a31	0f0y1
+00089a4b	3V3w3'434
+00089a57	5'5,515
+00089a6f	787?7G7L7P7T7}7
+00089a91	7.84888<8@8
+00089aab	9+9]9d9h9l9p9t9x9|9
+00089ad1	<&=I=R=|=
+00089ae9	>:>W>a>
+00089b1f	1H1M1R1
+00089b31	3B3G3L3r3
+00089b4f	5@5W5c5
+00089b59	5;6Z6
+00089b5f	6)737X7
+00089b7b	:(;B<W<
+00089b87	<$=.=G=
+00089b9b	0F1N1m1w1
+00089bbb	4)4Y4^4c4
+00089bc5	5>5m5
+00089bd1	7J8Q8.9
+00089bd9	9z:*;6;f;k;p;L<
+00089c1d	3L3P3T3X3\3`3d3h3l3p3t3x3|3
+00089c41	9%:.:X:]:b:
+00089c59	<6<d<
+00089c71	>$>M>Z>e>z>
+00089c8b	0&121
+00089c95	31363;3}3
+00089cad	4'5,515|5
+00089cbb	7%7Y8`8=9
+00089cc7	:9;E;u;z;
+00089ceb	3$3t3x3|3
+00089d21	4 4$4(4,4044484<4
+00089d3f	?!?Q?V?[?
+00089d57	262;2@2
+00089d63	3#3(3v3L4S4e5q5
+00089d81	6K8W8
+00089db1	=9?E?u?z?
+00089dcf	182D2t2y2~2J3V3
+00089de7	4p5|5
+00089dfb	6c7o7
+00089e1b	:C;O;
+00089e2f	<Y>e>
+00089e39	>k?w?
+00089e6d	3#4(4-4
+00089e77	5<5A5F5
+00089e81	6N6S6X697E7u7z7
+00089e91	7K8W8
+00089e9b	8a9m9
+00089ebd	02070<0
+00089ec9	2>2C2H2
+00089ef5	3<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3
+00089f2f	718:8d8i8n8
+00089f41	8)9.939
+00089f51	:D:I:N:
+00089f5b	:H<M<_<~<,=
+00089f6f	>U>\>
+00089f81	?"?O?
+00089f95	0A0H0[0b0
+00089f9f	0a1i1o1}1
+00089fb3	1(2-2?2
+00089fc1	3.454d4{4
+00089fcf	5J5[5
+00089fdd	6N7U7d7
+00089fed	8/8K8
+00089ff7	879?9H9^9k9s9
+0008a013	:#:(:@:`:
+0008a035	<-<9<f<k<p<
+0008a045	=4=9=>=U=g=s=
+0008a05b	>$>)>/>?>E>K>Q>[>e>
+0008a08b	4%464E4Q4b4m4v4
+0008a0c1	7A7M7z7
+0008a0d9	=%=2=:=A=Z=`=i=n=w=
+0008a104	(848=8W8b8j8s8{8
+0008a131	9$939<9B9
+0008a151	1O2[2
+0008a15f	454[4
+0008a169	525N5j5
+0008a197	9 9$9x9}9
+0008a1ab	98:=:O:
+0008a1d4	(0-0?0
+0008a1f1	2F3O3U3]3c3o3t3
+0008a213	595b5
+0008a221	9&:+:0:
+0008a22d	<2=H=^=x?
+0008a253	0g1}1
+0008a26d	4Y5^5c5
+0008a279	6:7?7D7
+0008a287	7*8/848
+0008a29d	9Q:Z:
+0008a2d9	2"2,2:2?2I2]2c2k2u2
+0008a2f9	3A3L3m3a4j4
+0008a30d	4&5/5Y5^5c5
+0008a31d	616:6d6i6n6
+0008a32d	7?7H7r7w7|7
+0008a33b	7J9S9}9
+0008a349	9,:4:q:z:
+0008a361	;'<0<Z<_<d<
+0008a371	=1>:>h>m>r>
+0008a39f	0'030D0N0^0h0w0
+0008a3c3	2;2A2\2i2n2t2
+0008a3db	3H3M3R3W3
+0008a3f5	4+40454:4c4h4m4r4
+0008a40d	5C5H5M5R5}5
+0008a421	5'6,61666Y6b6
+0008a439	848;8E8W8a8
+0008a44d	88;=;V;#<)<=<B<G<o<u<
+0008a46f	<2=7=<=r=w=|=
+0008a48d	>D>U>Z>_>d>
+0008a4a1	>-?2?7?m?r?w?|?
+0008a4c4	<0A0F0K0n0w0
+0008a4d9	2 21282s2z2
+0008a4eb	2(3/3j3q3{3
+0008a4ff	3.444
+0008a50d	7b7k7
+0008a525	9:9?9D9k9w9
+0008a537	=!>->
+0008a579	;I;2=>=J>X>`>j>v>
+0008a58f	>4?Y?
+0008a5a7	2w3W4G5'6
+0008a5bb	<J=[=e=q=|=
+0008a5ed	3I4Z4r4
+0008a5f5	5(5V5
+0008a605	657Q7]7
+0008a613	758Q8u8
+0008a631	:&:2:j:o:t:
+0008a647	;&<C<`<z<
+0008a663	?"?H?M?_?
+0008a67d	0<0C0M0V0a0v0
+0008a695	081=1O1|1
+0008a6a5	1=3F3
+0008a6b9	;-;:;@;`;
+0008a6c7	;"<E<N<
+0008a6ed	?H?f?
+0008a703	080=0B0I2T2f2}2
+0008a717	2E3Q3
+0008a723	4 4b4t4
+0008a733	5B5N5~5
+0008a73d	5,6a6
+0008a747	7=7B7G7
+0008a755	9A:H:
+0008a763	=3=8===
+0008a7a5	5 5$5(5,5054585<5@5D5H5L5P5H<M<_<
+0008a7d5	=T>`>#?/?
+0008a7e8	H1M1_1
+0008a80d	455A5q5v5{5
+0008a81b	6R6d6
+0008a829	627>7n7s7x7
+0008a875	0:1k1
+0008a87b	1;7G7w7|7
+0008a8a3	8 8$8(8,8`8d8h8l8p8t8x8|8
+0008a8e7	4"5.5^5c5h5
+0008a8fb	5:7r7
+0008a931	>H>M>R>
+0008a94f	0,11161
+0008a959	2j3q3
+0008a961	4K4P4U4
+0008a969	5+5[5`5e5d6p6
+0008a9ef	3r4~4
+0008aa2f	<5<:<?<
+0008aa39	=E=J=O=">.>^>c>h>2?>?n?s?x?
+0008aa65	0i1u1
+0008aa87	9O9T9Y9
+0008aa8f	:C;O;
+0008aab3	< <8<<<@<D<H<|<
+0008aafd	>'>k>t>
+0008ab0d	?4?9?>?
+0008ab1f	3:4o4
+0008ab39	5 5$5(5,50545~5
+0008ab55	6#6(6,606Q6{6
+0008ab75	7 7$7(7,7V8~8
+0008ab85	8A9N9f9
+0008ab9b	53637>7J7|7
+0008abd9	1#1B1
+0008abdf	1&2<2W2r2
+0008abeb	3:5T5
+0008ac07	9>:L:
+0008ac0d	;h;m;r;
+0008ac21	=">'>,>
+0008ac37	1f1k1p1
+0008ac43	1Q2V2[2
+0008ac51	3"3'3
+0008ac61	3F4K4P4
+0008ac71	7M7Y7
+0008ac9d	:L<S<
+0008acab	<-=9=f=k=p=
+0008acd4	?0K0x0}0
+0008ace3	1$1)1
+0008acf1	1R2^2
+0008acff	353:3?3
+0008ad0f	3M4Y4
+0008ad1b	5)5V5[5`5
+0008ad2d	6m6y6
+0008ad39	7)7V7[7`7
+0008ad4b	8%919^9c9h9
+0008ad59	9":':,:
+0008ad6d	; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;
+0008ada3	4<4w4K5k5
+0008adbb	8t9x9|9
+0008ade1	:><L<[<
+0008adf4	T1X1\1`1d1
+0008ae23	9 9$9(9,9094989<9@9D9H9L9P9T90=
+0008ae4f	>$?G?
+0008ae67	4a7g7
+0008ae75	:n:i;
+0008ae91	?D?I?N?u?~?
+0008aeaf	1J1O1T1
+0008aeb7	1"2P2
+0008aec7	2;3D3n3s3x3
+0008aedf	6B6N6{6
+0008aeef	6?7K7x7}7
+0008af01	92979<9
+0008af13	:S:[:
+0008af19	:9;A;
+0008af4f	2D3P3}3
+0008af5d	3F4R4
+0008af7b	8$8N8S8X8}8
+0008af91	8>9G9q9v9{9
+0008afaf	;A=M=z=
+0008afc3	=%>->p>|>
+0008afd5	>+?0?5?
+0008afe4	+070d0i0n0
+0008afef	162?2i2n2s2
+0008affb	3)4]4
+0008b00d	9F9N9
+0008b01b	9Y:a:
+0008b023	:$;0;];b;g;
+0008b037	=+=7=d=i=n=a?m?
+0008b05b	0@4M4z8
+0008b06b	<X?]?o?
+0008b07f	3/3(6-6?6x7}7
+0008b08d	7X?]?o?
+0008b0a7	081=1O1
+0008b0bb	5)6e6}6
+0008b0cd	859;9@9e9k9p9
+0008b107	<"=R=
+0008b111	=L>U>
+0008b11b	>#?,?V?[?`?
+0008b131	0R0[0
+0008b153	7B7G7L7r7
+0008b167	8A8J8@9W9
+0008b175	9':=:
+0008b187	;q;z;
+0008b19f	0i5r5
+0008b1af	6<6A6F6]6
+0008b1c3	6m7v7
+0008b1d7	8[8d8
+0008b21d	<#<(<-<R<\<k<t<z<
+0008b241	=C=O=
+0008b287	3"3*343<3D3a3i3q3y3
+0008b2b5	4"4.4
+0008b2c3	5!5;5I5a5o5
+0008b2db	8e8t8
+0008b2ef	8 9&9-979=9F9N9Z9f9k9s9|9g:p:
+0008b321	=;=@=E=n=w=
+0008b331	=a>j>
+0008b345	?G?P?z?
+0008b359	1(141a1f1k1
+0008b371	292>2C2p4
+0008b383	7.8p8
+0008b3a3	<l=u=
+0008b3b7	?"?U?^?
+0008b3cc	Y0b0x0
+0008b3d3	0'131
+0008b3eb	3K3P3U3
+0008b3fd	4k5w5
+0008b40b	5(6-626
+0008b41f	;);m;v;
+0008b42f	<@<E<J<
+0008b443	1H2M2_2
+0008b46b	5E6Q6
+0008b473	7H7M7_7
+0008b47b	7V8[8`8x9}9
+0008b48f	;!;W;`;
+0008b4b3	>;?k?
+0008b4df	2%2}2
+0008b50d	4,595b5l5
+0008b529	6d6u6
+0008b541	71869D9h9q9
+0008b555	:!:F:O:X:c:l:q:
+0008b577	:4;S;`;
+0008b589	<"<5<:=I=R=x=
+0008b59d	>+>3>9>]>o>
+0008b5b3	?%?K?R?X?a?y?
+0008b5d4	)040K0V0
+0008b5e3	141B1Q1Z1
+0008b5f9	3#3H3P3i3
+0008b60f	4)444C4i4v4~4
+0008b61f	5@5D5H5L5P5T5X5
+0008b647	5P6T6X6\6`6d6h6
+0008b661	9.979Y9e9s9|9
+0008b677	98:I:\:g:
+0008b689	:';.;4;C;Q;Y;
+0008b69f	;$<5<P<c<p<y<
+0008b6db	0 0K0^0g0
+0008b6ed	151=1H1P1X1
+0008b6ff	3,353N3\3o3|3
+0008b717	3,4:4[4d4j4r4{4
+0008b73f	5Y6s6
+0008b753	7'7/747G7T7c7l7
+0008b76b	8*8l8z8
+0008b789	9$:U;
+0008b797	<7=@=p=t=x=|=
+0008b7c7	7|8!9G9T9{;
+0008b7e9	2w3"4
+0008b80b	=3=:=
+0008b825	>!>'>5>B>K>T>
+0008b85f	1]3k3t3
+0008b889	3@4D4H4L4P4
+0008b8db	:f;t;};
+0008b8e7	<,<G<^<g<1=K=R=q=
+0008b901	>$>*>D>K>P>X>u>}>
+0008b91b	? ?$?l?p?t?x?|?
+0008b945	1?1G1W1`1
+0008b951	1H2Z2
+0008b983	5#555G5Y5k5x5
+0008b9a1	6/6A6S6f6o6
+0008b9cf	8,9094989<9@9D9H9L9P9T9x9|9
+0008ba05	:4:8:
+0008ba13	<$<-<2<G<V<e<t<
+0008ba33	= =1>B>a>f>u>
+0008ba4f	>4?8?<?@?D?H?L?P?T?X?
+0008ba73	0.0<0D0P0\0k0t0
+0008ba85	1p1}1
+0008ba91	5*585E5
+0008ba9d	6.767i7r7
+0008bab5	8V8c8k8
+0008bac9	9^;g;m;
+0008badd	<B=g=
+0008bae7	=?>h>
+0008baf4	)2@2N2W2h2
+0008bb0b	394c4Z5
+0008bb13	80898>8
+0008bb1f	969G9
+0008bb35	:5;b;p;y;
+0008bb4b	=6=V=v=
+0008bb5b	>D>R>v>
+0008bb70	$3&9I9
+0008bb81	1d4=5
+0008bbbb	6+6N6U6
+0008bbd3	9J:S:>;q;
+0008bbe7	=L>n>
+0008bc01	1:1?1D1z1
+0008bc1d	3I4R4
+0008bc31	4"5/5@5F5W5c5p5
+0008bc4b	5^6l6
+0008bc55	637g7
+0008bc83	<r>x>~>
+0008bcbd	? ?&?,?2?8?>?D?J?P?V?\?b?h?n?t?z?
+0008bd1d	0"0(0.040:0z9
+0008bd2f	:::j:
+0008bd4b	3 4,70788
+0008bde8	X2`2h2p2x2
+0008be19	3 3(30383@3H3P3X3`3h3p3x3
+0008be59	4 4(40484@4H4P4X4
+0008be7f	5 5(50585@5H5P5X5`5h5p5x5
+0008bea8	@8D8L8P8T8t8x8|8
+0008bf17	8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+0008bf9b	= =(=,=0=8=<=@=P=T=X=
+0008bfc1	:$:<:H:`:x:
+0008bfe3	;$;(;0;H;`;d;x;
+0008c009	< >$>(>,>0>4>8><>@>D>
+0008c028	X1\1`1d1h1l1p1t1x1|1
+0008c04d	484X4x4
+0008c05d	5$5(5H5h5
+0008c06f	6(6H6h6
+0008c081	7(7H7d7h7
+0008c095	84888T8X8t8x8
+0008c0ad	9H9h9
+0008c0bb	:(:4:X:d:
+0008c0d1	;$;(;H;T;x;
+0008c0e5	<8<X<d<p<
+0008c103	=@=H=L=l=p=
+0008c121	>,>0>D>h>t>|>
+0008c135	> ?@?`?
+0008c151	0P0p0
+0008c173	0$0(0,00040p0t0x0|0
+0008c1a1	0H1L1P1t1x1
+0008c1b3	5$5,545<5D5L5T5\5d5l5t5|5
+0008c1f7	6P:p?
+0008c20f	0<0H0L0P0T0X0`0d0
+0008c237	1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+0008c295	2@2D2l20343t3x3
+0008fe08	NullsoftInst^K
+00093bcd	ProgramFilesDir
+00093bdd	C:\Program Files
+00093bf2	CommonFilesDir
+00093c04	\Common Files
+00093c19	\modern-wizard.bmp
+00093c4f	\nsDialogs.dll
+00093c63	Create
+00093c6a	SetRTL
+00093c82	0x40000000|0x10000000|0x04000000|0x0000000E|0x00000100
+00093cb9	STATIC
+00093cc0	CreateControl
+00093ce5	\System.dll
+00093cf1	*(i, i, i, i) i.s
+00093d08	user32::GetClientRect(iR0, ir0)
+00093d2c	(i, i, i .s, i .s)
+00093d44	user32::LoadImage(i0, ts, i 0, ir1, ir2, i0x0010) i.s
+00093d7a	0x0172
+00093d93	0x00000020
+00093d9e	0x40000000|0x10000000|0x04000000|0x00000100
+00093dd9	0x0030
+00093df6	gdi32::DeleteObject(is)
+00093e10	0x000C
+00093e17	#32770
+00093e68	0x40000000|0x10000000|0x04000000|0x00010000|0x00000000|0x00000C00|0x00000009|0x00002000
+00093ec0	BUTTON
+00093ed4	0x00F1
+00093edb	user32::SetFocus(i
+00093ef6	0x00F0
+00093f38	Uninstall
+00093f45	\Character
+00093f53	\Effect
+00093f5e	\Image
+00093f70	\Material
+00093f7d	\PatchTemp
+00093f8b	\Sound
+00093f9c	\Emblem
+00093fa7	\Rank
+00093fb0	\pack.gms
+00093fbd	\DumpAgent.exe
+00093fcf	\Tartaros.exe
+00093fe0	\Tartaros.bin
+00093ff1	\Tartaros.cfg
+00094002	\*.dat
+0009400c	\*.dmp
+00094016	\*.log
+00094020	\*.txt
+0009402a	\*.dll
+00094034	\*.flu
+0009403e	\*.gms
+00094048	\*.lua
+00094052	\*.stp
+0009405c	\*.xmf
+00094066	\Integrity.xml
+00094078	\Integrity_new.xml
+0009408e	\Integrity_temp.xml
+000940a5	\Tartaros Rebirth.lnk
+000940be	\Uninstall.exe
+000940d4	\Tartaros Rebirth.lnk
+000940ee	Software\FunplePlay\GSP\Tartaros
+0009410f	Tartaros Rebirth
+00094124	Tartaros\Tartaros Rebirth
+00094146	Software\Microsoft\Windows\CurrentVersion\Uninstall\Tartaros Rebirth
+0009418b	Software\FunplePlay
+000941a7	Error! Can't initialize plug-ins directory. Please try again later.
+000941f2	u_.exe
+00094201	u_.exe" 
+00094216	$$\wininit.ini
+00094225	Nullsoft Install System v19-Mar-2012.cvs
+00094251	 Uninstall
+0009425c	Space available: 
+0009426e	Space required: 
+0009427f	Can't write: 
+0009428d	Could not find symbol: 
+000942a5	Could not load: 
+000942b6	Create folder: 
+000942c6	Create shortcut: 
+000942d8	Created uninstaller: 
+000942ee	Delete file: 
+000942fc	Delete on reboot: 
+0009430f	Error creating shortcut: 
+00094329	Error creating: 
+0009433a	Error decompressing data! Corrupted installer?
+00094369	Extract: 
+00094373	Extract: error writing to file 
+00094393	Installer corrupted: invalid opcode
+000943b7	No OLE for: 
+000943c4	Output folder: 
+000943d4	Remove folder: 
+000943e4	Skipped: 
+000943ee	Copy Details To Clipboard
+00094408	Log install process
+0009441a	sBKMG
+00094424	Error opening file for writing: 
+0009444f	Click Abort to stop the installation,
+00094476	Retry to try again, or
+0009448e	Ignore to skip this file.
+000944a8	Welcome to the 
+000944ba	 Uninstall Wizard
+000944cc	MS Shell Dlg
+000944d9	This wizard will guide you through the uninstallation of 
+0009451a	Before starting the uninstallation, make sure 
+0009454b	 is not running.
+00094563	Uninstall 
+00094571	Remove 
+0009457b	 from your computer.
+00094590	Uninstalling
+0009459d	Please wait while 
+000945b2	 is being uninstalled.
+000945c9	Uninstallation Complete
+000945e1	Uninstall was completed successfully.
+00094607	Uninstallation Aborted
+0009461e	Uninstall was not completed successfully.
+00094648	&Finish
+00094650	Completing the 
+00094662	 Uninstall Wizard
+00094674	Your computer must be restarted in order to complete the uninstallation of 
+000946c2	. Do you want to reboot now?
+000946df	Reboot now
+000946ea	I want to manually reboot later
+0009470d	 has been uninstalled from your computer.
+0009473a	Click Finish to close this wizard.
+0009475d	Custom
+00094764	Cancel
+0009476b	< &Back
+00094773	&Next >
+0009477b	Click Next to continue.
+00094796	 will be uninstalled from the following folder. 
+000947ca	Uninstalling from:
+000947dd	&Uninstall
+000947e8	Click Uninstall to start the uninstallation.
+00094815	Show &details
+00094823	Completed
+0009482d	&Close
+00094a04	DDD@@@@DDDDDD@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@DDDDDDDDDD@@@@DDDDDDDDD@@@@@@
+00094a5f	DDDDDD
+00094a8d	DDDDDDDDDD
+00094a9b	DDDDDDDDD
+00094aac	DD@@@@DDDDDD@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@DDDDDDDDD@@@@DDDDDDDDDD@@@@@@D
+00094b06	DDDDDDD
+00094b33	DDDDDDDDDD
+00094b41	DDDDDDDDDD
+00094b54	D@@@@@DDDDDD@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@DDDDDDDDDD@@@@DDDDDDDDDD@@@@@DDD
+00094bae	DDDDDD
+00094bda	DDDDDDDDD
+00094be8	DDDDDDDDD
+00094bfc	@@@@@DDDDDD@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@DDDDDDDDDD@@@@DDDDDDDDDD@@@@@@DDDD
+00094c55	DDDDDD
+00094c80	DDDDDDDDDD
+00094c8e	DDDDDDDDDD
+00094c9d	DDDDD
+00094ca4	@@@@@DDDDDD@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@DDDDDDDDDD@@@@DDDDDDDDD@@@@@@DDDDDD
+00094cfd	DDDDDD
+00094d27	DDDDDDDDD
+00094d34	DDDDDDDDDD
+00094d44	DDDDDD
+00094d4c	@@@@DDDDDD@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@DDDDDDDDDD@@@@DDDDDDDDDD@@@@@DDDDDDDD
+00094da5	DDDDD
+00094dcd	DDDDDDDDDD
+00094ddb	DDDDDDDDDD
+00094dea	DDDDDDDD
+00094df4	@@@@DDDDDD@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@DDDDDDDDD@@@@@DDDDDDDDD@@@@@@DDDDDDDDD
+00094e4c	DDDDDD
+00094e74	DDDDDDDDD
+00094e81	DDDDDDDDDD
+00094e90	DDDDDDDDDD
+00094e9c	@@@@DDDDD@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@DDDDDDDDDD@@@@DDDDDDDDDD@@@@@DDDDDDDDDDD
+00094ef4	DDDDDD
+00094f1a	DDDDDDDDDD
+00094f29	DDDDDDDDD
+00094f37	DDDDDDDDDDD
+00094f44	@@@@DDDDD@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@DDDDDDDDD@@@@@@DDDDDDDD@@@@@DDDDDDDDDDDDD
+00094f9c	DDDDD
+00094fc0	DDDDDDDDDD
+00094fd0	DDDDDDDD
+00094fdd	DDDDDDDDDDDDD
+00094fec	@@@DDDDDD@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@DDDDDDDDDD@@@@@@@DDDDDDD@@@@@DDDDDDDDDDDDDD
+00095044	DDDDD
+00095067	DDDDDDDDDD
+00095078	DDDDDD
+00095084	DDDDDDDDDDDDDD
+00095094	@@@DDDDD@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@DDDDDDDDD@@@@@@@@@DDDDD@@@@@DDDDDDDDDDDDDDDD
+000950ec	DDDDD
+0009510d	DDDDDDDDDD
+0009512a	DDDDDDDDDDDDDDDD
+0009513c	@@@DDDDD@@@@@@@@@@@@@@@@@@@@@@@@@@@@DDDDDDDDDD@@@@@@@@@@@DDD@@@@@DDDDDDDDDDDDDDDDD
+00095193	DDDDDD
+000951b4	DDDDDDDDD
+000951d0	DDDDDDDDDDDDDDDDDD
+000951e4	@@@DDDDD@@@@@@@@@@@@@@@@@@@@@@@@@@DDDDDDDDDD@@@@@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDD
+0009523b	DDDDDD
+0009525a	DDDDDDDDDD
+00095277	DDDDDDDDDDDDDDDDDDD
+0009528c	@@@DDDDD@@@@@@@@@@@@@@@@@@@@@@@@@DDDDDDDDDD@@@@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDD
+000952e3	DDDDD
+00095301	DDDDDDDDD
+0009531d	DDDDDDDDDDDDDDDDDDDDD
+00095334	@@@DDDDD@@@@@@@@@@@@@@@@@@@@@@@DDDDDDDDDD@@@@@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDD
+0009538b	DDDDD
+000953a7	DDDDDDDDDD
+000953c3	DDDDDDDDDDDDDDDDDDDDDDD
+000953dc	@@@DDDDD@@@@@@@@@@@@@@@@@@@@@@DDDDDDDDD@@@@@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDD
+00095433	DDDDD
+0009544e	DDDDDDDDD
+0009546a	DDDDDDDDDDDDDDDDDDDDDDDD
+00095484	@@@DDDDD@@@@@@@@@@@@@@@@@@@@DDDDDDDDDD@@@@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDD
+000954db	DDDDD
+000954f4	DDDDDDDDDD
+00095510	DDDDDDDDDDDDDDDDDDDDDDDDDD
+0009552c	@@@DDDDD@@@@@@@@@@@@@@@@@@@DDDDDDDDD@@@@@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDD
+00095583	DDDDDD
+0009559a	DDDDDDDDDD
+000955b6	DDDDDDDDDDDDDDDDDDDDDDDDDDDD
+000955d4	@@@DDDDD@@@@@@@@@@@@@@@@@DDDDDDDDDD@@@@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+0009562b	DDDDDD
+00095641	DDDDDDDDDD
+0009565d	DDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+0009567c	@@@DDDDD@@@@@@@@@@@@@@@@DDDDDDDDD@@@@@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+000956d4	DDDDD
+000956e7	DDDDDDDDDD
+00095703	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00095724	@@@DDDDDD@@@@@@@@@@@@@DDDDDDDDDD@@@@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@
+0009577c	DDDDD
+0009578e	DDDDDDDDD
+000957aa	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+000957cc	@@@DDDDDD@@@@@@@@@@@DDDDDDDDDD@@@@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@
+00095824	DDDDDD
+00095834	DDDDDDDDDD
+00095850	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00095874	@@@@DDDDD@@@@@@@@@@DDDDDDDDDD@@@@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@@@
+000958cc	DDDDDD
+000958db	DDDDDDDDD
+000958f6	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+0009591c	@@@@DDDDDD@@@@@@@DDDDDDDDDD@@@@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@@@@
+00095975	DDDDD
+00095981	DDDDDDDDDD
+0009599d	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+000959c4	@@@@DDDDDD@@@@@@@DDDDDDDD@@@@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@@@@@@
+00095a1d	DDDDDD
+00095a29	DDDDDDDD
+00095a43	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00095a6c	@@@@@DDDDD@@@@@@DDDDDDDD@@@@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@@@@@@@@
+00095ac5	DDDDDD
+00095ad1	DDDDDDD
+00095ae9	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00095b14	@@@@@DDDDDD@@@@@DDDDDD@@@@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@@@@@@@@@
+00095b6e	DDDDDD
+00095b79	DDDDD
+00095b90	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00095bbc	@@@@@@DDDDDD@@@@@DDDD@@@@@@@@@@@@@@@@@DDDDDDDDDD@DDDDDDDDDDDDDDDDDDDD@@@@@@@@@@@@@
+00095c16	DDDDDD
+00095c36	DDDDDDDDDD
+00095c41	DDDDDDDDDDDDDDDDDDDD
+00095c64	@@@@@@DDDDDD@@@@@@@@@@@@@@@@@@@@@@@@@DDDDDDDDDD@@DDDDDDDDDDDDDDDDDDD@@@@@@DDDD@@@@
+00095cbf	DDDDDD
+00095cdd	DDDDDDDDD
+00095cea	DDDDDDDDDDDDDDDDD
+00095d02	DDDDD
+00095d0c	@@@@@@@DDDDDD@@@@@@@@@@@@@@@@@@@@@@DDDDDDDDDD@@@@DDDDDDDDDDDDDDDDD@@@@@@@DDDDDD@@@
+00095d68	DDDDDD
+00095d83	DDDDDDDDDD
+00095d92	DDDDDDDDDDDDDDDD
+00095da8	DDDDDDD
+00095db4	@@@@@@@DDDDDDD@@@@@@@@@@@@@@@@@@@@DDDDDDDDD@@@@@@DDDDDDDDDDDDDDD@@@@@@@DDDDDDDD@@@
+00095e10	DDDDDDD
+00095e29	DDDDDDDDDD
+00095e3a	DDDDDDDDDDDDDD
+00095e4f	DDDDDDDD
+00095e5c	@@@@@@@@DDDDDDD@@@@@@@@@@@@@@@@@DDDDDDDDDD@@@@@@@DDDDDDDDDDDDDD@@@@@@DDDDDDDDDD@@@
+00095eb9	DDDDDDD
+00095ed0	DDDDDDDDD
+00095ee2	DDDDDDDDDDDD
+00095ef5	DDDDDDDDDD
+00095f04	@@@@@@@@@DDDDDDD@@@@@@@@@@@@@@DDDDDDDDDD@@@@@@@@@@DDDDDDDDDDD@@@@@@@DDDDDDDDDDD@@@
+00095f62	DDDDDDD
+00095f76	DDDDDDDDDD
+00095f8a	DDDDDDDDDDD
+00095f9c	DDDDDDDDDDD
+00095fac	@@@@@@@@@@DDDDDDD@@@@@@@@@@@@DDDDDDDDD@@@@@@@@@@@@DDDDDDDDD@@@@@@@DDDDDDDDDDDDD@@@
+0009600b	DDDDDDD
+0009601e	DDDDDDDD
+00096032	DDDDDDDDD
+00096042	DDDDDDDDDDDDD
+00096054	@@@@@@@@@@DDDDDDDD@@@@@@@@@@@DDDDDDDD@@@@@@@@@@@@@DDDDDDDD@@@@@@@DDDDDDDDDDDDDD@@@
+000960b3	DDDDDDDD
+000960c5	DDDDDDD
+000960da	DDDDDDD
+000960e8	DDDDDDDDDDDDDDD
+000960fc	@@@@@@@@@@@DDDDDDDD@@@@@@@@@@DDDDDD@@@@@@@@@@@@@@@DDDDDD@@@@@@@DDDDDDDDDDDDDDDD@@@
+0009615c	DDDDDDDD
+0009616e	DDDDD
+00096183	DDDDD
+0009618f	DDDDDDDDDDDDDDDDD
+000961a4	@@@@@@@@@@@@DDDDDDDD@@@@@@@@@@DDDD@@@@@@@@@@@@@@@@@DDDD@@@@@@DDDDDDDDDDDDDDDDDD@@@
+00096205	DDDDDDDD
+00096235	DDDDDDDDDDDDDDDDDDD
+0009624c	D@@@@@@@@@@@@DDDDDDDDD@@@@@@@@@@@@@@@@@@@DDDDD@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDD@@@
+000962ae	DDDDDDDDD
+000962c9	DDDDDD
+000962dc	DDDDDDDDDDDDDDDDDDDD
+000962f4	DD@@@@@@@@@@@@@DDDDDDDD@@@@@@@@@@@@@@@@@DDDDDDD@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDD@@@
+00096358	DDDDDDDD
+0009636f	DDDDDDDD
+00096382	DDDDDDDDDDDDDDDDDDDDDD
+0009639c	DDD@@@@@@@@@@@@@DDDDDDDDD@@@@@@@@@@@@@DDDDDDDDD@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDD@@@
+00096401	DDDDDDDDD
+00096416	DDDDDDDDD
+00096428	DDDDDDDDDDDDDDDDDDDDDDDD
+00096444	DDDD@@@@@@@@@@@@@DDDDDDDDDD@@@@@@@@@DDDDDDDDDDD@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDD@@@
+00096498	DDDDD
+000964aa	DDDDDDDDDDD
+000964bc	DDDDDDDDDDDD
+000964cf	DDDDDDDDDDDDDDDDDDDDDDDDD
+000964ec	DDDDD@@@@@@@@@@@@@DDDDDDDDDDD@@@@@@DDDDDDDDDDDD@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDD@@@
+00096540	DDDDDD
+00096554	DDDDDDDDDDD
+00096562	DDDDDDDDDDDDDD
+00096575	DDDDDDDDDDDDDDDDDDDDDDDDDDD
+00096594	DDDDDDD@@@@@@@@@@@@@DDDDDDDDDDDD@DDDDDDDDDDDDDD@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDD@@@
+000965e8	DDDDDDDD
+000965fd	DDDDDDDDDDDDDDDDDDDDDDDDDDD
+0009661c	DDDDDDDDDDDDDDDDDDDDDDDDDDDD
+0009663c	DDDDDDDD@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDD@DDDDDD@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDD@@@
+00096691	DDDDDDDD
+000966a7	DDDDDDDDDDDDDDDDDD
+000966bb	DDDDD
+000966c4	DDDDDDDDDDDDDDDDDDDDDDDDDDDD
+000966e4	@DDDDDDDDD@@@@@@@@@@@@@DDDDDDDDDDDDDDDDD@@DDDDDD@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDD@@@
+0009673a	DDDDDDDDD
+00096751	DDDDDDDDDDDDDD
+00096763	DDDDD
+0009676c	DDDDDDDDDDDDDDDDDDDDDDDDDDDD
+0009678c	@@DDDDDDDDDD@@@@@@@@@@@@@@DDDDDDDDDDDD@@@@@DDDDD@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDD@@@
+000967e3	DDDDDDDDDDD
+000967fb	DDDDDDDDDDD
+0009680b	DDDDD
+00096814	DDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00096834	@@@DDDDDDDDDDD@@@@@@@@@@@@@@DDDDDDDD@@@@@@@DDDDD@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDD@@@
+0009688c	DDDDDDDDDDDD
+000968a6	DDDDDD
+000968b3	DDDDDD
+000968bc	DDDDDDDDDDDDDDDDDDDDDDDDDDDD
+000968dc	@@@@@DDDDDDDDDDDD@@@@@@@@@@@@@@DDDD@@@@@@@@DDDDD@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDD@@@
+00096936	DDDDDDDDDDDDD
+0009695b	DDDDDD
+00096965	DDDDDDDDDDDDDDDDDDDDDDDDDDD
+00096984	@@@@@@DDDDDDDDDDDDDDD@@@@@@@@@@@@@@@@@@@@@@DDDDD@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDD@@@
+000969e0	DDDDDDDDDDDDDDD
+00096a04	DDDDD
+00096a0d	DDDDDDDDDDDDDDDDDDDDDDDDDDD
+00096a2c	@@@@@@@@DDDDDDDDDDDDDDDD@@@@@@@@@@@@@@@@@@@DDDDD@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDD@@@
+00096a8a	DDDDDDDDDDDDDDD
+00096aac	DDDDD
+00096ab5	DDDDDDDDDDDDDDDDDDDDDDDDDDD
+00096ad4	@@@@@@@@@@DDDDDDDDDDDDDDD@@@@@@@@@@@@@@@@@@DDDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDD@@@
+00096b34	DDDDDDDDDDDDDD
+00096b54	DDDDD
+00096b5d	DDDDDDDDDDDDDDDDDDDDDDDDDDD
+00096b7c	@@@@@@@@@@@@DDDDDDDDDDDDD@@@@@@@@@@@@@@@@@@DDDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDD@@@
+00096bde	DDDDDDDDDDDD
+00096bfc	DDDDD
+00096c05	DDDDDDDDDDDDDDDDDDDDDDDDDDD
+00096c24	@@@@@@@@@@@@@@@DDDDDDDDDD@@@@@@@@@@@@@@@@@@@DDDDD@@@@DDDDDDDDDDDDDDDDDDDDDDDDDD@@@
+00096c88	DDDDDDDDDD
+00096ca4	DDDDDD
+00096cad	DDDDDDDDDDDDDDDDDDDDDDDDDDD
+00096ccc	@@@@@@@@@@@@@@@DDDDDDDDDD@@@@@@@@@@@@@@@@@@@DDDDD@@@@DDDDDDDDDDDDDDDDDDDDDDDDDD@@@
+00096d2f	DDDDDDDDD
+00096d4c	DDDDDD
+00096d55	DDDDDDDDDDDDDDDDDDDDDDDDDDD
+00096d74	@@@@@@@@@@@@@DDDDDDDDDD@@@@@@@@@@@@@@@@@@@@@DDDDD@@@@DDDDDDDDDDDDDDDDDDDDDDDDDD@@@
+00096dd5	DDDDDDDDDDDDDDDDD
+00096df5	DDDDD
+00096dfd	DDDDDDDDDDDDDDDDDDDDDDDDDDD
+00096e1c	@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDD@@@@@@@DDDDD@@@@DDDDDDDDDDDDDDDDDDDDDDDDDD@@@
+00096e7d	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00096ea5	DDDDDDDDDDDDDDDDDDDDDDDDDDD
+00096ec4	@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDD@@@
+00096f25	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00096f4e	DDDDDDDDDDDDDDDDDDDDDDDDDD
+00096f6c	@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDD@@@
+00096fcd	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00096ff6	DDDDDDDDDDDDDDDDDDDDDDDDDD
+00097014	@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDD@@@
+00097076	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+0009709e	DDDDDDDDDDDDDDDDDDDDDDDDDD
+000970bc	@@@@@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDD@@@
+0009712b	DDDDDDDDDDDDDDDDDDDDDDD
+00097146	DDDDDDDDDDDDDDDDDDDDDDDDDD
+00097164	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@DDDDDDDDDDDDDD@@@@@DDDDDDDDDDDDDDDDDDDDDDDDD@@@
+000971e3	DDDDDD
+000971ee	DDDDDDDDDDDDDDDDDDDDDDDDDD
+0009720c	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDD@@@
+00097296	DDDDDDDDDDDDDDDDDDDDDDDDDD
+000972b4	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDD@@@
+0009733e	DDDDDDDDDDDDDDDDDDDDDDDDDD
+0009735c	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDD@@@
+000973e6	DDDDDDDDDDDDDDDDDDDDDDDDDD
+00097404	@@@@@@@@@@@@@@@@DD@@@@@@DD@@@@@@@@@@@@@@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDD@@@
+00097470	DDDDDDDDDDD
+0009748f	DDDDDDDDDDDDDDDDDDDDDDDDD
+000974ac	@@@@@@@@@@@@@@@DDDD@@@@DDDDDDDDDDDDDDDDDDD@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDD@@@
+0009750f	DDDDD
+00097517	DDDDDDDDDDDDDDDDDDDDDDDDDDD
+00097537	DDDDDDDDDDDDDDDDDDDDDDDDD
+00097554	@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@
+000975b7	DDDDD
+000975bf	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+000975fc	@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@
+0009765f	DDDDD
+00097667	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+000976a4	@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@
+00097707	DDDDD
+0009770f	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+0009774c	@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@
+000977af	DDDDD
+000977b7	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+000977f4	@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@
+00097857	DDDDD
+0009785f	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+0009789c	@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@
+000978ff	DDDDD
+00097907	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00097944	@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@
+000979a7	DDDDD
+000979af	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+000979ec	@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@
+00097a4f	DDDDD
+00097a57	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00097a94	@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@
+00097af7	DDDDD
+00097aff	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00097b3c	@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@
+00097b9f	DDDDD
+00097ba7	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00097be4	@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@
+00097c47	DDDDD
+00097c4f	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00097c8c	@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@
+00097cef	DDDDD
+00097cf7	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00097d34	@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@
+00097d97	DDDDD
+00097d9f	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00097ddc	@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@
+00097e3f	DDDDD
+00097e47	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00097e84	@@@@@@@@@@@@@@DDDDDD@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@
+00097ee7	DDDDD
+00097eef	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00097f2c	@@@@@@@@@@@@@@DDDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@
+00097f8f	DDDDD
+00097f97	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00097fd4	@@@@@@@@@@@@@@DDDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@
+00098037	DDDDD
+0009803f	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+0009807c	@@@@@@@@@@@@@@DDDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@
+000980df	DDDDD
+000980e7	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00098124	@@@@@@@@@@@@@@DDDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@
+00098187	DDDDD
+0009818f	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+000981cc	@@@@@@@@@@@@@@DDDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@@@
+0009822f	DDDDD
+00098237	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00098274	@@@@@@@@@@@@@@DDDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@@@@@
+000982d7	DDDDD
+000982df	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+0009831c	@@@@@@@@@@@@@@DDDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@@@@@@
+0009837f	DDDDD
+00098387	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+000983c4	@@@@@@@@@@@@@@DDDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@@@@@@@@
+00098427	DDDDD
+0009842f	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+0009846c	@@@@@@@@@@@@@@DDDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@@@@@@@@D
+000984cf	DDDDD
+000984d7	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00098514	@@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@@@@@@@@DDD
+00098577	DDDDD
+0009857f	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+000985bc	@@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@@@@@@@@@DDDD
+0009861f	DDDDD
+00098627	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+0009865d	DDDDD
+00098664	@@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@@@@@@@@DDDDDD
+000986c7	DDDDD
+000986cf	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00098704	DDDDDD
+0009870c	@@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@@@@@@@@DDDDDDDD
+0009876f	DDDDD
+00098777	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+000987aa	DDDDDDDD
+000987b4	@@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@@@@@@@@DDDDDDDDD
+00098817	DDDDD
+0009881f	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00098850	DDDDDDDDDD
+0009885c	@@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@@@@@@@@DDDDDDDDDDD
+000988bf	DDDDD
+000988c7	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+000988f7	DDDDDDDDDDD
+00098904	@@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@@@@@@@@DDDDDDDDDDDDD
+00098967	DDDDD
+0009896f	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+0009899d	DDDDDDDDDDDDD
+000989ac	@@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@@@@@@@@DDDDDDDDDDDDDD
+00098a0f	DDDDD
+00098a17	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00098a44	DDDDDDDDDDDDDD
+00098a54	@@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@@@@@@@@DDDDDDDDDDDDDDDD
+00098ab7	DDDDD
+00098abf	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00098aea	DDDDDDDDDDDDDDDD
+00098afc	@@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@@@@@@@@@DDDDDDDDDDDDDDDDD
+00098b5f	DDDDD
+00098b67	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00098b90	DDDDDDDDDDDDDDDDDD
+00098ba4	@@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@@@@@@@@DDDDDDDDDDDDDDDDDDD
+00098c07	DDDDD
+00098c0f	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00098c37	DDDDDDDDDDDDDDDDDDD
+00098c4c	@@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDD@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDD
+00098caf	DDDDD
+00098cb7	DDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00098cdd	DDDDDDDDDDDDDDDDDDDDD
+00098cf4	@@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDDDD@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDD
+00098d57	DDDDD
+00098d5f	DDDDDDDDDDDDDDDDDDDDDDDDDD
+00098d83	DDDDDDDDDDDDDDDDDDDDDDD
+00098d9c	@@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDDDDDDDDDDDD@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDD
+00098dff	DDDDD
+00098e07	DDDDDDDDDDDDDDDDDDDDDDDDD
+00098e2a	DDDDDDDDDDDDDDDDDDDDDDDD
+00098e44	@@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDDDDDDDDDD@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDD
+00098ea7	DDDDD
+00098eaf	DDDDDDDDDDDDDDDDDDDDDDD
+00098ed0	DDDDDDDDDDDDDDDDDDDDDDDDDD
+00098eec	@@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDDDDDDDDD@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDD
+00098f4f	DDDDD
+00098f57	DDDDDDDDDDDDDDDDDDDDD
+00098f77	DDDDDDDDDDDDDDDDDDDDDDDDDDD
+00098f94	@@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDDDDDDD@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00098ff7	DDDDD
+00098fff	DDDDDDDDDDDDDDDDDDDD
+0009901d	DDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+0009903c	@@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDDDDDD@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+0009909f	DDDDD
+000990a7	DDDDDDDDDDDDDDDDDD
+000990c3	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+000990e4	@@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDDDD@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00099147	DDDDD
+0009914f	DDDDDDDDDDDDDDDDD
+0009916a	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+0009918c	@@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDDD@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+000991ef	DDDDD
+000991f7	DDDDDDDDDDDDDDD
+00099210	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00099234	@@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDDDD@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00099297	DDDDD
+0009929f	DDDDDDDDDDDDD
+000992b6	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+000992dc	@@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDDDD@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+0009933f	DDDDD
+00099347	DDDDDDDDDDDD
+0009935d	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00099384	@@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDDD@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+000993e7	DDDDD
+000993ef	DDDDDDDDDD
+00099403	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+0009942c	@@@@@@@@@@@@@@@DDDDD@@@DDDDDDDDD@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+0009948f	DDDDD
+00099497	DDDDDDDDD
+000994a9	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+000994d4	@@@@@@@@@@@@@@@DDDDD@@@DDDDDDD@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00099537	DDDDD
+00099540	DDDDDD
+00099550	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+0009957c	@@@@@@@@@@@@@@@DDDDD@@@DDDDDD@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+000995df	DDDDD
+000995f6	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00099624	@@@@@@@@@@@@@@@DDDDD@@@@DDD@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00099687	DDDDDD
+0009969d	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+000996cc	@@@@@@@@@@@@@@@DDDDD@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+0009972f	DDDDDD
+00099743	DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00099774	@@@@@@@@@@@@@@@DDDDD@@@@@@@@@@@@@@DDDDDDDDD
+000997be	DDDDDDDD
+000997d7	DDDDDD
+000997e9	DDDDDDDDDD
+00099812	DDDDDDDD
+0009981c	@@@@@@@@@@@@@@@DDDDD@@@@@@@@@@@@DDDDDDDDDDD
+00099866	DDDDDDDD
+0009987f	DDDDDD
+00099890	DDDDDDDDDDD
+000998ba	DDDDDDDD
+000998c4	@@@@@@@@@@@@@@@DDDDD@@@@@@@@@@DDDDDDDDDDDDD
+000998f1	@@@@@@@@@@@@@@@@@@@@@@@@@@O
+0009990e	DDDDDDDD
+00099927	DDDDDD
+00099936	DDDDDDDDDDDDD
+00099962	DDDDDDDD
+0009996c	@@@@@@@@@@@@@@@DDDDD@@@@@@@@@DDDDDDDDDDDDDD
+00099999	@@@@@@@@@@@@@@@@@@@@@@@@@@O
+000999b6	DDDDDDDD
+000999cf	DDDDDD
+000999dc	DDDDDDDDDDDDDDD
+00099a0a	DDDDDDDD
+00099a14	@@@@@@@@@@@@@@@DDDDD@@@@@@@DDDDDDDDDDDDDDDD
+00099a41	@@@@@@@@@@@@@@@@@@@@@@@@@@O
+00099a5e	DDDDDDDD
+00099a77	DDDDDD
+00099a83	DDDDDDDDDDDDDDDD
+00099ab2	DDDDDDDD
+00099abc	@@@@@@@@@@@@@@@DDDDD@@@@@@DDDDDDDDDDDDDDDDD
+00099ae9	@@@@@@x
+00099afa	@@@@@@@@@O
+00099b06	DDDDDDDD
+00099b1f	DDDDDD
+00099b29	DDDDDDDDDDDDDDDDDD
+00099b5a	DDDDDDDD
+00099b64	@@@@@@@@@@@@@@@DDDDD@@@@DDDDDDDDDDDDDDDDDDD
+00099b97	p@@@@@
+00099ba4	p@@@@@@O
+00099bae	DDDDDDDD
+00099bc7	DDDDDD
+00099bd0	DDDDDDDDDDDDDDDDDDD
+00099c02	DDDDDDDD
+00099c0c	@@@@@@@@@@@@@@@DDDDD@@DDDDDDDDDDDDDDDDDDDDD
+00099c3d	Hp@@@@G
+00099c4f	@@@@O
+00099c56	DDDDDDDD
+00099c6f	DDDDDD
+00099c76	DDDDDDDDDDDDDDDDDDDDD
+00099caa	DDDDDDDD
+00099cb4	@@@@@@@@@@@@@@@DDDDD@DDDDDDDDDDDDDDDDDDDDDD
+00099cf3	p@@@G
+00099cfe	DDDDDDDD
+00099d18	DDDDDDDDDDDDDDDDDDDDDDDDDDD
+00099d52	DDDDDDDD
+00099d5c	@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00099d9e	@@@x@O
+00099da6	DDDDDDDD
+00099dc0	DDDDDDDDDDDDDDDDDDDDDDDDDDD
+00099dfa	DDDDDDDD
+00099e04	@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00099e4e	DDDDDDD@
+00099e68	DDDDDDDDDDDDDDDDDDDDDDDDDDD
+00099ea2	DDDDDDD
+00099eac	@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00099ed9	@@O@@
+00099ef6	DDDDD@@@
+00099f10	DDDDDDDDDDDDDDDDDDDDDDDDDDD
+00099f4a	DDDDD
+00099f54	@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDD
+00099f9e	DDDD@@@@
+00099fb8	DDDDDDDDDDDDDDDDDDDDDDDDDDD
+00099ffc	@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDD
+0009a02f	@GpOG
+0009a039	@@@O@
+0009a03f	@@@@O
+0009a046	DD@@@@@@
+0009a060	DDDDDDDDDDDDDDDDDDDDDDDDDDD
+0009a0a4	@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDDD
+0009a0d1	@@@@@H
+0009a0e7	@@@@O
+0009a0ee	@@@@@@@@
+0009a108	DDDDDDDDDDDDDDDDDDDDDDDDDDD
+0009a14c	@@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDDD
+0009a179	@@@@@@@@@@G
+0009a18f	@@@@O
+0009a196	@@@@@@@@
+0009a1b1	DDDDDDDDDDDDDDDDDDDDDDDDDD
+0009a1d3	pwwww
+0009a1f4	@@@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDD
+0009a221	@@@@@Hp
+0009a231	@@@@H
+0009a237	@@@@O
+0009a23e	@@@@@@@@
+0009a259	DDDDDDDDDDDDDDDDDDDDDDDDDD
+0009a29c	@@@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDDD
+0009a2c9	@@@@@Hp
+0009a2d9	@@@@G
+0009a2df	@@@@O
+0009a2e6	@@@@@@@@
+0009a302	DDDDDDDDDDDDDDDDDDDDDDDDD
+0009a344	@@@@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDDD
+0009a371	@@@@@Hp
+0009a381	@@@@@
+0009a387	@@@@O
+0009a38e	@@@@@@@@
+0009a3ab	DDDDDDDDDDDDDDDDDDDDDDDD
+0009a3ec	@@@@@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDDD
+0009a419	@@@@@Hp
+0009a429	@@@@G
+0009a42f	@@@@O
+0009a436	@@@@@@@@
+0009a454	DDDDDDDDDDDDDDDDDDDDDDD
+0009a494	@@@@@@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDDD
+0009a4c1	@@@@@Hp
+0009a4d6	@@@@@O
+0009a4de	@@@@@@@@
+0009a4fd	DDDDDDDDDDDDDDDDDDDDDD
+0009a53c	@@@@@@@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDDDD
+0009a569	@@@@@Hp
+0009a57c	@@@@@@@O
+0009a586	@@@@@@@@
+0009a5a6	DDDDDDDDDDDDDDDDDDDDD
+0009a5e4	@@@@@@@@@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDDDD
+0009a611	@@@@@Hp
+0009a622	p@@@@@@@@O
+0009a62e	@@@@@@@@
+0009a650	DDDDDDDDDDDDDDDDDDD
+0009a68c	@@@@@@@@@@@@@@@@@@@@@@@@@DDDDDDDDDDDDDDDDDD
+0009a6b9	@@@@@H
+0009a6c9	@@@@@@@@@@O
+0009a6d6	@@@@@@@@
+0009a6fc	DDDDDDDDDDDDDDD
+0009a734	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@DDDDDDDDDDDDD
+0009a761	@@@@@G
+0009a76f	p@@@@@@@@@@@O
+0009a77e	@@@@@@@@
+0009a7dc	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+0009a809	@@@@@@
+0009a816	@@@@@@@@@@@@@O
+0009a826	@@@@@@@@
+0009a884	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+0009a8b1	@@@@@@@@@@@@@@@@@@@@@@@@@@O
+0009a8ce	@@@@@@@@
+0009a92c	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+0009a959	@@@@@@@@@@@@@@@@@@@@@@@@@@O
+0009a976	@@@@@@@@
+0009a9d4	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+0009aa01	@@@@@@@@@@@@@@@@@@@@@@@@@@O
+0009aa1e	@@@@@@@@
+0009aa7c	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+0009aac6	@@@@@@@@
+0009ab24	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+0009ab6e	@@@@@@@@
+0009abcc	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+0009ac74	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+0009ad1c	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+0009adc4	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+0009ae6c	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+0009af14	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+0009afbc	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+0009b064	@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+0009b161	!This program cannot be run in DOS mode.
+0009b197	cXN`0XN`0XN`0XNa0mN`0
+0009b1ad	A=0UN`0
+0009b1b5	mP0]N`0
+0009b1bd	Hf0YN`0
+0009b1c5	nd0YN`0RichXN`0
+0009b2e4	.text
+0009b30b	`.rdata
+0009b333	@.data
+0009b35c	.rsrc
+0009b383	@.reloc
+0009b608	TSVWj
+0009c97a	SetCurrentDirectoryA
+0009c992	GetCurrentDirectoryA
+0009c9aa	lstrcpyA
+0009c9b6	GetFileAttributesA
+0009c9cc	lstrcmpiA
+0009c9d8	MulDiv
+0009c9e2	lstrlenA
+0009c9ee	HeapFree
+0009c9fa	GetProcessHeap
+0009ca0c	HeapAlloc
+0009ca18	HeapReAlloc
+0009ca26	GlobalFree
+0009ca34	lstrcpynA
+0009ca40	GlobalAlloc
+0009ca4c	KERNEL32.dll
+0009ca5c	SendMessageA
+0009ca6c	CharNextA
+0009ca78	GetClientRect
+0009ca88	MapDialogRect
+0009ca98	CharPrevA
+0009caa4	GetPropA
+0009cab0	DestroyWindow
+0009cac0	CallWindowProcA
+0009cad2	SetCursor
+0009cade	LoadCursorA
+0009caec	RemovePropA
+0009cafa	DrawFocusRect
+0009cb0a	GetWindowLongA
+0009cb1c	DrawTextA
+0009cb28	GetWindowTextA
+0009cb3a	GetDlgItem
+0009cb48	SetWindowLongA
+0009cb5a	SetWindowPos
+0009cb6a	CreateDialogParamA
+0009cb80	MapWindowPoints
+0009cb92	GetWindowRect
+0009cba2	SetPropA
+0009cbae	CreateWindowExA
+0009cbc0	IsWindow
+0009cbcc	SetTimer
+0009cbd8	KillTimer
+0009cbe4	DispatchMessageA
+0009cbf8	TranslateMessage
+0009cc0c	GetMessageA
+0009cc1a	IsDialogMessageA
+0009cc2e	ShowWindow
+0009cc3c	wsprintfA
+0009cc46	USER32.dll
+0009cc54	SetTextColor
+0009cc62	GDI32.dll
+0009cc6e	SHGetPathFromIDListA
+0009cc86	SHBrowseForFolderA
+0009cc9a	SHELL32.dll
+0009cca8	CommDlgExtendedError
+0009ccc0	GetSaveFileNameA
+0009ccd4	GetOpenFileNameA
+0009cce6	comdlg32.dll
+0009ccf6	CoTaskMemFree
+0009cd04	ole32.dll
+0009cdd2	nsDialogs.dll
+0009cde0	Create
+0009cde7	CreateControl
+0009cdf5	CreateItem
+0009ce00	CreateTimer
+0009ce0c	GetUserData
+0009ce18	KillTimer
+0009ce22	OnBack
+0009ce29	OnChange
+0009ce32	OnClick
+0009ce3a	OnNotify
+0009ce43	SelectFileDialog
+0009ce54	SelectFolderDialog
+0009ce67	SetRTL
+0009ce6e	SetUserData
+0009cf14	error
+0009cf1c	All Files|*.*
+0009cf34	NSIS: nsControl pointer property
+0009cf60	STATIC
+0009cf68	RICHEDIT_CLASS
+0009cf78	RichEdit
+0009cf84	LISTBOX
+0009cf8c	COMBOBOX
+0009cfa0	BUTTON
+0009d18e	MS Shell Dlg
+0009d31d	0/070?0
+0009d337	1 1c1j1q1|1
+0009d361	2)262=2I2d2j273A3c3
+0009d383	474=4N4T4Z4a4h4n4t4
+0009d39b	4$5*5=5
+0009d3a5	6`6i6
+0009d3b1	7&7/747=7J7d7p7u7~7
+0009d3e1	8!8'8-848:8?8E8\8d8s8z8
+0009d407	9!9/9G9V9n9}9
+0009d423	:(:;:Y:g:s:~:
+0009d449	;J;};
+0009d45d	<2<e<s<{<
+0009d48d	>)>1>>>D>T>Y>b>
+0009d769	!This program cannot be run in DOS mode.
+0009d7dc	Richm
+0009d8f4	.text
+0009d91b	`.rdata
+0009d943	@.data
+0009d96c	.reloc
+0009dc5e	tMHHt1Hue
+0009ddab	P[Z^YX
+0009df85	P[Z^XYQ
+0009e562	t<VWj
+0009e63e	<~t$<!t 
+0009e67c	tlHt4
+0009e734	<tgHtVHt3
+0009ea36	Bt=IIt
+0009ea4c	IIu.j@
+0009ee34	u#h$@
+0009f04b	PWPUj
+0009f0da	_^][Y
+0009f163	Ht|HtcHt
+0009f1b3	QQPUPWQQ
+0009f1d1	WWPUP
+0009f284	_^][Y
+0009f45a	u;h<@
+0009fa3a	GlobalAlloc
+0009fa48	GlobalFree
+0009fa56	GlobalSize
+0009fa64	GetLastError
+0009fa74	lstrcpyA
+0009fa80	lstrcpynA
+0009fa8c	FreeLibrary
+0009fa9a	lstrcatA
+0009faa6	GetProcAddress
+0009fab8	LoadLibraryA
+0009fac8	GetModuleHandleA
+0009fadc	MultiByteToWideChar
+0009faf2	lstrlenA
+0009fafe	WideCharToMultiByte
+0009fb14	VirtualAlloc
+0009fb24	VirtualProtect
+0009fb34	KERNEL32.dll
+0009fb44	wsprintfA
+0009fb4e	USER32.dll
+0009fb5c	CLSIDFromString
+0009fb6e	StringFromGUID2
+0009fb7e	ole32.dll
+0009fbfa	System.dll
+0009fc05	Alloc
+0009fc1e	Int64Op
+0009fc26	Store
+0009fd28	callback%d
+0009fd34	error
+0009ff27	0#070@0
+0009ff45	1S1Y1b1g1
+0009ff5d	2/252H2P2
+0009ff79	3E3b3k3
+0009ff97	5!5*505=5C5K5\5b5
+0009ffbf	5$61686
+0009ffc7	888?8
+0009ffe3	9*9V9o9
+000a0003	<*>v>
+000a001d	0.1u2
+000a0029	3"3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+000a0063	5!5+595H5U5\5
+000a0073	5Z6a6n6y6
+000a0093	7*7S7~7
+000a00a1	838:9A9J9P9X9^9c9h9m9r9w9
+000a03ea	thawte, Inc.1(0&
+000a0401	Certification Services Division1806
+000a042a	/(c) 2006 thawte, Inc. - For authorized use only1
+000a0465	thawte Primary Root CA0
+000a047f	131210000000Z
+000a048e	231209235959Z0L1
+000a04b5	thawte, Inc.1&0$
+000a04cc	thawte SHA256 Code Signing CA0
+000a0635	http://t2.symcb.com0
+000a0664	+0)0'
+000a066e	!http://t1.symcb.com/ThawtePCA.crl0
+000a06d9	SymantecPKI-1-5680
+000a07fe	UwM^6)
+000a0807	EArWu
+000a0886	thawte, Inc.1&0$
+000a089d	thawte SHA256 Code Signing CA0
+000a08be	151112000000Z
+000a08cd	171211235959Z0
+000a08f5	SEOUL1
+000a0905	Gangnam-gu1
+000a093b	IT Team1
+000a0a2e	Da`&D
+000a0ae4	$0"0 
+000a0aef	http://tl.symcb.com/tl.crl0
+000a0b36	l0j0h
+000a0b58	https://www.thawte.com/cps0/
+000a0b81	!https://www.thawte.com/repository0
+000a0be0	http://tl.symcd.com0&
+000a0c01	http://tl.symcb.com/tl.crt0
+000a0ca7	'IlB,
+000a0d3a	0`0L1
+000a0d56	thawte, Inc.1&0$
+000a0d6d	thawte SHA256 Code Signing CA
+000a0e0e	TGPBby T
+000a0e51	\t!Fl
+000a0e89	UVni1^
+000a0ec6	":`s 

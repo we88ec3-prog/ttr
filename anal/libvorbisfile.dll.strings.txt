@@ -1,0 +1,449 @@
+0000004d	!This program cannot be run in DOS mode.
+000001e0	.text
+00000207	`.rdata
+0000022f	@.data
+00000258	.rsrc
+0000027f	@.reloc
+0000074a	t$RVWQ
+00000de1	},I98
+00000fea	U,RWPS
+00001421	^h9^Xum
+00001434	9F\tS
+00001706	9~HtV
+0000191f	F;w4|
+000019af	F;w4|
+00001ccf	9~X|D
+00001ce3	9F\t'
+0000247c	;F\u(
+00002522	VT9~T
+00002940	;s4}KW3
+0000298c	;s4_t
+00002a20	;s4}KW3
+00002a6c	;s4_t
+00002c80	S9~Xu
+00003186	^h9~Xuc
+00003199	9F\tI
+000037de	^h9~Xu6
+00003ad4	^h9~Xu2
+0000467c	QRPV3
+00004826	SVWhP2
+000048ab	9~X~B
+000048f4	S9~4~%3
+00004919	 ;~4|
+00004b15	;N4}'
+00005ffb	u WPS
+00006024	u&WVS
+0000670c	PPPPP
+00006805	uTVWhC
+00006ac6	PPPPP
+00006b47	^SSSSS
+00006fe7	PPPPP
+000077ea	VVVVV
+0000798f	~,WPV
+00007cff	Y__^[
+00008240	j@j ^V
+000082a6	SWf9M
+00008ec4	<at,<rt"<wt
+00008f36	tRHtC
+00008fc3	tEHt0
+00009066	>=unF
+0000927f	URPQQh
+00009528	tWItHIt9It 
+000098cc	t?VSP
+00009926	PPPPP
+00009a57	< tK<
+00009ba1	wf93t
+00009bc6	@PSVV
+0000a28e	Y_^[]
+0000afff	u}h\B
+0000b559	SSSSW
+0000b601	SSSSW
+0000bc29	PPPPP
+0000cc04	tCHt(Ht 
+0000d2b3	SSSSS
+0000d4c8	r+f;p
+0000d53f	r+f;H
+0000d733	SVWUj
+0000d7d4	;t$,v-
+0000d859	UQPXY]Y[
+0000da18	X 9} 
+0000e78b	9](SS
+0000e8d1	t"SS9] u
+0000e991	9] SS
+0000f794	<+t"<-t
+0000f89b	+t HHt
+0000fe41	PPPPP
+00011116	PPPPPPPP
+000111f6	PPPPPPPP
+000118b4	KERNEL32.DLL
+000118d0	FlsFree
+000118d8	FlsSetValue
+000118e4	FlsGetValue
+000118f0	FlsAlloc
+000118fc	CorExitProcess
+0001190c	mscoree.dll
+00011924	runtime error 
+0001194c	TLOSS error
+00011968	SING error
+00011984	DOMAIN error
+000119a8	R6033
+000119b6	- Attempt to use MSIL code from this assembly during native code initialization
+00011a56	This indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.
+00011b98	R6032
+00011ba6	- not enough space for locale information
+00011c00	R6031
+00011c0e	- Attempt to initialize the CRT more than once.
+00011c6e	This indicates a bug in your application.
+00011cc8	R6030
+00011cd6	- CRT not initialized
+00011d08	R6028
+00011d16	- unable to initialize heap
+00011d58	R6027
+00011d66	- not enough space for lowio initialization
+00011dc8	R6026
+00011dd6	- not enough space for stdio initialization
+00011e38	R6025
+00011e46	- pure virtual function call
+00011e88	R6024
+00011e96	- not enough space for _onexit/atexit table
+00011ef8	R6019
+00011f06	- unable to open console device
+00011f50	R6018
+00011f5e	- unexpected heap error
+00011f98	R6017
+00011fa6	- unexpected multithread lock error
+00011ff8	R6016
+00012006	- not enough space for thread data
+00012050	R6010
+0001205e	- abort() has been called
+00012098	R6009
+000120a6	- not enough space for environment
+000120f0	R6008
+000120fe	- not enough space for arguments
+00012148	R6002
+00012156	- floating point support not loaded
+00012258	Microsoft Visual C++ Runtime Library
+000122b4	<program name unknown>
+000122e4	Runtime Error!
+00012304	Program: 
+00012318	e+000
+0001232c	UTF-8
+00012334	UTF-16LE
+00012340	UNICODE
+000123c4	floor
+000123dc	exp10
+000123f8	log10
+000124a8	HH:mm:ss
+000124bc	dddd, MMMM dd, yyyy
+000124e4	MM/dd/yy
+00012508	December
+0001251c	November
+00012530	October
+00012540	September
+00012554	August
+0001257c	April
+00012588	March
+00012594	February
+000125a8	January
+00012618	Saturday
+0001262c	Friday
+0001263c	Thursday
+00012650	Wednesday
+00012664	Tuesday
+00012674	Monday
+00012684	Sunday
+000126cc	HH:mm:ss
+000126d8	dddd, MMMM dd, yyyy
+000126ec	MM/dd/yy
+00012700	December
+0001270c	November
+00012718	October
+00012720	September
+0001272c	August
+00012744	April
+0001274c	March
+00012754	February
+00012760	January
+00012798	Saturday
+000127a4	Friday
+000127ac	Thursday
+000127b8	Wednesday
+000127c4	Tuesday
+000127cc	Monday
+000127d4	Sunday
+000127f8	GetProcessWindowStation
+00012810	GetUserObjectInformationW
+0001282c	GetLastActivePopup
+00012840	GetActiveWindow
+00012850	MessageBoxW
+0001285a	WUSER32.DLL
+00012874	_nextafter
+00012880	_logb
+00012894	frexp
+000128a4	_hypot
+000128ac	_cabs
+000128b4	ldexp
+000128cc	atan2
+000129f0	         (((((                  H
+00012bf2	         h((((                  H
+00012cf0	                                 H
+00012e98	 !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+00013018	 !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+00013117	 !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+00013178	1#QNAN
+00013180	1#INF
+00013188	1#IND
+00013190	1#SNAN
+00013198	CONOUT$
+00013208	G:\Libraries\oggvorbis_bs\Solution_vc100\Release\libvorbisfile.pdb
+0001385a	ogg_sync_wrote
+0001386c	ogg_sync_buffer
+0001387e	ogg_sync_reset
+00013890	ogg_sync_pageseek
+000138a4	ogg_page_serialno
+000138b8	ogg_page_granulepos
+000138ce	ogg_stream_packetout
+000138e6	ogg_stream_pagein
+000138fa	ogg_stream_reset_serialno
+00013916	ogg_page_bos
+00013926	ogg_sync_clear
+00013938	ogg_stream_clear
+0001394c	ogg_page_eos
+0001395c	ogg_stream_reset
+00013970	ogg_stream_init
+00013982	ogg_page_continued
+00013998	ogg_stream_packetpeek
+000139b0	ogg_sync_init
+000139be	libogg.dll
+000139cc	vorbis_comment_clear
+000139e4	vorbis_info_clear
+000139f8	vorbis_synthesis_headerin
+00013a14	vorbis_synthesis_idheader
+00013a30	vorbis_comment_init
+00013a46	vorbis_info_init
+00013a5a	vorbis_packet_blocksize
+00013a74	vorbis_block_init
+00013a88	vorbis_synthesis_init
+00013aa0	vorbis_block_clear
+00013ab6	vorbis_dsp_clear
+00013aca	vorbis_synthesis_blockin
+00013ae6	vorbis_synthesis_pcmout
+00013b00	vorbis_synthesis
+00013b14	vorbis_synthesis_halfrate_p
+00013b32	vorbis_synthesis_restart
+00013b4e	vorbis_synthesis_read
+00013b66	vorbis_synthesis_trackonly
+00013b84	vorbis_info_blocksize
+00013b9c	vorbis_synthesis_lapout
+00013bb6	vorbis_window
+00013bc6	vorbis_synthesis_halfrate
+00013be0	libvorbis.dll
+00013bf0	HeapAlloc
+00013bfc	GetLastError
+00013c0c	HeapReAlloc
+00013c1a	HeapFree
+00013c26	GetCurrentThreadId
+00013c3c	DecodePointer
+00013c4c	GetCommandLineA
+00013c5e	EncodePointer
+00013c6e	TlsAlloc
+00013c7a	TlsGetValue
+00013c88	TlsSetValue
+00013c96	TlsFree
+00013ca0	InterlockedIncrement
+00013cb8	GetModuleHandleW
+00013ccc	SetLastError
+00013cdc	InterlockedDecrement
+00013cf4	GetProcAddress
+00013d06	UnhandledExceptionFilter
+00013d22	SetUnhandledExceptionFilter
+00013d40	IsDebuggerPresent
+00013d54	TerminateProcess
+00013d68	GetCurrentProcess
+00013d7c	ExitProcess
+00013d8a	WriteFile
+00013d96	GetStdHandle
+00013da6	GetModuleFileNameW
+00013dbc	HeapCreate
+00013dca	HeapDestroy
+00013dd8	SetFilePointer
+00013dea	EnterCriticalSection
+00013e02	LeaveCriticalSection
+00013e1a	IsProcessorFeaturePresent
+00013e36	SetHandleCount
+00013e48	InitializeCriticalSectionAndSpinCount
+00013e70	GetFileType
+00013e7e	GetStartupInfoW
+00013e90	DeleteCriticalSection
+00013ea8	CloseHandle
+00013eb6	MultiByteToWideChar
+00013ecc	ReadFile
+00013ed8	RtlUnwind
+00013ee4	Sleep
+00013eec	GetModuleFileNameA
+00013f02	FreeEnvironmentStringsW
+00013f1c	WideCharToMultiByte
+00013f32	GetEnvironmentStringsW
+00013f4c	QueryPerformanceCounter
+00013f66	GetTickCount
+00013f76	GetCurrentProcessId
+00013f8c	GetSystemTimeAsFileTime
+00013fa6	GetCPInfo
+00013fb2	GetACP
+00013fbc	GetOEMCP
+00013fc8	IsValidCodePage
+00013fda	LoadLibraryW
+00013fea	SetStdHandle
+00013ffa	GetConsoleCP
+0001400a	GetConsoleMode
+0001401c	FlushFileBuffers
+00014030	CreateFileA
+0001403e	RaiseException
+00014050	LCMapStringW
+00014060	GetStringTypeW
+00014072	HeapSize
+0001407e	WriteConsoleW
+0001408e	SetEndOfFile
+0001409e	GetProcessHeap
+000140b0	CreateFileW
+000140bc	KERNEL32.dll
+00014256	libvorbisfile.dll
+00014268	ov_bitrate
+00014273	ov_bitrate_instant
+00014286	ov_clear
+0001428f	ov_comment
+0001429a	ov_crosslap
+000142a6	ov_fopen
+000142af	ov_halfrate
+000142bb	ov_halfrate_p
+000142c9	ov_info
+000142d1	ov_open
+000142d9	ov_open_callbacks
+000142eb	ov_pcm_seek
+000142f7	ov_pcm_seek_lap
+00014307	ov_pcm_seek_page
+00014318	ov_pcm_seek_page_lap
+0001432d	ov_pcm_tell
+00014339	ov_pcm_total
+00014346	ov_raw_seek
+00014352	ov_raw_seek_lap
+00014362	ov_raw_tell
+0001436e	ov_raw_total
+0001437b	ov_read
+00014383	ov_read_float
+00014391	ov_seekable
+0001439d	ov_serialnumber
+000143ad	ov_streams
+000143b8	ov_test
+000143c0	ov_test_callbacks
+000143d2	ov_test_open
+000143df	ov_time_seek
+000143ec	ov_time_seek_lap
+000143fd	ov_time_seek_page
+0001440f	ov_time_seek_page_lap
+00014425	ov_time_tell
+00014432	ov_time_total
+00014f76	                          
+00015056	abcdefghijklmnopqrstuvwxyz
+00015076	ABCDEFGHIJKLMNOPQRSTUVWXYZ
+0001517a	                          
+00015261	abcdefghijklmnopqrstuvwxyz
+00015281	ABCDEFGHIJKLMNOPQRSTUVWXYZ
+0001580e	z?aUY
+00015850	zc%C1
+000158a3	-64OS
+00015a58	<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+00015aa3	  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+00015adb	    <security>
+00015aeb	      <requestedPrivileges>
+00015b08	        <requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
+00015b68	      </requestedPrivileges>
+00015b86	    </security>
+00015b97	  </trustInfo>
+00015ba7	</assembly>PAPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPAD
+00015c08	p4Z6z6
+00015c19	7V7[9
+00015c33	>:>W>
+00015c4d	3*4K4Y4b4g4
+00015c65	7V8\8b8h8n8t8z8
+00015ca9	9"9(9.949:9@9Q9m9
+00015ccf	:";(;:;
+00015ce5	<$<(<-<3<7<=<A<G<K<Q<U<
+00015d05	>:?l?
+00015d2b	0 0$0(0,000z0
+00015d47	1$1(1,1M1w1
+00015d67	2 2$2(2o3
+00015d7d	9J9c9
+00015d89	:$:\:a:k:
+00015d9b	;5;;;A;V;
+00015dcb	=$=.=4=>=`=u=
+00015de3	>->E>k>
+00015def	?J?R?
+00015e13	0%0*02080?0E0L0R0Z0a0f0n0w0
+00015e57	1 1)1I1O1g1
+00015e73	2 3&3/363X3
+00015e8d	454?4U4`4z4
+00015ea7	5$5>5E5p5
+00015eb5	6Y6q6{6
+00015ec9	797V7
+00015edb	8)868<8
+00015f01	3'444T4n4
+00015f0f	6;6F6i6
+00015f1b	7"7/7;7K7R7a7m7z7
+00015f37	868E8N8r8
+00015f51	:];b;u;{;
+00015f83	<&<+<;<@<F<L<b<i<
+00015f99	=<>b>h>
+00015fa7	>:?D?o?
+00015fc1	090\0b0w0
+00015fd1	1#1;1d1
+00015fe3	3n5$6.6
+00015fed	6h7u7J8T8
+00015ff7	829d9
+00015fff	:J<s<
+00016009	=4=V=a=
+00016047	1D1M1V1l1
+00016067	2Z2^2b2f2j2n2r2v2z2~2
+00016095	3*434?4W4f4
+000160b9	7p7v7
+000160c5	8!8&8G8L8
+000160d5	:&:.:::c:k:{:
+000160f3	; ;&;/;B;f;
+00016103	<*<v<
+0001610b	=a=$>R>
+00016139	272B2L2e2o2
+0001615d	5/5J5R5Z5q5
+00016177	5"636@6I6
+00016195	6<7A7{7
+000161b7	8<9A9J9Y9|9
+000161df	<.<6<<<F<L<V<\<f<o<z<
+00016229	393_3}3
+00016249	3b4m4
+0001625d	5 5$5(5,5054585<5
+00016281	:;:N:f:
+0001628f	;6;c;
+0001629d	; <2<n<
+000162c7	1b223c3y3
+000162d9	4J5t5
+000162e3	5#6D6M6t6
+000162f3	6I7V7o7.9
+000162ff	:,:K:]:p:
+00016313	>8>X>b>y>
+00016331	3%4?4H4
+00016351	=#=5=[=h=v=
+00016371	2+2=2O2a2s2
+000163a1	7|8p9x9):
+000163af	;I<O<]<
+000163d7	1J2a2
+000163e3	5>9B9F9J9N9R9V9Z9^9b9f9j9w99:a:q:
+0001641f	7:8]8
+00016427	8\9c9
+00016440	#0)0.040E0
+00016481	<$<,<4<<<D<L<T< =$=
+000164a9	=(=D=H=h=t=
+000164bf	> >@>`>
+000164d1	? ?@?\?`?
+000164ed	0(0D0H0
+0001654b	7 7$7(7,7074787<7@7D7H7L7P7T7X7h7l7p7t7x7|7
+000165d5	8 =L>T>\>d>l>t>|>
+0001660d	?$?,?
